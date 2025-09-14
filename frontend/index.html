@@ -1566,15 +1566,9 @@
 
         // 将搜索词转换为标准格式
         function normalizeSearchTerm(term) {
-            let normalized = term;
-            
-            // 替换年级相关的词
-            Object.keys(gradeMap).forEach(key => {
-                const regex = new RegExp(key + '年级', 'g');
-                normalized = normalized.replace(regex, gradeMap[key] + '年级');
-            });
-            
-            return normalized;
+            // 不再进行年级的数字转换，保持原样
+            // 这样"三年级"就能匹配数据中的"三年级"
+            return term;
         }
 
         // 检查是否匹配搜索
@@ -1600,18 +1594,37 @@
                 }
                 
                 // 对年级进行特殊处理
-                const gradeMatch = term.match(/([一二三四五六七八九123456789])年级/);
-                if (gradeMatch) {
-                    const gradeNum = gradeMap[gradeMatch[1]];
-                    if (gradeNum && textbook.gradeStr && textbook.gradeStr.includes(gradeMatch[0])) {
-                        return true;
+                // 支持"一年级"、"1年级"、"一"、"1"等多种输入方式
+                const gradeMatch = term.match(/([一二三四五六七八九123456789])年级?/);
+                if (gradeMatch && textbook.gradeStr) {
+                    const inputGrade = gradeMatch[1];
+                    const gradeNum = gradeMap[inputGrade];
+                    
+                    if (gradeNum) {
+                        // 获取对应的中文数字
+                        const chineseNum = Object.keys(gradeMap).find(key => 
+                            gradeMap[key] === gradeNum && ['一','二','三','四','五','六','七','八','九'].includes(key)
+                        );
+                        
+                        // 检查多种可能的匹配
+                        if (textbook.gradeStr.includes(inputGrade + '年级') || // 直接匹配（如"三年级"）
+                            textbook.gradeStr.includes(gradeNum + '年级') || // 数字匹配（如"3年级"）
+                            (chineseNum && textbook.gradeStr.includes(chineseNum + '年级'))) { // 中文匹配
+                            return true;
+                        }
                     }
                 }
                 
-                // 检查是否只输入了年级数字
+                // 检查是否只输入了年级数字或中文
                 if (gradeMap[term] && textbook.gradeStr) {
-                    const gradeText = gradeMap[term] + '年级';
-                    if (textbook.gradeStr.includes(gradeText)) {
+                    const gradeNum = gradeMap[term];
+                    const chineseNum = Object.keys(gradeMap).find(key => 
+                        gradeMap[key] === gradeNum && ['一','二','三','四','五','六','七','八','九'].includes(key)
+                    );
+                    
+                    if (textbook.gradeStr.includes(term + '年级') || 
+                        textbook.gradeStr.includes(gradeNum + '年级') ||
+                        (chineseNum && textbook.gradeStr.includes(chineseNum + '年级'))) {
                         return true;
                     }
                 }

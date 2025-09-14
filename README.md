@@ -188,4 +188,4 @@ python batch_downloader.py --token "TOKEN" --retry-failed
 本工具仅供学习研究使用，请勿用于商业用途。所有下载内容版权归原作者所有。
 
 ## 公众号
-![伟贤AI之路](images/mp.jpg)
+![伟贤AI之路](images/关注公众号.jpg)
