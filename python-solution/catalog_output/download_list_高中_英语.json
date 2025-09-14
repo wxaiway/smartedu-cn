@@ -1,0 +1,342 @@
+{
+  "group": "高中_英语",
+  "count": 56,
+  "books": [
+    {
+      "id": "8e62f140-1990-411e-8831-59a69bb53c1d",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8e62f140-1990-411e-8831-59a69bb53c1d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "144425f4-87a0-4a3a-82b7-ea7be112856c",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=144425f4-87a0-4a3a-82b7-ea7be112856c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bf54b36f-4c75-4c91-8b9c-53ce15e4f903",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bf54b36f-4c75-4c91-8b9c-53ce15e4f903&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec1adf40-7bf0-48a4-9902-89162f59277d",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec1adf40-7bf0-48a4-9902-89162f59277d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d537335-d02c-4774-85e2-7554c86fea7e",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0d537335-d02c-4774-85e2-7554c86fea7e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "671e59b0-608f-49c6-8f23-e076decf27e2",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=671e59b0-608f-49c6-8f23-e076decf27e2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5f0829b2-fc05-479b-a51e-47f871598eba",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 人教版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5f0829b2-fc05-479b-a51e-47f871598eba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e37af837-2671-4018-af45-c82356546822",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e37af837-2671-4018-af45-c82356546822&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f8c5c17e-8444-4b76-ba3a-5d6a9fce30e1",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f8c5c17e-8444-4b76-ba3a-5d6a9fce30e1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1e2e7507-0db6-4505-af12-87baac887bc1",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1e2e7507-0db6-4505-af12-87baac887bc1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f875a73c-bc44-4759-914c-6ee190f37360",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f875a73c-bc44-4759-914c-6ee190f37360&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1cf7d948-dffd-4707-bef6-d044c63797ee",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1cf7d948-dffd-4707-bef6-d044c63797ee&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e6a806b5-71b8-41f3-9ea6-ac31d07b23bd",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e6a806b5-71b8-41f3-9ea6-ac31d07b23bd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8ffa10a-2847-477b-9cbb-31b1cac42a20",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 北师大版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8ffa10a-2847-477b-9cbb-31b1cac42a20&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d33e4538-ed9b-413f-813d-63929d3135d6",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d33e4538-ed9b-413f-813d-63929d3135d6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4c0aa9c6-dac6-4907-af0a-576dba1074d4",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4c0aa9c6-dac6-4907-af0a-576dba1074d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "889eca45-d327-4e23-9b7d-81ab9ec5eb5d",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=889eca45-d327-4e23-9b7d-81ab9ec5eb5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c3d289ec-97ba-40f4-b068-1bd6a2405b11",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c3d289ec-97ba-40f4-b068-1bd6a2405b11&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3833818d-30c5-4e08-a9b3-2da808a9e6d3",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3833818d-30c5-4e08-a9b3-2da808a9e6d3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1d9499b-2d8e-49c0-986a-8434ec95c8b7",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1d9499b-2d8e-49c0-986a-8434ec95c8b7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec94b647-8ff5-427f-a1a1-8e8bae07013f",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 外研社版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec94b647-8ff5-427f-a1a1-8e8bae07013f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cd1feeb4-b1db-4a44-9694-9d8c35ab02f5",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cd1feeb4-b1db-4a44-9694-9d8c35ab02f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0cbeba0b-b97b-4289-9b4e-f3a96f1e5b85",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0cbeba0b-b97b-4289-9b4e-f3a96f1e5b85&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "35590078-42c3-4778-aa6b-5330fe4b8b5c",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=35590078-42c3-4778-aa6b-5330fe4b8b5c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c7b457b-b325-4fe5-8a98-777bc9a43a3b",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c7b457b-b325-4fe5-8a98-777bc9a43a3b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f5cf58a2-7084-4961-9b85-188262aee41b",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f5cf58a2-7084-4961-9b85-188262aee41b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d6da38b7-c9c4-49c9-8a30-53339903376a",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6da38b7-c9c4-49c9-8a30-53339903376a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1a758899-7438-4f8b-9c2a-eb19ffb71b11",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 译林版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1a758899-7438-4f8b-9c2a-eb19ffb71b11&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b5e3de75-30a9-43e3-84e7-3d434be4fc26",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b5e3de75-30a9-43e3-84e7-3d434be4fc26&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7937d429-6eb5-488a-bb34-012a18e2dff9",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7937d429-6eb5-488a-bb34-012a18e2dff9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03f1440b-972d-4200-95d9-be54c5a45291",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03f1440b-972d-4200-95d9-be54c5a45291&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "896fab67-95a4-4dea-8352-674712beae14",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=896fab67-95a4-4dea-8352-674712beae14&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bfb3f0ef-ef21-460a-81dc-aef708da1976",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bfb3f0ef-ef21-460a-81dc-aef708da1976&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3027e9a6-73f4-4d2d-a183-26db604d37b8",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3027e9a6-73f4-4d2d-a183-26db604d37b8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d275d16-4907-4596-8a98-345322326a74",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 冀教版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0d275d16-4907-4596-8a98-345322326a74&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2242421b-b3c6-4539-80f4-1c97547c77bf",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2242421b-b3c6-4539-80f4-1c97547c77bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "706b6a73-a09b-41f3-a8da-e78a5c0c10d1",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=706b6a73-a09b-41f3-a8da-e78a5c0c10d1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7d9dda0a-fe3f-43d8-ab01-eb5e32b268b3",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7d9dda0a-fe3f-43d8-ab01-eb5e32b268b3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b5e7a127-e926-4527-8d36-aedf32e720bc",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b5e7a127-e926-4527-8d36-aedf32e720bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4e2589f7-d5c8-4c4f-a5e3-9f7c9c98dc2b",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4e2589f7-d5c8-4c4f-a5e3-9f7c9c98dc2b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "df61a71e-a0cf-4280-9939-d96457babdc6",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=df61a71e-a0cf-4280-9939-d96457babdc6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "508e4bfd-eb17-4fd1-b558-d983701c85de",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 重庆大学版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=508e4bfd-eb17-4fd1-b558-d983701c85de&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "307302c5-ca49-4be1-9b45-6ffe702c3cc5",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=307302c5-ca49-4be1-9b45-6ffe702c3cc5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3d4ef8c1-f511-4723-9358-db926373495c",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3d4ef8c1-f511-4723-9358-db926373495c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e5a7d2a5-12fa-425a-87e0-2678ea9bbe33",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e5a7d2a5-12fa-425a-87e0-2678ea9bbe33&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a7e5c3d3-10f3-43b9-af25-40866cfe2eca",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a7e5c3d3-10f3-43b9-af25-40866cfe2eca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fbd6f377-5c21-4ff4-905a-90e3fdddfe3b",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fbd6f377-5c21-4ff4-905a-90e3fdddfe3b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "601a9768-27ca-4630-9d33-ecb1abd7977e",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=601a9768-27ca-4630-9d33-ecb1abd7977e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1dd3661a-77ff-49cc-acff-bc608fcdd9cf",
+      "title": "普通高中教科书·英语必修 第一册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1dd3661a-77ff-49cc-acff-bc608fcdd9cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "57f5a752-fa5f-44ad-aa8e-c5ae558a5502",
+      "title": "普通高中教科书·英语必修 第二册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=57f5a752-fa5f-44ad-aa8e-c5ae558a5502&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9d185c8c-7411-4966-b02f-906b712d1c73",
+      "title": "普通高中教科书·英语必修 第三册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9d185c8c-7411-4966-b02f-906b712d1c73&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "895724af-5bd3-4725-b731-5c488844ebdd",
+      "title": "普通高中教科书·英语选择性必修 第一册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=895724af-5bd3-4725-b731-5c488844ebdd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7b50fabf-45ad-4389-bcb4-17b788554fb6",
+      "title": "普通高中教科书·英语选择性必修 第二册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7b50fabf-45ad-4389-bcb4-17b788554fb6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "458394bd-4a13-4d5f-8441-4be3217b8ba5",
+      "title": "普通高中教科书·英语选择性必修 第三册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=458394bd-4a13-4d5f-8441-4be3217b8ba5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d438086a-ae1c-4cff-ac74-bba45d4e0caa",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 沪外教版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d438086a-ae1c-4cff-ac74-bba45d4e0caa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9b69b588-9343-48b5-91de-1bb5a89afd9d",
+      "title": "普通高中教科书·英语选择性必修 第四册",
+      "path": "高中 > 英语 > 沪教版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9b69b588-9343-48b5-91de-1bb5a89afd9d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

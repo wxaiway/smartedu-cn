@@ -1,0 +1,48 @@
+{
+  "group": "初中（五•四学制）_物理",
+  "count": 7,
+  "books": [
+    {
+      "id": "7d279671-e0d6-4bd7-8ccd-51ee34c5d147",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•物理八年级上册",
+      "path": "初中（五•四学制） > 物理 > 鲁科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7d279671-e0d6-4bd7-8ccd-51ee34c5d147&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3702d886-3f57-47ec-9f2d-c963ccb901ac",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·物理八年级下册",
+      "path": "初中（五•四学制） > 物理 > 鲁科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3702d886-3f57-47ec-9f2d-c963ccb901ac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1569fd57-173c-4a65-9184-eac9efe13c22",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·物理九年级上册",
+      "path": "初中（五•四学制） > 物理 > 鲁科版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1569fd57-173c-4a65-9184-eac9efe13c22&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8937fb8a-2f52-4d02-9341-65c3797a1e45",
+      "title": "义务教育教科书（五•四学制）·物理九年级下册",
+      "path": "初中（五•四学制） > 物理 > 鲁科版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8937fb8a-2f52-4d02-9341-65c3797a1e45&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7a46d123-5d71-1f68-24e7-e990b20f0b9b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•物理八年级上册",
+      "path": "初中（五•四学制） > 物理 > 沪科技版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7a46d123-5d71-1f68-24e7-e990b20f0b9b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5537cb12-34f9-0656-72ac-890d7ea5280a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•物理八年级下册",
+      "path": "初中（五•四学制） > 物理 > 沪科技版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5537cb12-34f9-0656-72ac-890d7ea5280a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8dedea4f-93b1-529b-bcb8-f3ce4be71279",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•物理九年级上册",
+      "path": "初中（五•四学制） > 物理 > 沪科技版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8dedea4f-93b1-529b-bcb8-f3ce4be71279&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

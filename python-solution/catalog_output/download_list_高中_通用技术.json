@@ -1,0 +1,396 @@
+{
+  "group": "高中_通用技术",
+  "count": 65,
+  "books": [
+    {
+      "id": "26352a91-1c95-4113-b6c8-533ac633a5cc",
+      "title": "普通高中教科书·通用技术必修 技术与设计1",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 必修 技术与设计1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=26352a91-1c95-4113-b6c8-533ac633a5cc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "00dd16cb-b7a1-4e96-af04-945bc38ab050",
+      "title": "普通高中教科书·通用技术必修 技术与设计2",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 必修 技术与设计2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=00dd16cb-b7a1-4e96-af04-945bc38ab050&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dbbd7fd4-0f23-4ea5-9d22-02ca4f678b10",
+      "title": "普通高中教科书·通用技术选择性必修1 电子控制技术",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修1 电子控制技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dbbd7fd4-0f23-4ea5-9d22-02ca4f678b10&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b6314a40-7121-4d5a-9acc-90da2f685e79",
+      "title": "普通高中教科书·通用技术选择性必修2 机器人设计与制作",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修2 机器人设计与制作",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b6314a40-7121-4d5a-9acc-90da2f685e79&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f45199b2-c579-4fb7-8677-fcc0b2751698",
+      "title": "普通高中教科书·通用技术选择性必修3 工程设计基础",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修3 工程设计基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f45199b2-c579-4fb7-8677-fcc0b2751698&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "472bf95e-2b0a-4bfb-930a-c690d68c8c87",
+      "title": "普通高中教科书·通用技术选择性必修4 现代家政技术",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修4 现代家政技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=472bf95e-2b0a-4bfb-930a-c690d68c8c87&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9fc19b14-ebe7-4855-9bcc-694ba15aefd7",
+      "title": "普通高中教科书·通用技术选择性必修5 服装及其设计",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修5 服装及其设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9fc19b14-ebe7-4855-9bcc-694ba15aefd7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7cf141ba-0094-4707-a81b-5e460841d330",
+      "title": "普通高中教科书·通用技术选择性必修6 智能家居应用设计",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修6 智能家居应用设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7cf141ba-0094-4707-a81b-5e460841d330&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "075fe496-2f35-4896-8d29-87771f57d259",
+      "title": "普通高中教科书·通用技术选择性必修7 职业技术基础",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修7 职业技术基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=075fe496-2f35-4896-8d29-87771f57d259&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1b8f49c6-466a-48b5-af3b-59ca9087a5d7",
+      "title": "普通高中教科书·通用技术选择性必修8 技术与职业探索",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修8 技术与职业探索",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1b8f49c6-466a-48b5-af3b-59ca9087a5d7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1ae131eb-728c-475a-ae51-d00c05f8a58f",
+      "title": "普通高中教科书·通用技术选择性必修9 创造力开发与技术发明",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修9 创造力开发与技术发明",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1ae131eb-728c-475a-ae51-d00c05f8a58f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9dc1380-30a2-48c8-912c-4a4bad4e4b30",
+      "title": "普通高中教科书·通用技术选择性必修10 科技人文融合创新专题",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修10 科技人文融合创新专题",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9dc1380-30a2-48c8-912c-4a4bad4e4b30&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "deebf227-9b4f-40bd-b08a-436fb1a7095b",
+      "title": "普通高中教科书·通用技术选择性必修11 产品三维设计与制造",
+      "path": "高中 > 通用技术 > 粤教粤科版 > 高中年级 > 选择性必修11 产品三维设计与制造",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=deebf227-9b4f-40bd-b08a-436fb1a7095b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c64f2184-3c37-4df6-81e0-8ff51218f626",
+      "title": "普通高中教科书·通用技术必修 技术与设计1",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 必修 技术与设计1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c64f2184-3c37-4df6-81e0-8ff51218f626&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "23d0eb12-12b0-419c-9681-50aaa6a30558",
+      "title": "普通高中教科书·通用技术必修 技术与设计2",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 必修 技术与设计2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=23d0eb12-12b0-419c-9681-50aaa6a30558&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1274f82-54f6-4bbc-9bfb-5c7657241928",
+      "title": "普通高中教科书·通用技术选择性必修1 电子控制技术",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修1 电子控制技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1274f82-54f6-4bbc-9bfb-5c7657241928&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "de2250ae-f5be-441a-a918-e25a204aafd7",
+      "title": "普通高中教科书·通用技术选择性必修2 机器人设计与制作",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修2 机器人设计与制作",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=de2250ae-f5be-441a-a918-e25a204aafd7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "840cf1b8-230f-4e93-af8e-e20faceba0c5",
+      "title": "普通高中教科书·通用技术选择性必修3 工程设计基础",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修3 工程设计基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=840cf1b8-230f-4e93-af8e-e20faceba0c5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e8df8431-e2c4-4d9a-aadd-794817728eea",
+      "title": "普通高中教科书·通用技术选择性必修4 现代家政技术",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修4 现代家政技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e8df8431-e2c4-4d9a-aadd-794817728eea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ebc5c7b6-803e-418f-a234-42fd48a629b2",
+      "title": "普通高中教科书·通用技术选择性必修5 服装及其设计",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修5 服装及其设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ebc5c7b6-803e-418f-a234-42fd48a629b2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ef546bf-dd04-4657-8994-6d28c213a53a",
+      "title": "普通高中教科书·通用技术选择性必修6 智能家居应用设计",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修6 智能家居应用设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ef546bf-dd04-4657-8994-6d28c213a53a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c86aa02e-5c5c-4fab-bce0-310e5b818b6e",
+      "title": "普通高中教科书·通用技术选择性必修7 职业技术基础",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修7 职业技术基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c86aa02e-5c5c-4fab-bce0-310e5b818b6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "abd908c2-6eff-42b7-9c70-66c2d3a23516",
+      "title": "普通高中教科书·通用技术选择性必修8 技术与职业探索",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修8 技术与职业探索",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=abd908c2-6eff-42b7-9c70-66c2d3a23516&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da5818e8-56d4-49f7-b812-77f07958334a",
+      "title": "普通高中教科书·通用技术选择性必修9 创造力开发与技术发明",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修9 创造力开发与技术发明",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da5818e8-56d4-49f7-b812-77f07958334a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d9fc27f-8d0f-4819-8a73-b0b749b38b3e",
+      "title": "普通高中教科书·通用技术选择性必修10 科技人文融合创新专题",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修10 科技人文融合创新专题",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4d9fc27f-8d0f-4819-8a73-b0b749b38b3e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4a462cf5-86d4-4df8-b585-d235900a3868",
+      "title": "普通高中教科书·通用技术选择性必修11 产品三维设计与制造",
+      "path": "高中 > 通用技术 > 苏教版 > 高中年级 > 选择性必修11 产品三维设计与制造",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4a462cf5-86d4-4df8-b585-d235900a3868&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "41bff268-ba43-4dd6-942c-4b7f9e722e71",
+      "title": "普通高中教科书·通用技术必修 技术与设计1",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 必修 技术与设计1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=41bff268-ba43-4dd6-942c-4b7f9e722e71&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e4276ca2-7cea-48ed-9669-358ef07334f8",
+      "title": "普通高中教科书·通用技术必修 技术与设计2",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 必修 技术与设计2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e4276ca2-7cea-48ed-9669-358ef07334f8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7279eeb-06a7-41db-9f37-4e428eb9aa1f",
+      "title": "普通高中教科书·通用技术选择性必修1 电子控制技术",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修1 电子控制技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7279eeb-06a7-41db-9f37-4e428eb9aa1f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01ffe060-ee9d-4acf-b366-67f9edf9e861",
+      "title": "普通高中教科书·通用技术选择性必修2 机器人设计与制作",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修2 机器人设计与制作",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01ffe060-ee9d-4acf-b366-67f9edf9e861&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea501cb3-2d14-43d9-a0ea-11a4c8325359",
+      "title": "普通高中教科书·通用技术选择性必修3 工程设计基础",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修3 工程设计基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea501cb3-2d14-43d9-a0ea-11a4c8325359&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc47a2d8-4578-4f97-ba06-dcd2428360f4",
+      "title": "普通高中教科书·通用技术选择性必修4 现代家政技术",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修4 现代家政技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc47a2d8-4578-4f97-ba06-dcd2428360f4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f6585301-61a1-4728-b61d-f46c0350299c",
+      "title": "普通高中教科书·通用技术选择性必修5 服装及其设计",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修5 服装及其设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f6585301-61a1-4728-b61d-f46c0350299c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7fae5a2e-2a81-440f-bef9-e9ec7f105cc1",
+      "title": "普通高中教科书·通用技术选择性必修6 智能家居应用设计",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修6 智能家居应用设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7fae5a2e-2a81-440f-bef9-e9ec7f105cc1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d8cbf267-88c1-4af9-ae65-25154051ac3b",
+      "title": "普通高中教科书·通用技术选择性必修7 职业技术基础",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修7 职业技术基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d8cbf267-88c1-4af9-ae65-25154051ac3b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a8d69ee9-d2c7-4fa0-841b-e9abba7266dc",
+      "title": "普通高中教科书·通用技术选择性必修8 技术与职业探索",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修8 技术与职业探索",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a8d69ee9-d2c7-4fa0-841b-e9abba7266dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c91510a-0f7f-4f21-af01-7244268b4140",
+      "title": "普通高中教科书·通用技术选择性必修9 创造力开发与技术发明",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修9 创造力开发与技术发明",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c91510a-0f7f-4f21-af01-7244268b4140&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a04570ab-c7b6-4e08-8d1d-214e307468ff",
+      "title": "普通高中教科书·通用技术选择性必修10 科技人文融合创新专题",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修10 科技人文融合创新专题",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a04570ab-c7b6-4e08-8d1d-214e307468ff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "292fb162-10d4-4a50-ba46-cbda3d6c53da",
+      "title": "普通高中教科书·通用技术选择性必修11 产品三维设计与制造",
+      "path": "高中 > 通用技术 > 豫科版 > 高中年级 > 选择性必修11 产品三维设计与制造",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=292fb162-10d4-4a50-ba46-cbda3d6c53da&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "873d1503-edc9-4311-a464-dd917307e9bc",
+      "title": "普通高中教科书·通用技术必修 技术与设计1",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 必修 技术与设计1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=873d1503-edc9-4311-a464-dd917307e9bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "54686158-059c-4d76-8021-7bc6571e8bd2",
+      "title": "普通高中教科书·通用技术必修 技术与设计2",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 必修 技术与设计2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=54686158-059c-4d76-8021-7bc6571e8bd2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c5f47403-cb81-4791-a3fb-b32313b7f58e",
+      "title": "普通高中教科书·通用技术选择性必修1 电子控制技术",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修1 电子控制技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c5f47403-cb81-4791-a3fb-b32313b7f58e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be3c1471-f026-498d-b04e-bda2529d977f",
+      "title": "普通高中教科书·通用技术选择性必修2 机器人设计与制作",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修2 机器人设计与制作",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=be3c1471-f026-498d-b04e-bda2529d977f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c0a99c19-37e7-4203-9d2a-cf0fedc0d8e6",
+      "title": "普通高中教科书·通用技术选择性必修3 工程设计基础",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修3 工程设计基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c0a99c19-37e7-4203-9d2a-cf0fedc0d8e6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9ca0bd4-b22b-411a-a788-607f97e3d963",
+      "title": "普通高中教科书·通用技术选择性必修4 现代家政技术",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修4 现代家政技术",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9ca0bd4-b22b-411a-a788-607f97e3d963&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1b547241-2822-4a3f-b316-2b279808a28f",
+      "title": "普通高中教科书·通用技术选择性必修5 服装及其设计",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修5 服装及其设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1b547241-2822-4a3f-b316-2b279808a28f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "af07b74b-2058-4593-920e-aac06d6d5080",
+      "title": "普通高中教科书·通用技术选择性必修6 智能家居应用设计",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修6 智能家居应用设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=af07b74b-2058-4593-920e-aac06d6d5080&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "06f0f115-50f8-4835-a3ee-9c280c0ef4a7",
+      "title": "普通高中教科书·通用技术选择性必修7 职业技术基础",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修7 职业技术基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=06f0f115-50f8-4835-a3ee-9c280c0ef4a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "34e12f11-61b8-45ba-9407-536a8db0796e",
+      "title": "普通高中教科书·通用技术选择性必修8 技术与职业探索",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修8 技术与职业探索",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=34e12f11-61b8-45ba-9407-536a8db0796e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5c55ebb8-95c6-4faf-9c3e-dfe3bdb67d0e",
+      "title": "普通高中教科书·通用技术选择性必修9 创造力开发与技术发明",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修9 创造力开发与技术发明",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5c55ebb8-95c6-4faf-9c3e-dfe3bdb67d0e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "16fb49eb-894f-49db-b792-cb47dd856e12",
+      "title": "普通高中教科书·通用技术选择性必修10 科技人文融合创新专题",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修10 科技人文融合创新专题",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=16fb49eb-894f-49db-b792-cb47dd856e12&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0ff5dbab-9e4b-4f87-a5dd-436b29db42ab",
+      "title": "普通高中教科书·通用技术选择性必修11 产品三维设计与制造",
+      "path": "高中 > 通用技术 > 地质社版 > 高中年级 > 选择性必修11 产品三维设计与制造",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0ff5dbab-9e4b-4f87-a5dd-436b29db42ab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b0c8beb3-8e91-4e1a-b785-9dcd7a3d1e51",
+      "title": "普通高中教科书·通用技术必修 技术与设计1",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 必修 技术与设计1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b0c8beb3-8e91-4e1a-b785-9dcd7a3d1e51&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "80cc21f6-ca92-4d27-87e6-403874484350",
+      "title": "普通高中教科书·通用技术必修 技术与设计2",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 必修 技术与设计2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80cc21f6-ca92-4d27-87e6-403874484350&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "983a74e8-e3a3-476c-8924-22d772d9ddf8",
+      "title": "普通高中教科书·通用技术 选择性必修1 电子控制技术",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=983a74e8-e3a3-476c-8924-22d772d9ddf8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf362a15-46a3-47c4-8392-69f1059bc193",
+      "title": "普通高中教科书·通用技术 选择性必修2 机器人设计与制作",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf362a15-46a3-47c4-8392-69f1059bc193&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f89ada7a-09df-4892-aaf4-37e016cf0192",
+      "title": "普通高中教科书·通用技术 选择性必修3 工程设计基础",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修3",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f89ada7a-09df-4892-aaf4-37e016cf0192&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5f93e195-d118-43a3-bb5d-d5df2f74caf7",
+      "title": "普通高中教科书·通用技术 选择性必修4 现代家政技术",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修4",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5f93e195-d118-43a3-bb5d-d5df2f74caf7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "813c72ce-4d38-46fb-88f3-a1555e0e825b",
+      "title": "选择性必修6 智能家居应用设计",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修6 智能家居应用设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=813c72ce-4d38-46fb-88f3-a1555e0e825b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b559729c-30c8-4349-b1e2-c2570abf1aee",
+      "title": "选择性必修7 职业技术基础",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修7 职业技术基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b559729c-30c8-4349-b1e2-c2570abf1aee&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "127c8da5-5c2a-479c-a5d7-8ab1fa17310a",
+      "title": "选择性必修8 技术与职业探索",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修8 技术与职业探索",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=127c8da5-5c2a-479c-a5d7-8ab1fa17310a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "98d1680f-9d9d-414a-91cf-8460d50bd111",
+      "title": "选择性必修9 创造力开发与技术发明",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修9 创造力开发与技术发明",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=98d1680f-9d9d-414a-91cf-8460d50bd111&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "44548852-4c97-4aa6-b45f-103fd04d5077",
+      "title": "选择性必修10 科技人文融合创新专题",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修10 科技人文融合创新专题",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=44548852-4c97-4aa6-b45f-103fd04d5077&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "17cc4cbb-b678-47a6-8c22-2ed7dc48a470",
+      "title": "选择性必修11 产品三维设计与制造",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级 > 选择性必修11 产品三维设计与制造",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=17cc4cbb-b678-47a6-8c22-2ed7dc48a470&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d857ff69-4baa-c3d8-dd4d-4e5931943f28",
+      "title": "普通高中教科书·通用技术选择性必修5 服装及其设计",
+      "path": "高中 > 通用技术 > 人教版 > 高中年级",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d857ff69-4baa-c3d8-dd4d-4e5931943f28&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

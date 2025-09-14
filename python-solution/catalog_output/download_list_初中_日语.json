@@ -1,0 +1,24 @@
+{
+  "group": "初中_日语",
+  "count": 3,
+  "books": [
+    {
+      "id": "03cb4808-674d-422d-b813-4afa8130c6a0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·日语八年级全一册",
+      "path": "初中 > 日语 > 人教版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03cb4808-674d-422d-b813-4afa8130c6a0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1021e4bc-163f-4d8a-ae00-465aeaa75825",
+      "title": "义务教育教科书·日语九年级全一册",
+      "path": "初中 > 日语 > 人教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1021e4bc-163f-4d8a-ae00-465aeaa75825&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b2b93de-48d9-742d-4409-7e3aedc90a59",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 日语 七年级 （全一册）",
+      "path": "初中 > 日语 > 人教版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b2b93de-48d9-742d-4409-7e3aedc90a59&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group": "特殊教育_生物学",
+  "count": 5,
+  "books": [
+    {
+      "id": "d9b5e8d2-747f-1d15-8583-59b7b69ffea6",
+      "title": "盲校义务教育实验教科书 生物学 七年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 生物学 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d9b5e8d2-747f-1d15-8583-59b7b69ffea6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a0a41ff-a645-b2f5-ae7b-e99247a6788b",
+      "title": "盲校义务教育实验教科书 生物学 八年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 生物学 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a0a41ff-a645-b2f5-ae7b-e99247a6788b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4a940c5c-423e-2072-630b-cbd5ea63aaab",
+      "title": "（根据2022年版课程标准修订）盲校义务教育实验教科书 生物学 七年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 生物学 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4a940c5c-423e-2072-630b-cbd5ea63aaab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0942789f-f02b-df04-1efe-fdc20ad5425d",
+      "title": "盲校义务教育实验教科书 生物学 八年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 生物学 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0942789f-f02b-df04-1efe-fdc20ad5425d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "71b799d8-b435-61d8-591f-d1db5664041f",
+      "title": "聋校义务教育实验教科书 生物学 七年级 上册",
+      "path": "特殊教育 > 生物学 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=71b799d8-b435-61d8-591f-d1db5664041f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

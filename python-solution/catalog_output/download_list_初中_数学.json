@@ -1,0 +1,366 @@
+{
+  "group": "初中_数学",
+  "count": 60,
+  "books": [
+    {
+      "id": "79ff9e95-34e6-4c37-8294-a2a7e1619eb9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 北京版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=79ff9e95-34e6-4c37-8294-a2a7e1619eb9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "15468d18-8f0e-499a-9c36-7fbfe1020c45",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 北京版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=15468d18-8f0e-499a-9c36-7fbfe1020c45&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "039f3930-10a9-4501-bb89-1000dc26348c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学八年级上册",
+      "path": "初中 > 数学 > 北京版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=039f3930-10a9-4501-bb89-1000dc26348c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f97de89a-6d58-4781-8dee-2ea6c2ddeeed",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 北京版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f97de89a-6d58-4781-8dee-2ea6c2ddeeed&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "71a82bac-0c70-4d53-9e8f-22be536415f0",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 北京版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=71a82bac-0c70-4d53-9e8f-22be536415f0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a5dccbc8-37c5-4183-9180-2e833e37ccd1",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 北京版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a5dccbc8-37c5-4183-9180-2e833e37ccd1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8376191d-2d32-4c68-aba9-2f6c9dbfdf4a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 北师大版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8376191d-2d32-4c68-aba9-2f6c9dbfdf4a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "547e13ff-e4c3-4542-b793-2c43dedb77c5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 北师大版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=547e13ff-e4c3-4542-b793-2c43dedb77c5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "85ac3198-7050-441c-a614-493ea53e8d4a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学八年级上册",
+      "path": "初中 > 数学 > 北师大版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=85ac3198-7050-441c-a614-493ea53e8d4a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "146b5d39-425a-46ee-a645-f62f4a61e1c1",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 北师大版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=146b5d39-425a-46ee-a645-f62f4a61e1c1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4f797247-0ec5-4a00-9ad5-9942d4ff32c6",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 北师大版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4f797247-0ec5-4a00-9ad5-9942d4ff32c6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fafe7c85-616a-4932-94d3-d6287b346e6b",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 北师大版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fafe7c85-616a-4932-94d3-d6287b346e6b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bd6e3358-ba9e-455d-8042-53a9780287da",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 冀教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bd6e3358-ba9e-455d-8042-53a9780287da&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef12d0e9-b7a6-4657-929a-8b08e390c788",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 冀教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ef12d0e9-b7a6-4657-929a-8b08e390c788&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68bd7681-6c8c-41e3-bd68-3e9ed36ccb46",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学八年级上册",
+      "path": "初中 > 数学 > 冀教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=68bd7681-6c8c-41e3-bd68-3e9ed36ccb46&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea03ff0f-904e-478f-9b08-9a978a2eaa6e",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 冀教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea03ff0f-904e-478f-9b08-9a978a2eaa6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7ccb251-568c-4fe5-8242-3f59766478b2",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 冀教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7ccb251-568c-4fe5-8242-3f59766478b2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a1bc249-b83e-4e51-919e-53e6d0e2be2e",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 冀教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a1bc249-b83e-4e51-919e-53e6d0e2be2e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a5509537-33e3-4699-abe3-98608b20cc01",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 湘教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a5509537-33e3-4699-abe3-98608b20cc01&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "de58c9ca-8edf-4a1e-ae7f-0ab39faa4b54",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 湘教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=de58c9ca-8edf-4a1e-ae7f-0ab39faa4b54&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1671f52e-7a07-4637-8446-cac71b930857",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学八年级上册",
+      "path": "初中 > 数学 > 湘教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1671f52e-7a07-4637-8446-cac71b930857&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "47a94c3e-5369-4dac-a4e4-8d192d784c89",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 湘教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=47a94c3e-5369-4dac-a4e4-8d192d784c89&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a35ea46-f828-44f6-aafb-571cf9a81faa",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 湘教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a35ea46-f828-44f6-aafb-571cf9a81faa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "72ac1a9f-f1ee-4a50-b83d-facd15b8088a",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 湘教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=72ac1a9f-f1ee-4a50-b83d-facd15b8088a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fa3baef9-8acc-4ae6-88c0-8dd06eff9f6d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 华东师大版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fa3baef9-8acc-4ae6-88c0-8dd06eff9f6d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ae0543a7-8dfd-4a07-a35d-cb1a47029e0b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 华东师大版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ae0543a7-8dfd-4a07-a35d-cb1a47029e0b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6ebaaca-f73a-461e-9fbc-4aa449551207",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学八年级上册",
+      "path": "初中 > 数学 > 华东师大版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c6ebaaca-f73a-461e-9fbc-4aa449551207&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a20b663-4ceb-4f3e-94c0-ae3c1e22ea8a",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 华东师大版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a20b663-4ceb-4f3e-94c0-ae3c1e22ea8a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5f7531c8-7330-4e66-9634-e0a2c57ed74a",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 华东师大版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5f7531c8-7330-4e66-9634-e0a2c57ed74a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "61d015f5-5998-45fa-b114-73aff2e0ed68",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 华东师大版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=61d015f5-5998-45fa-b114-73aff2e0ed68&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01e365c7-9178-4155-8640-c862c5eff5e6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 苏科版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01e365c7-9178-4155-8640-c862c5eff5e6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f156dcad-f112-4937-a4bc-f4fa349beed6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 苏科版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f156dcad-f112-4937-a4bc-f4fa349beed6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "898de31a-e932-43ea-96af-83df3300020b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学八年级上册",
+      "path": "初中 > 数学 > 苏科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=898de31a-e932-43ea-96af-83df3300020b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e2eb2248-6d8e-44fc-a1ef-a1eaead72992",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 苏科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e2eb2248-6d8e-44fc-a1ef-a1eaead72992&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bd633723-cfca-47c7-bea3-7496e1648a91",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 苏科版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bd633723-cfca-47c7-bea3-7496e1648a91&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "33f1be2a-c063-4669-ba44-341c2b17a091",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 苏科版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=33f1be2a-c063-4669-ba44-341c2b17a091&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "77f52403-bb32-4f2b-b786-a324ea64732a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级上册",
+      "path": "初中 > 数学 > 青岛版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=77f52403-bb32-4f2b-b786-a324ea64732a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "67602aeb-e6d9-40ee-a3c6-428ef2818da2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 青岛版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=67602aeb-e6d9-40ee-a3c6-428ef2818da2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a5e2a48c-e861-4c97-b99a-8c407fb1ef99",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学八年级上册",
+      "path": "初中 > 数学 > 青岛版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a5e2a48c-e861-4c97-b99a-8c407fb1ef99&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1784b949-fbff-41aa-b6bc-e0bb0799d37f",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 青岛版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1784b949-fbff-41aa-b6bc-e0bb0799d37f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5812b053-8927-4be0-a10c-124697c0f921",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 青岛版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5812b053-8927-4be0-a10c-124697c0f921&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e9e556bb-62d6-4a3e-a5cb-71ff81c4d126",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 青岛版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e9e556bb-62d6-4a3e-a5cb-71ff81c4d126&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "540ac93d-67fc-4353-9e49-1ef20d02b5a4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级上册",
+      "path": "初中 > 数学 > 人教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=540ac93d-67fc-4353-9e49-1ef20d02b5a4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "81d65033-4cb1-4cf0-ae27-8c367c537c30",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 人教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=81d65033-4cb1-4cf0-ae27-8c367c537c30&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "81264e9e-22bc-4289-8389-13b40433b5ba",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学八年级上册",
+      "path": "初中 > 数学 > 人教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=81264e9e-22bc-4289-8389-13b40433b5ba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e91a6f80-2a9a-4452-a47e-b9ec164156ff",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 人教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e91a6f80-2a9a-4452-a47e-b9ec164156ff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "937a48c1-de81-4cc6-91b2-617cd859de4b",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 人教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=937a48c1-de81-4cc6-91b2-617cd859de4b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ab188631-292c-455e-8082-e09a0ab4001c",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 人教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ab188631-292c-455e-8082-e09a0ab4001c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b2041c8b-e20d-48a0-891a-fe164f8a5757",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 沪科技版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b2041c8b-e20d-48a0-891a-fe164f8a5757&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ad4e72e9-625e-4a51-8e7e-3f3839438070",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 沪科技版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ad4e72e9-625e-4a51-8e7e-3f3839438070&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "863bca53-39ee-48e3-b28e-34d081352343",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学八年级上册",
+      "path": "初中 > 数学 > 沪科技版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=863bca53-39ee-48e3-b28e-34d081352343&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1593eff5-060a-4299-b1e8-9c218fada1bd",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 沪科技版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1593eff5-060a-4299-b1e8-9c218fada1bd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5fa8b6e0-1828-40e8-8fe2-c54570d091aa",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 沪科技版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5fa8b6e0-1828-40e8-8fe2-c54570d091aa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cb01fcab-f57d-472f-aa22-e7d126dc4dda",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 沪科技版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cb01fcab-f57d-472f-aa22-e7d126dc4dda&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "913b98d8-ee64-4b08-bb18-5c09ef22034b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•数学七年级上册",
+      "path": "初中 > 数学 > 浙教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=913b98d8-ee64-4b08-bb18-5c09ef22034b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "16364a36-7b06-487a-b455-0285f33351eb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学七年级下册",
+      "path": "初中 > 数学 > 浙教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=16364a36-7b06-487a-b455-0285f33351eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cfbb9d5d-d4b8-4f8b-8ca6-ea19f9506139",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·数学八年级上册",
+      "path": "初中 > 数学 > 浙教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cfbb9d5d-d4b8-4f8b-8ca6-ea19f9506139&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9214db36-d263-435c-8ae4-8417830fb993",
+      "title": "义务教育教科书·数学八年级下册",
+      "path": "初中 > 数学 > 浙教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9214db36-d263-435c-8ae4-8417830fb993&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d1b3cecc-ba9f-4f84-aa97-a00135861540",
+      "title": "义务教育教科书·数学九年级上册",
+      "path": "初中 > 数学 > 浙教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d1b3cecc-ba9f-4f84-aa97-a00135861540&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2abe914-2b4d-4e58-a5d2-e2e07db9ec2b",
+      "title": "义务教育教科书·数学九年级下册",
+      "path": "初中 > 数学 > 浙教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2abe914-2b4d-4e58-a5d2-e2e07db9ec2b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "group": "初中（五•四学制）_历史",
+  "count": 6,
+  "books": [
+    {
+      "id": "2199dc10-e0b3-4f08-aa25-38580e6d0e39",
+      "title": "义务教育教科书（五•四学制）·世界历史世界历史第一册",
+      "path": "初中（五•四学制） > 历史 > 统编版 > 世界历史 > 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2199dc10-e0b3-4f08-aa25-38580e6d0e39&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "72499ca7-27a7-4b91-b20b-ff42b9f2631d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·中国历史第一册",
+      "path": "初中（五•四学制） > 历史 > 统编版 > 中国历史 > 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=72499ca7-27a7-4b91-b20b-ff42b9f2631d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "957d4d13-3e45-4aef-8795-bce620d03ef3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·中国历史第二册",
+      "path": "初中（五•四学制） > 历史 > 统编版 > 中国历史 > 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=957d4d13-3e45-4aef-8795-bce620d03ef3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5b4574c6-7c87-48db-b2bf-fef4bbac2723",
+      "title": "义务教育教科书（五•四学制）·世界历史第二册",
+      "path": "初中（五•四学制） > 历史 > 统编版 > 世界历史 > 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5b4574c6-7c87-48db-b2bf-fef4bbac2723&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1ad9cd1b-a5ae-4611-a45b-627d71408612",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·中国历史第三册",
+      "path": "初中（五•四学制） > 历史 > 统编版 > 中国历史 > 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1ad9cd1b-a5ae-4611-a45b-627d71408612&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c53534de-0a6d-44b1-a77b-def3dc971fbe",
+      "title": "义务教育教科书（五•四学制）·中国历史第四册",
+      "path": "初中（五•四学制） > 历史 > 统编版 > 中国历史 > 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c53534de-0a6d-44b1-a77b-def3dc971fbe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

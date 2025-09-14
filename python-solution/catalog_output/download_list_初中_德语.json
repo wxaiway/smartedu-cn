@@ -1,0 +1,24 @@
+{
+  "group": "初中_德语",
+  "count": 3,
+  "books": [
+    {
+      "id": "c34faed1-4deb-053a-1cd1-6d569471969b",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·德语 必修 C1",
+      "path": "初中 > 德语 > 外研社版 > 七年级 > C1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c34faed1-4deb-053a-1cd1-6d569471969b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "12bac515-c77e-4d86-7c2d-90f039eb4018",
+      "title": "普通中学教科书·德语 必修 C2",
+      "path": "初中 > 德语 > 外研社版 > 七年级 > C2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=12bac515-c77e-4d86-7c2d-90f039eb4018&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "544d9657-785c-b37b-f975-5ae549b55b32",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·德语 必修 C3",
+      "path": "初中 > 德语 > 外研社版 > 八年级 > C3",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=544d9657-785c-b37b-f975-5ae549b55b32&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

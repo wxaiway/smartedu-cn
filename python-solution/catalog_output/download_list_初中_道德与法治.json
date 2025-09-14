@@ -1,0 +1,48 @@
+{
+  "group": "初中_道德与法治",
+  "count": 7,
+  "books": [
+    {
+      "id": "11446212-4b7b-4094-afe3-bd5b4f2b3f0c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·道德与法治七年级上册",
+      "path": "初中 > 道德与法治 > 统编版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=11446212-4b7b-4094-afe3-bd5b4f2b3f0c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4e1a2a9e-1e62-451f-a52e-ef99cb4e8bf2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·道德与法治七年级下册",
+      "path": "初中 > 道德与法治 > 统编版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4e1a2a9e-1e62-451f-a52e-ef99cb4e8bf2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a29b928-d6da-4131-a69e-4c54941f7651",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·道德与法治八年级上册",
+      "path": "初中 > 道德与法治 > 统编版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a29b928-d6da-4131-a69e-4c54941f7651&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f1db2a19-2513-4626-8e6c-275cf549bdf2",
+      "title": "义务教育教科书·道德与法治八年级下册",
+      "path": "初中 > 道德与法治 > 统编版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f1db2a19-2513-4626-8e6c-275cf549bdf2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03d41525-a373-4286-92c3-3f2d7cbe3b79",
+      "title": "义务教育教科书·道德与法治九年级上册",
+      "path": "初中 > 道德与法治 > 统编版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03d41525-a373-4286-92c3-3f2d7cbe3b79&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "845ceea7-36c6-4db8-b032-998193173585",
+      "title": "义务教育教科书·道德与法治九年级下册",
+      "path": "初中 > 道德与法治 > 统编版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=845ceea7-36c6-4db8-b032-998193173585&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0e2eee03-e1cd-4b1a-9816-f1f558fd2bce",
+      "title": "习近平新时代中国特色社会主义思想学生读本·初中",
+      "path": "初中 > 道德与法治 > 统编版 > 学生读本 > 一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0e2eee03-e1cd-4b1a-9816-f1f558fd2bce&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

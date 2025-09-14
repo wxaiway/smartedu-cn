@@ -1,0 +1,150 @@
+{
+  "group": "初中_科学",
+  "count": 24,
+  "books": [
+    {
+      "id": "b72dd80e-7a03-47f9-89be-d858559cf6da",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学七年级上册",
+      "path": "初中 > 科学 > 华东师大版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b72dd80e-7a03-47f9-89be-d858559cf6da&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "48fcaecd-0239-4f26-86e9-9c12572878e9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学七年级下册",
+      "path": "初中 > 科学 > 华东师大版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=48fcaecd-0239-4f26-86e9-9c12572878e9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6137bdaf-e4ac-4580-bbcb-035b44492996",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学八年级上册",
+      "path": "初中 > 科学 > 华东师大版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6137bdaf-e4ac-4580-bbcb-035b44492996&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "caf9c7f3-ffac-47f9-ae7c-0712714352dc",
+      "title": "义务教育教科书·科学八年级下册",
+      "path": "初中 > 科学 > 华东师大版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=caf9c7f3-ffac-47f9-ae7c-0712714352dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf9bb0e2-e5a6-433b-940c-050d70f4f614",
+      "title": "义务教育教科书·科学九年级上册",
+      "path": "初中 > 科学 > 华东师大版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf9bb0e2-e5a6-433b-940c-050d70f4f614&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6f75bbfc-79b1-455d-af9a-cae9dd977656",
+      "title": "义务教育教科书·科学九年级下册",
+      "path": "初中 > 科学 > 华东师大版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6f75bbfc-79b1-455d-af9a-cae9dd977656&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7a8acd38-9e6d-40e0-8f81-1242ce7f4227",
+      "title": "义务教育教科书·科学七年级上册",
+      "path": "初中 > 科学 > 沪教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7a8acd38-9e6d-40e0-8f81-1242ce7f4227&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "050d9d37-6d49-4c1d-810f-33b81c69353a",
+      "title": "义务教育教科书·科学七年级下册",
+      "path": "初中 > 科学 > 沪教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=050d9d37-6d49-4c1d-810f-33b81c69353a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d610189a-3496-4f8c-8edb-d0239b812b1d",
+      "title": "义务教育教科书·科学八年级上册",
+      "path": "初中 > 科学 > 沪教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d610189a-3496-4f8c-8edb-d0239b812b1d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8842f4e2-af15-4c52-92ea-fe43bbfcc76c",
+      "title": "义务教育教科书·科学八年级下册",
+      "path": "初中 > 科学 > 沪教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8842f4e2-af15-4c52-92ea-fe43bbfcc76c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a35ac202-011b-4d44-8dae-5ed0df04767d",
+      "title": "义务教育教科书·科学九年级上册",
+      "path": "初中 > 科学 > 沪教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a35ac202-011b-4d44-8dae-5ed0df04767d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ad91518b-f755-4f65-8f95-0f308dd785cf",
+      "title": "义务教育教科书·科学九年级下册",
+      "path": "初中 > 科学 > 沪教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ad91518b-f755-4f65-8f95-0f308dd785cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "840934f9-c803-480e-a774-05feb7af3a07",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学七年级上册",
+      "path": "初中 > 科学 > 武汉社版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=840934f9-c803-480e-a774-05feb7af3a07&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5207ced9-7649-47b0-ac6f-75339de54ede",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学七年级下册",
+      "path": "初中 > 科学 > 武汉社版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5207ced9-7649-47b0-ac6f-75339de54ede&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2742517e-d91d-460e-bf8b-9a0acb5ce746",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学八年级上册",
+      "path": "初中 > 科学 > 武汉社版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2742517e-d91d-460e-bf8b-9a0acb5ce746&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "750548ab-df89-4eba-889d-c7900607a4df",
+      "title": "义务教育教科书·科学八年级下册",
+      "path": "初中 > 科学 > 武汉社版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=750548ab-df89-4eba-889d-c7900607a4df&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "86a5a42f-bdcd-40d0-a329-fd3657a70b16",
+      "title": "义务教育教科书·科学九年级上册",
+      "path": "初中 > 科学 > 武汉社版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=86a5a42f-bdcd-40d0-a329-fd3657a70b16&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b3f456c2-7bb5-4f63-b6b8-5647a7b1e805",
+      "title": "义务教育教科书·科学九年级下册",
+      "path": "初中 > 科学 > 武汉社版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b3f456c2-7bb5-4f63-b6b8-5647a7b1e805&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "80cb1569-1416-41d9-99b7-4be3adc6a1b9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学七年级上册",
+      "path": "初中 > 科学 > 浙教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80cb1569-1416-41d9-99b7-4be3adc6a1b9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b96b7c9c-62ef-450e-8366-1a62f8a0d1ad",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学七年级下册",
+      "path": "初中 > 科学 > 浙教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b96b7c9c-62ef-450e-8366-1a62f8a0d1ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "20964819-8af6-4b8e-9442-3403ded4c277",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学八年级上册",
+      "path": "初中 > 科学 > 浙教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=20964819-8af6-4b8e-9442-3403ded4c277&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ab11e4b-e3eb-400f-997d-a21acfd15d40",
+      "title": "义务教育教科书·科学八年级下册",
+      "path": "初中 > 科学 > 浙教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ab11e4b-e3eb-400f-997d-a21acfd15d40&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "938d733b-8948-4e76-9712-9b5ad873e11a",
+      "title": "义务教育教科书·科学九年级上册",
+      "path": "初中 > 科学 > 浙教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=938d733b-8948-4e76-9712-9b5ad873e11a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5fe17634-e26d-4371-8623-1be94f492350",
+      "title": "义务教育教科书·科学九年级下册",
+      "path": "初中 > 科学 > 浙教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5fe17634-e26d-4371-8623-1be94f492350&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

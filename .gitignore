@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+.claude/
+
+# 日志文件
+logs/
+*.log
+
+# 下载的教材文件
+教材库/
+教材下载/
+downloads/
+
+# 多媒体资源
+multimedia_resources.json
+*.mp3
+*.mp4
+*.pdf
+
+# 临时文件和缓存
+*.tmp
+*.temp
+*.cache
+.DS_Store
+Thumbs.db
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 任务记录文件
+failed_tasks.json
+completed_tasks.json
+download_progress.json
+python-solution/multimedia_resources.json
+
+# 测试文件
+test_*
+*_test.*
+existing_files.json
+
+# 大型数据文件（可选）
+# 如果这些文件太大，可以取消注释以下行
+# python-solution/catalog_output/
+# python-solution/download_tasks.json
+
+# 前端生成的临时文件
+frontend/existing_files.json
+
+# 敏感信息
+config.json
+credentials.json
+tokens.json
+*.token
+
+# 备份文件
+*.backup
+*.bak
+*.old
+
+# Node.js (如果有前端构建)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 构建输出
+dist/
+build/
+*.min.js
+*.min.css
+
+# 系统文件
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# 个人配置
+personal_config/
+my_downloads/

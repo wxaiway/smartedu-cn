@@ -1,0 +1,174 @@
+{
+  "group": "初中_生物学",
+  "count": 28,
+  "books": [
+    {
+      "id": "60add6f1-e920-4c03-993d-cb18eceee02e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学七年级上册",
+      "path": "初中 > 生物学 > 北京版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=60add6f1-e920-4c03-993d-cb18eceee02e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7d59abaf-9182-4a91-adc3-7a003deac8b1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 北京版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7d59abaf-9182-4a91-adc3-7a003deac8b1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "57a4e3a2-eb2b-4eea-bd7d-04f541842b8e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学八年级上册",
+      "path": "初中 > 生物学 > 北京版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=57a4e3a2-eb2b-4eea-bd7d-04f541842b8e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3fcba359-3c86-4f86-89a0-9294fd348bfa",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 北京版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3fcba359-3c86-4f86-89a0-9294fd348bfa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3a38c6a2-e024-46b4-add6-e3c05528798e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学七年级上册",
+      "path": "初中 > 生物学 > 北师大版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3a38c6a2-e024-46b4-add6-e3c05528798e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5c739025-042b-43f5-99ff-090692708527",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 北师大版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5c739025-042b-43f5-99ff-090692708527&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4ed36fa7-9b13-4d7c-bb68-fcb5cb02a98c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学八年级上册",
+      "path": "初中 > 生物学 > 北师大版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4ed36fa7-9b13-4d7c-bb68-fcb5cb02a98c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a6f48c49-5655-4938-b905-299c7f26ecc4",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 北师大版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a6f48c49-5655-4938-b905-299c7f26ecc4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "71f7ad57-fa7a-45ad-a105-77e1a8396bbc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学七年级上册",
+      "path": "初中 > 生物学 > 冀少版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=71f7ad57-fa7a-45ad-a105-77e1a8396bbc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "06aeb432-8312-4966-bd00-a09f05f894ce",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 冀少版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=06aeb432-8312-4966-bd00-a09f05f894ce&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "686c9ea6-8af1-4356-811b-35a7aa5004f4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学八年级上册",
+      "path": "初中 > 生物学 > 冀少版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=686c9ea6-8af1-4356-811b-35a7aa5004f4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eeef66bc-07bd-4a35-b81a-81169510e65d",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 冀少版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eeef66bc-07bd-4a35-b81a-81169510e65d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c909e650-e732-4b6b-b741-7711d97b032f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学七年级上册",
+      "path": "初中 > 生物学 > 济南版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c909e650-e732-4b6b-b741-7711d97b032f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f00cc135-870e-4331-9909-645e1ac39388",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 济南版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f00cc135-870e-4331-9909-645e1ac39388&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3349a703-9e17-4331-83d0-6d8e73b8dd1f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学八年级上册",
+      "path": "初中 > 生物学 > 济南版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3349a703-9e17-4331-83d0-6d8e73b8dd1f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "419f1199-3dfc-48fd-816f-76c465725d09",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 济南版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=419f1199-3dfc-48fd-816f-76c465725d09&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d3af85b8-5cf2-41d7-a6ad-3a622f04cb67",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学七年级上册",
+      "path": "初中 > 生物学 > 苏教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d3af85b8-5cf2-41d7-a6ad-3a622f04cb67&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f0c9a086-931f-48d2-9f8f-a3b0e1c81e77",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 苏教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f0c9a086-931f-48d2-9f8f-a3b0e1c81e77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3bf1f5ed-152e-4f5e-9ca9-e08562b94f21",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学八年级上册",
+      "path": "初中 > 生物学 > 苏教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3bf1f5ed-152e-4f5e-9ca9-e08562b94f21&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b6278637-eb86-47c0-a715-0fa19962aa86",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 苏教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b6278637-eb86-47c0-a715-0fa19962aa86&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a2696c5a-4dd1-49dc-8248-6bf3c5789cba",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学七年级上册",
+      "path": "初中 > 生物学 > 苏科版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a2696c5a-4dd1-49dc-8248-6bf3c5789cba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19b2c1d4-5c44-4c03-9beb-779bc2dd5f4e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 苏科版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19b2c1d4-5c44-4c03-9beb-779bc2dd5f4e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d6640bd0-cc2c-4deb-a2c5-5203dd72e04d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•生物学八年级上册",
+      "path": "初中 > 生物学 > 苏科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6640bd0-cc2c-4deb-a2c5-5203dd72e04d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9417eff-2d0f-4590-ada8-1ec279c73e5e",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 苏科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9417eff-2d0f-4590-ada8-1ec279c73e5e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "405270eb-9f00-4bba-b0f6-da863340625f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级上册",
+      "path": "初中 > 生物学 > 人教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=405270eb-9f00-4bba-b0f6-da863340625f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75de4cf4-9cd3-4e70-8844-cb40ad7c318e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学七年级下册",
+      "path": "初中 > 生物学 > 人教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75de4cf4-9cd3-4e70-8844-cb40ad7c318e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a29010d-b2f0-4bf0-9e05-e311168cd929",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·生物学八年级上册",
+      "path": "初中 > 生物学 > 人教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a29010d-b2f0-4bf0-9e05-e311168cd929&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f4e7eb1c-2a75-4bc5-8fb9-404a108e1b84",
+      "title": "义务教育教科书·生物学八年级下册",
+      "path": "初中 > 生物学 > 人教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f4e7eb1c-2a75-4bc5-8fb9-404a108e1b84&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

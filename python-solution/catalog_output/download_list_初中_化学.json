@@ -1,0 +1,78 @@
+{
+  "group": "初中_化学",
+  "count": 12,
+  "books": [
+    {
+      "id": "4269fa54-94c7-443d-b39a-22fc53db8432",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•化学九年级上册",
+      "path": "初中 > 化学 > 北京版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4269fa54-94c7-443d-b39a-22fc53db8432&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d22a4ce9-3357-44fd-abce-788b996793c7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·化学九年级下册",
+      "path": "初中 > 化学 > 北京版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d22a4ce9-3357-44fd-abce-788b996793c7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7885d781-1fae-4142-9beb-2ad67aa9fd38",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•化学九年级上册",
+      "path": "初中 > 化学 > 科学粤教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7885d781-1fae-4142-9beb-2ad67aa9fd38&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "efd6d2c8-841a-4da7-ae47-fca6849858dd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·化学九年级下册",
+      "path": "初中 > 化学 > 科学粤教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=efd6d2c8-841a-4da7-ae47-fca6849858dd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea8574c1-8b6a-4879-91ab-3fbdbd398beb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•化学九年级上册",
+      "path": "初中 > 化学 > 科普版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea8574c1-8b6a-4879-91ab-3fbdbd398beb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "41eed83e-130d-4580-93ad-8c122eb27bd7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·化学九年级下册",
+      "path": "初中 > 化学 > 科普版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=41eed83e-130d-4580-93ad-8c122eb27bd7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8c419b19-b3a9-4dbf-a8b4-546b7d337528",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·化学九年级上册",
+      "path": "初中 > 化学 > 人教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8c419b19-b3a9-4dbf-a8b4-546b7d337528&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1998204c-f017-4f49-9000-0ba0b93d2a4d",
+      "title": "(根据2022年版课程标准修订)义务教育教科书·化学九年级下册",
+      "path": "初中 > 化学 > 人教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1998204c-f017-4f49-9000-0ba0b93d2a4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0f455d8d-f1dd-455d-a1b9-6f83d75a5ad4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•化学九年级上册",
+      "path": "初中 > 化学 > 鲁教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0f455d8d-f1dd-455d-a1b9-6f83d75a5ad4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1e64b651-1eb5-42f9-9156-b92ba1d1b2cc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·化学九年级下册",
+      "path": "初中 > 化学 > 鲁教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1e64b651-1eb5-42f9-9156-b92ba1d1b2cc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9b5f1f01-f928-4f5e-bc43-d5269d106e1d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•化学九年级上册",
+      "path": "初中 > 化学 > 沪教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9b5f1f01-f928-4f5e-bc43-d5269d106e1d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9de79cbd-e8e0-454d-a318-a5db99f2dcbe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·化学九年级下册",
+      "path": "初中 > 化学 > 沪教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9de79cbd-e8e0-454d-a318-a5db99f2dcbe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

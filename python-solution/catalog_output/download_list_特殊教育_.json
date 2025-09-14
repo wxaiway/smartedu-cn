@@ -1,0 +1,24 @@
+{
+  "group": "特殊教育_",
+  "count": 3,
+  "books": [
+    {
+      "id": "4c420aab-5780-46bc-69a0-1c605e330749",
+      "title": "聋校义务教育实验教科书 律动 一年级 上册",
+      "path": "特殊教育 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4c420aab-5780-46bc-69a0-1c605e330749&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7864bb02-beda-7ff3-1699-9edd46e65e9f",
+      "title": "聋校义务教育实验教科书 律动 二年级 上册",
+      "path": "特殊教育 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7864bb02-beda-7ff3-1699-9edd46e65e9f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "60167b04-8703-bdc1-11fe-41526f290cc3",
+      "title": "聋校义务教育实验教科书 律动 三年级 上册",
+      "path": "特殊教育 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=60167b04-8703-bdc1-11fe-41526f290cc3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

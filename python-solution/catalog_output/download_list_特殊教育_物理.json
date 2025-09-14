@@ -1,0 +1,54 @@
+{
+  "group": "特殊教育_物理",
+  "count": 8,
+  "books": [
+    {
+      "id": "47966263-4946-2d0a-56a3-0bd4f4f0e2b0",
+      "title": "盲校义务教育实验教科书 物理 八年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 物理 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=47966263-4946-2d0a-56a3-0bd4f4f0e2b0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1ace76ed-c5aa-6f2d-e741-36ae6f2336f2",
+      "title": "盲校义务教育实验教科书 物理 九年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 物理 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1ace76ed-c5aa-6f2d-e741-36ae6f2336f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fd8ded4f-6195-83bb-2ecf-d1b84eab7dab",
+      "title": "聋校义务教育实验教科书 物理 八年级 上册",
+      "path": "特殊教育 > 物理 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fd8ded4f-6195-83bb-2ecf-d1b84eab7dab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "abfda45e-3b9c-9c3e-f3e4-93be68ef248e",
+      "title": "聋校义务教育实验教科书 物理 九年级 上册",
+      "path": "特殊教育 > 物理 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=abfda45e-3b9c-9c3e-f3e4-93be68ef248e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b89c200f-6060-d25f-a7a0-7ee629f2bd7d",
+      "title": "聋校义务教育实验教科书 物理 八年级 下册",
+      "path": "特殊教育 > 物理 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b89c200f-6060-d25f-a7a0-7ee629f2bd7d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7ce63829-15aa-974a-dcd9-85f687337e14",
+      "title": "聋校义务教育实验教科书 物理 九年级 下册",
+      "path": "特殊教育 > 物理 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7ce63829-15aa-974a-dcd9-85f687337e14&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "04fca672-7790-8d77-aada-4963cf7f6ac0",
+      "title": "盲校义务教育实验教科书 物理 八年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 物理 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=04fca672-7790-8d77-aada-4963cf7f6ac0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3e23c3d7-bb0b-4738-4115-2c3d447c0bd9",
+      "title": "盲校义务教育实验教科书 物理 九年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 物理 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3e23c3d7-bb0b-4738-4115-2c3d447c0bd9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

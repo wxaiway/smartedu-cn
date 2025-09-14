@@ -1,0 +1,2303 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中小学教材下载中心 - 4023本教材资源</title>
+    <meta name="description" content="国家中小学教材下载中心，提供小学、初中、高中等4023本教材的PDF下载">
+    <meta name="keywords" content="智慧教育,教材下载,电子教材,PDF教材,中小学教材">
+    <style>
+        /* CSS变量 */
+        :root {
+            --primary: #1890ff;
+            --primary-hover: #40a9ff;
+            --success: #52c41a;
+            --warning: #faad14;
+            --error: #ff4d4f;
+            --border: #e8e8e8;
+            --bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --text: #262626;
+            --text-secondary: #8c8c8c;
+            --shadow-sm: 0 2px 4px rgba(0,0,0,0.08);
+            --shadow: 0 2px 8px rgba(0,0,0,0.1);
+            --shadow-lg: 0 4px 16px rgba(0,0,0,0.12);
+            --radius: 8px;
+            --radius-sm: 4px;
+            --transition: all 0.3s ease;
+        }
+
+        /* 暗色主题 */
+        [data-theme="dark"] {
+            --bg: #1a1a1a;
+            --card-bg: #2a2a2a;
+            --text: #e8e8e8;
+            --text-secondary: #a8a8a8;
+            --border: #404040;
+            --popular-bg: #232323;
+        }
+
+        /* 全局样式 */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 
+                         'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            font-size: 14px;
+            line-height: 1.6;
+            color: var(--text);
+            background: var(--bg);
+            min-height: 100vh;
+        }
+
+        /* 滚动条美化 */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--text-secondary);
+        }
+
+        /* 布局容器 */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        /* 头部 */
+        header {
+            background: var(--card-bg);
+            box-shadow: var(--shadow-sm);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            transition: var(--transition);
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 60px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 20px;
+            font-weight: 600;
+            color: var(--primary);
+        }
+
+        .logo-icon {
+            font-size: 28px;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .stats {
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        .stats strong {
+            color: var(--primary);
+            font-weight: 600;
+        }
+
+        .theme-toggle {
+            background: none;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            padding: 6px 10px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: var(--transition);
+        }
+
+        .theme-toggle:hover {
+            border-color: var(--primary);
+            transform: translateY(-1px);
+        }
+
+        /* 搜索区域 */
+        .search-section {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 40px 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .search-section::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -10%;
+            width: 500px;
+            height: 500px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 50%;
+        }
+
+        .search-wrapper {
+            max-width: 800px;
+            margin: 0 auto;
+            position: relative;
+            z-index: 1;
+        }
+
+        .search-title {
+            text-align: center;
+            color: white;
+            margin-bottom: 20px;
+            font-size: 24px;
+            font-weight: 300;
+        }
+
+        .search-box {
+            display: flex;
+            height: 56px;
+            background: white;
+            border-radius: 28px;
+            overflow: hidden;
+            box-shadow: var(--shadow-lg);
+            transition: var(--transition);
+        }
+
+        .search-box:focus-within {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+        }
+
+        .search-input {
+            flex: 1;
+            border: none;
+            padding: 0 24px;
+            font-size: 16px;
+            outline: none;
+            background: transparent;
+        }
+
+        .search-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0 32px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: var(--transition);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .search-btn:hover {
+            background: var(--primary-hover);
+        }
+
+        /* 快捷筛选标签 */
+        .quick-filters {
+            display: flex;
+            gap: 12px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .quick-btn {
+            padding: 6px 20px;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: 1px solid rgba(255,255,255,0.3);
+            border-radius: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: var(--transition);
+            backdrop-filter: blur(10px);
+        }
+
+        .quick-btn:hover {
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-2px);
+        }
+
+        .quick-btn.active {
+            background: white;
+            color: var(--primary);
+            border-color: white;
+        }
+
+        /* 主体内容 */
+        .main {
+            display: flex;
+            gap: 20px;
+            margin: 20px 0;
+            min-height: calc(100vh - 300px);
+        }
+
+        /* 筛选面板 */
+        .filters {
+            width: 280px;
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            padding: 24px;
+            height: fit-content;
+            position: sticky;
+            top: 80px;
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
+        }
+
+        .filter-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .filter-header h3 {
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        .filter-clear-all {
+            font-size: 12px;
+            color: var(--primary);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .filter-clear-all:hover {
+            text-decoration: underline;
+        }
+
+        .filter-group {
+            margin-bottom: 28px;
+        }
+
+        .filter-title {
+            font-weight: 600;
+            margin-bottom: 12px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 14px;
+        }
+
+        .filter-clear {
+            font-size: 12px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            font-weight: normal;
+            opacity: 0;
+            transition: var(--transition);
+        }
+
+        .filter-group:hover .filter-clear {
+            opacity: 1;
+        }
+
+        .filter-items {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+            padding-right: 5px;
+        }
+
+        .filter-item {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+            font-size: 14px;
+            padding: 4px 0;
+            transition: var(--transition);
+        }
+
+        .filter-item:hover {
+            color: var(--primary);
+        }
+
+        .filter-item input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            margin-right: 10px;
+            cursor: pointer;
+            accent-color: var(--primary);
+        }
+
+        .filter-item label {
+            flex: 1;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .filter-count {
+            color: var(--text-secondary);
+            font-size: 12px;
+            background: var(--bg);
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+
+        /* 内容区域 */
+        .content {
+            flex: 1;
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            padding: 24px;
+            box-shadow: var(--shadow-sm);
+        }
+
+        /* 工具栏 */
+        .toolbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .result-info {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        .result-info strong {
+            color: var(--primary);
+            font-size: 20px;
+            font-weight: 600;
+            margin: 0 4px;
+        }
+
+        .toolbar-actions {
+            display: flex;
+            gap: 12px;
+            align-items: center;
+        }
+
+        .sort-select {
+            padding: 8px 16px;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            font-size: 14px;
+            background: var(--card-bg);
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .sort-select:hover {
+            border-color: var(--primary);
+        }
+
+        .view-toggle {
+            display: flex;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            overflow: hidden;
+        }
+
+        .view-btn {
+            background: var(--card-bg);
+            border: none;
+            padding: 8px 12px;
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 16px;
+        }
+
+        .view-btn:hover {
+            background: var(--bg);
+        }
+
+        .view-btn.active {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* 教材表格视图 */
+        .textbook-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .textbook-table th {
+            background: var(--bg);
+            padding: 12px 16px;
+            text-align: left;
+            font-weight: 600;
+            color: var(--text-secondary);
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            position: sticky;
+            top: 60px;
+            z-index: 10;
+        }
+
+        .textbook-table td {
+            padding: 16px;
+            border-bottom: 1px solid var(--border);
+            transition: var(--transition);
+        }
+
+        .textbook-table tr {
+            transition: var(--transition);
+        }
+
+        .textbook-table tr:hover {
+            background: var(--bg);
+        }
+
+        .textbook-name {
+            font-weight: 500;
+            color: var(--text);
+            font-size: 15px;
+        }
+
+        .textbook-meta {
+            display: flex;
+            gap: 12px;
+            margin-top: 4px;
+            font-size: 12px;
+            color: var(--text-secondary);
+        }
+
+        .meta-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .btn-download {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            font-size: 14px;
+            transition: var(--transition);
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .btn-download:hover {
+            background: var(--primary-hover);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow);
+        }
+
+        /* 网格视图 */
+        .textbook-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+        }
+
+        .textbook-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 20px;
+            transition: var(--transition);
+            cursor: pointer;
+        }
+
+        .textbook-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary);
+        }
+
+        .card-header {
+            margin-bottom: 12px;
+        }
+
+        .card-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 8px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+
+        .card-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+
+        .card-tag {
+            font-size: 12px;
+            padding: 4px 10px;
+            background: var(--bg);
+            border-radius: var(--radius-sm);
+            color: var(--text-secondary);
+        }
+
+        .card-tag.primary {
+            background: rgba(24, 144, 255, 0.1);
+            color: var(--primary);
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 16px;
+            border-top: 1px solid var(--border);
+        }
+
+        .card-size {
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        /* 分页 */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 8px;
+            margin-top: 40px;
+        }
+
+        .page-btn {
+            padding: 8px 12px;
+            min-width: 40px;
+            border: 1px solid var(--border);
+            background: var(--card-bg);
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            transition: var(--transition);
+            font-size: 14px;
+            text-align: center;
+        }
+
+        .page-btn:hover:not(:disabled) {
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+
+        .page-btn.active {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .page-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .page-ellipsis {
+            color: var(--text-secondary);
+            padding: 0 8px;
+        }
+
+        /* 下载弹窗 */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.6);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            backdrop-filter: blur(4px);
+        }
+
+        .modal.show {
+            display: flex;
+            animation: fadeIn 0.3s ease;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .modal-content {
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            padding: 32px;
+            max-width: 650px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+            animation: slideIn 0.3s ease;
+            box-shadow: var(--shadow-lg);
+        }
+
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 24px;
+        }
+
+        .modal-title {
+            font-size: 20px;
+            font-weight: 600;
+        }
+
+        .modal-close {
+            font-size: 28px;
+            cursor: pointer;
+            color: var(--text-secondary);
+            line-height: 1;
+            transition: var(--transition);
+            width: 32px;
+            height: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: var(--radius-sm);
+        }
+
+        .modal-close:hover {
+            background: var(--bg);
+            color: var(--text);
+        }
+
+        .download-info {
+            background: var(--bg);
+            padding: 20px;
+            border-radius: var(--radius);
+            margin-bottom: 24px;
+            border: 1px solid var(--border);
+        }
+
+        .download-info h4 {
+            font-size: 18px;
+            margin-bottom: 12px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        .download-info p {
+            font-size: 14px;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .download-field {
+            margin-bottom: 28px;
+        }
+
+        .download-field label {
+            display: block;
+            margin-bottom: 12px;
+            font-weight: 500;
+            color: var(--text);
+            font-size: 15px;
+        }
+
+        .download-link {
+            position: relative;
+            display: flex;
+            align-items: center;
+        }
+
+        .download-link input {
+            width: 100%;
+            padding: 14px 48px 14px 16px;
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            font-family: 'SF Mono', Consolas, monospace;
+            font-size: 14px;
+            background: var(--bg);
+            color: var(--text);
+            transition: var(--transition);
+        }
+        
+        .download-link input:focus {
+            outline: none;
+            border-color: var(--primary);
+            background: var(--card-bg);
+        }
+
+        .copy-icon {
+            position: absolute;
+            right: 12px;
+            width: 24px;
+            height: 24px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: var(--transition);
+            border-radius: var(--radius-sm);
+        }
+
+        .copy-icon:hover {
+            color: var(--primary);
+            background: var(--bg);
+        }
+
+        .copy-icon.copied {
+            color: var(--success);
+        }
+
+        .copy-icon svg {
+            width: 16px;
+            height: 16px;
+        }
+        
+        /* 文件路径特殊布局 */
+        .download-field-path {
+            margin-bottom: 24px;
+        }
+        
+        .download-field-path input {
+            font-size: 13px;
+            word-break: break-all;
+            height: auto;
+            min-height: 48px;
+            padding: 14px 48px 14px 16px;
+            resize: none;
+        }
+
+        .btn-open {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: var(--radius-sm);
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: 500;
+            margin-top: 32px;
+            transition: var(--transition);
+            height: 52px;
+        }
+
+        .btn-open:hover {
+            background: var(--primary-hover);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow);
+        }
+
+        .download-tips {
+            margin-top: 24px;
+            padding: 16px 20px;
+            background: rgba(24, 144, 255, 0.05);
+            border-left: 3px solid var(--primary);
+            border-radius: var(--radius-sm);
+        }
+
+        .download-tips h5 {
+            font-size: 15px;
+            margin-bottom: 10px;
+            color: var(--text);
+            font-weight: 600;
+        }
+
+        .download-tips ul {
+            list-style: none;
+            font-size: 14px;
+            color: var(--text-secondary);
+            line-height: 1.8;
+        }
+
+        .download-tips li {
+            padding-left: 24px;
+            position: relative;
+            margin-bottom: 6px;
+        }
+
+        .download-tips li::before {
+            content: '•';
+            position: absolute;
+            left: 10px;
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        /* 加载状态 */
+        .loading {
+            text-align: center;
+            padding: 60px;
+            color: var(--text-secondary);
+        }
+
+        .spinner {
+            display: inline-block;
+            width: 48px;
+            height: 48px;
+            border: 3px solid var(--border);
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 16px;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* 空状态 */
+        .empty {
+            text-align: center;
+            padding: 80px 20px;
+            color: var(--text-secondary);
+        }
+
+        .empty-icon {
+            font-size: 64px;
+            margin-bottom: 16px;
+            opacity: 0.5;
+        }
+
+        .empty-text {
+            font-size: 16px;
+            margin-bottom: 8px;
+        }
+
+        .empty-hint {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        /* 移动端筛选按钮 */
+        .mobile-filter-btn {
+            display: none;
+            position: fixed;
+            bottom: 24px;
+            right: 24px;
+            width: 56px;
+            height: 56px;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            box-shadow: var(--shadow-lg);
+            font-size: 24px;
+            cursor: pointer;
+            z-index: 90;
+            transition: var(--transition);
+        }
+
+        .mobile-filter-btn:hover {
+            transform: scale(1.1);
+        }
+
+        /* 移动端遮罩 */
+        .mobile-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 150;
+        }
+
+        .mobile-overlay.show {
+            display: block;
+        }
+
+        /* 响应式 */
+        @media (max-width: 1024px) {
+            .container {
+                padding: 0 16px;
+            }
+
+            .main {
+                position: relative;
+            }
+
+            .filters {
+                position: fixed;
+                left: -300px;
+                top: 0;
+                bottom: 0;
+                width: 300px;
+                z-index: 200;
+                transition: left 0.3s ease;
+                box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+                border-radius: 0;
+            }
+
+            .filters.show {
+                left: 0;
+            }
+
+            .mobile-filter-btn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .content {
+                width: 100%;
+            }
+
+            .textbook-grid {
+                grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header-content {
+                padding: 12px 0;
+            }
+
+            .logo {
+                font-size: 16px;
+            }
+
+            .logo-icon {
+                font-size: 24px;
+            }
+
+            .search-section {
+                padding: 24px 0;
+            }
+
+            .search-title {
+                font-size: 18px;
+                margin-bottom: 16px;
+            }
+
+            .search-box {
+                height: 48px;
+            }
+
+            .search-input {
+                font-size: 14px;
+                padding: 0 16px;
+            }
+
+            .search-btn {
+                padding: 0 24px;
+                font-size: 14px;
+            }
+
+            .quick-filters {
+                gap: 8px;
+            }
+
+            .quick-btn {
+                padding: 4px 16px;
+                font-size: 13px;
+            }
+
+            .toolbar {
+                flex-direction: column;
+                gap: 12px;
+                align-items: stretch;
+            }
+
+            .toolbar-actions {
+                width: 100%;
+                justify-content: space-between;
+            }
+
+            .textbook-table {
+                font-size: 13px;
+            }
+
+            .textbook-table th,
+            .textbook-table td {
+                padding: 12px;
+            }
+
+            .hide-mobile {
+                display: none !important;
+            }
+
+            .btn-download {
+                padding: 6px 16px;
+                font-size: 13px;
+            }
+
+            .textbook-grid {
+                grid-template-columns: 1fr;
+                gap: 12px;
+            }
+
+            .pagination {
+                gap: 4px;
+            }
+
+            .page-btn {
+                padding: 6px 10px;
+                min-width: 36px;
+                font-size: 13px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .stats {
+                display: none;
+            }
+
+            .modal-content {
+                margin: 16px;
+                padding: 24px;
+                max-width: 100%;
+            }
+            
+            .download-field {
+                margin-bottom: 20px;
+            }
+            
+            .download-tips {
+                padding: 14px 16px;
+            }
+            
+            .download-tips li {
+                padding-left: 20px;
+            }
+        }
+
+
+        /* 热门教材快捷入口样式 */
+        .popular-section {
+            background: #f5f7fa;
+            padding: 30px 0;
+            margin-top: -20px;
+            transition: var(--transition);
+        }
+        
+        [data-theme="dark"] .popular-section {
+            background: var(--popular-bg);
+        }
+
+        .popular-header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .popular-header h3 {
+            font-size: 24px;
+            color: var(--text);
+            margin-bottom: 8px;
+        }
+
+        .popular-header p {
+            color: var(--text-secondary);
+            font-size: 16px;
+        }
+
+        .popular-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .popular-btn {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 24px 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            text-align: center;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .popular-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+            border-color: var(--primary-hover);
+        }
+
+        .popular-icon {
+            font-size: 36px;
+            margin-bottom: 12px;
+        }
+
+        .popular-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text);
+            margin-bottom: 4px;
+        }
+
+        .popular-count {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        /* 响应式设计 - 人教版专区 */
+        @media (max-width: 768px) {
+            .renjiao-card {
+                padding: 20px;
+            }
+
+            .renjiao-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 12px;
+            }
+
+            .hot-combos-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .grade-buttons {
+                margin-left: 0;
+                margin-top: 10px;
+            }
+
+            .subject-grid {
+                grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+            }
+
+            .renjiao-actions {
+                flex-direction: column;
+            }
+
+            .popular-grid {
+                grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+                gap: 12px;
+            }
+
+            .popular-btn {
+                padding: 20px 16px;
+            }
+
+            .popular-icon {
+                font-size: 28px;
+            }
+
+            .popular-title {
+                font-size: 14px;
+            }
+        }
+
+        /* 打印样式 */
+        @media print {
+            header,
+            .search-section,
+            .renjiao-section,
+            .filters,
+            .toolbar,
+            .pagination,
+            .mobile-filter-btn,
+            .btn-download {
+                display: none !important;
+            }
+
+            .main {
+                display: block;
+            }
+
+            .content {
+                box-shadow: none;
+                padding: 0;
+            }
+
+            .textbook-table {
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 头部 -->
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-icon">📚</span>
+                    <span>中小学教材下载中心</span>
+                </div>
+                <div class="header-actions">
+                    <div class="stats">
+                        共收录 <strong id="totalCount">4023</strong> 本教材
+                    </div>
+                    <button class="theme-toggle" id="themeToggle" title="切换主题">
+                        🌙
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- 搜索区域 -->
+    <section class="search-section">
+        <div class="container">
+            <div class="search-wrapper">
+                <h1 class="search-title">快速查找您需要的教材资源</h1>
+                <div class="search-box">
+                    <input type="text" class="search-input" id="searchInput" 
+                           placeholder="搜索教材名称、学科、年级、版本..." 
+                           autocomplete="off">
+                    <button class="search-btn" onclick="search()">
+                        <span>搜索</span>
+                    </button>
+                </div>
+                <div class="quick-filters">
+                    <button class="quick-btn" onclick="quickFilter('stage', '小学')">小学</button>
+                    <button class="quick-btn" onclick="quickFilter('stage', '初中')">初中</button>
+                    <button class="quick-btn" onclick="quickFilter('stage', '高中')">高中</button>
+                    <button class="quick-btn" onclick="quickFilter('subject', '语文')">语文</button>
+                    <button class="quick-btn" onclick="quickFilter('subject', '数学')">数学</button>
+                    <button class="quick-btn" onclick="quickFilter('subject', '英语')">英语</button>
+                    <button class="quick-btn" onclick="quickFilter('publisher', '人教')">人教版</button>
+                    <button class="quick-btn" onclick="quickFilter('publisher', '北师大')">北师大版</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 热门教材快捷入口 -->
+    <section class="popular-section">
+        <div class="container">
+            <div class="popular-header">
+                <h3>🔥 热门教材套装</h3>
+                <p>快速查找常用教材组合</p>
+            </div>
+            <div class="popular-grid">
+                <button class="popular-btn" onclick="quickTextbookFilter('统编版小学语文')"><div class="popular-icon">📖</div><div class="popular-title">统编版小学语文</div><div class="popular-count" id="pop-tb-primary-chinese">12本</div></button>
+                <button class="popular-btn" onclick="quickTextbookFilter('人教版小学数学')"><div class="popular-icon">📐</div><div class="popular-title">人教版小学数学</div><div class="popular-count" id="pop-rj-primary-math">12本</div></button>
+                <button class="popular-btn" onclick="quickTextbookFilter('人教版初中全套')"><div class="popular-icon">📚</div><div class="popular-title">人教版初中全套</div><div class="popular-count" id="pop-rj-middle-all">79本</div></button>
+                <button class="popular-btn" onclick="quickTextbookFilter('北师大版数学')"><div class="popular-icon">🔢</div><div class="popular-title">北师大版数学</div><div class="popular-count" id="pop-bsd-math">22本</div></button>
+                <button class="popular-btn" onclick="quickTextbookFilter('苏教版数学')"><div class="popular-icon">📝</div><div class="popular-title">苏教版数学</div><div class="popular-count" id="pop-sj-math">16本</div></button>
+                <button class="popular-btn" onclick="quickTextbookFilter('外研版英语')"><div class="popular-icon">🌐</div><div class="popular-title">外研版英语</div><div class="popular-count" id="pop-wy-english">58本</div></button>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- 主体内容 -->
+    <main class="container">
+        <div class="main">
+            <!-- 筛选面板 -->
+            <aside class="filters" id="filterPanel">
+                <div class="filter-header">
+                    <h3>筛选条件</h3>
+                    <span class="filter-clear-all" onclick="clearAllFilters()">清除全部</span>
+                </div>
+                
+                <div class="filter-group">
+                    <div class="filter-title">
+                        学段
+                        <span class="filter-clear" onclick="clearFilter('stage')">清除</span>
+                    </div>
+                    <div class="filter-items" id="stageFilters">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-title">
+                        学科
+                        <span class="filter-clear" onclick="clearFilter('subject')">清除</span>
+                    </div>
+                    <div class="filter-items" id="subjectFilters">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-title">
+                        版本
+                        <span class="filter-clear" onclick="clearFilter('publisher')">清除</span>
+                    </div>
+                    <div class="filter-items" id="publisherFilters">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+
+                <div class="filter-group">
+                    <div class="filter-title">
+                        年级
+                        <span class="filter-clear" onclick="clearFilter('grade')">清除</span>
+                    </div>
+                    <div class="filter-items" id="gradeFilters">
+                        <!-- 动态生成 -->
+                    </div>
+                </div>
+            </aside>
+
+            <!-- 内容区域 -->
+            <section class="content">
+                <!-- 工具栏 -->
+                <div class="toolbar">
+                    <div class="result-info">
+                        找到 <strong id="resultCount">0</strong> 本教材
+                    </div>
+                    <div class="toolbar-actions">
+                        <select class="sort-select" id="sortSelect" onchange="sortTextbooks()">
+                            <option value="">默认排序</option>
+                            <option value="name">按名称排序</option>
+                            <option value="grade">按年级排序</option>
+                            <option value="subject">按学科排序</option>
+                            <option value="stage">按学段排序</option>
+                        </select>
+                        <div class="view-toggle">
+                            <button class="view-btn active" data-view="table" onclick="switchView('table')">
+                                📋
+                            </button>
+                            <button class="view-btn" data-view="grid" onclick="switchView('grid')">
+                                📦
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 教材列表 -->
+                <div id="textbookList">
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        <p>正在加载教材数据...</p>
+                    </div>
+                </div>
+
+                <!-- 分页 -->
+                <div class="pagination" id="pagination"></div>
+            </section>
+        </div>
+    </main>
+
+    <!-- 移动端筛选按钮 -->
+    <button class="mobile-filter-btn" onclick="toggleFilters()">
+        🔍
+    </button>
+
+    <!-- 移动端遮罩 -->
+    <div class="mobile-overlay" id="mobileOverlay" onclick="toggleFilters()"></div>
+
+    <!-- 下载弹窗 -->
+    <div class="modal" id="downloadModal" onclick="closeModalOnOverlay(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <div class="modal-header">
+                <h3 class="modal-title">下载教材</h3>
+                <span class="modal-close" onclick="closeModal()">&times;</span>
+            </div>
+            <div id="modalBody">
+                <!-- 动态内容 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- 教材数据 -->
+    <script src="textbooks.js"></script>
+    
+    <!-- 应用逻辑 -->
+    <script>
+        // 应用状态
+        const app = {
+            textbooks: [],
+            filteredTextbooks: [],
+            currentPage: 1,
+            pageSize: 20,
+            viewMode: 'table',
+            filters: {
+                stage: [],
+                subject: [],
+                publisher: [],
+                grade: [],
+                search: ''
+            }
+        };
+
+        // 初始化
+        function init() {
+            // 加载数据
+            app.textbooks = TEXTBOOKS || [];
+            app.filteredTextbooks = [...app.textbooks];
+            
+            // 更新总数
+            document.getElementById('totalCount').textContent = app.textbooks.length;
+            
+            // 生成筛选器
+            generateFilters();
+            
+            // 渲染列表
+            renderTextbooks();
+            
+            // 绑定事件
+            bindEvents();
+            
+            // 恢复主题
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            document.documentElement.setAttribute('data-theme', savedTheme);
+            updateThemeToggle(savedTheme);
+        }
+
+        // 生成筛选器
+        function generateFilters() {
+            // 统计各维度数据
+            const stats = {
+                stage: {},
+                subject: {},
+                publisher: {},
+                grade: {}
+            };
+            
+            app.textbooks.forEach(textbook => {
+                // 学段
+                if (textbook.stage) {
+                    stats.stage[textbook.stage] = (stats.stage[textbook.stage] || 0) + 1;
+                }
+                
+                // 学科
+                if (textbook.subject) {
+                    stats.subject[textbook.subject] = (stats.subject[textbook.subject] || 0) + 1;
+                }
+                
+                // 版本
+                if (textbook.publisher) {
+                    stats.publisher[textbook.publisher] = (stats.publisher[textbook.publisher] || 0) + 1;
+                }
+                
+                // 年级 - 提取主要年级信息（去除册别）
+                if (textbook.gradeStr) {
+                    // 提取年级部分，去除"上册"、"下册"等
+                    let gradeKey = textbook.gradeStr;
+                    if (gradeKey.includes('上册') || gradeKey.includes('下册')) {
+                        gradeKey = gradeKey.replace(/上册|下册/g, '').trim();
+                    }
+                    if (gradeKey && gradeKey !== '') {
+                        stats.grade[gradeKey] = (stats.grade[gradeKey] || 0) + 1;
+                    }
+                }
+            });
+            
+            // 渲染筛选组
+            renderFilterGroup('stageFilters', stats.stage, 'stage');
+            renderFilterGroup('subjectFilters', stats.subject, 'subject');
+            renderFilterGroup('publisherFilters', stats.publisher, 'publisher');
+            renderFilterGroup('gradeFilters', stats.grade, 'grade');
+        }
+
+        // 渲染筛选组
+        function renderFilterGroup(containerId, stats, filterType) {
+            const container = document.getElementById(containerId);
+            const items = Object.entries(stats)
+                .filter(([key]) => key && key !== '0')
+                .sort((a, b) => {
+                    // 按数量降序排序
+                    return b[1] - a[1];
+                });
+            
+            container.innerHTML = items.map(([item, count], index) => {
+                const value = item;
+                const displayText = item;
+                
+                return `
+                    <div class="filter-item">
+                        <input type="checkbox" 
+                               id="${filterType}-${index}" 
+                               value="${value}" 
+                               onchange="filterChange('${filterType}', this)">
+                        <label for="${filterType}-${index}">${displayText}</label>
+                        <span class="filter-count">${count}</span>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // 筛选变化
+        function filterChange(type, checkbox) {
+            const value = checkbox.value;
+            if (checkbox.checked) {
+                app.filters[type].push(value);
+            } else {
+                const index = app.filters[type].indexOf(value);
+                if (index > -1) {
+                    app.filters[type].splice(index, 1);
+                }
+            }
+            applyFilters();
+        }
+
+        // 年级中文数字映射
+        const gradeMap = {
+            '一': 1, '二': 2, '三': 3, '四': 4, '五': 5, 
+            '六': 6, '七': 7, '八': 8, '九': 9,
+            '1': 1, '2': 2, '3': 3, '4': 4, '5': 5,
+            '6': 6, '7': 7, '8': 8, '9': 9
+        };
+
+        // 将搜索词转换为标准格式
+        function normalizeSearchTerm(term) {
+            let normalized = term;
+            
+            // 替换年级相关的词
+            Object.keys(gradeMap).forEach(key => {
+                const regex = new RegExp(key + '年级', 'g');
+                normalized = normalized.replace(regex, gradeMap[key] + '年级');
+            });
+            
+            return normalized;
+        }
+
+        // 检查是否匹配搜索
+        function matchesSearch(textbook, searchTerms) {
+            // 构建搜索文本，包含所有相关字段
+            const searchableFields = [
+                textbook.name,
+                textbook.subject,
+                textbook.stage,
+                textbook.publisher,
+                textbook.gradeStr,
+                textbook.term,
+                textbook.originalTitle
+            ].filter(Boolean);
+            
+            const searchableText = searchableFields.join(' ').toLowerCase();
+            
+            // 检查每个搜索词是否都能匹配
+            return searchTerms.every(term => {
+                // 先尝试直接匹配
+                if (searchableText.includes(term)) {
+                    return true;
+                }
+                
+                // 对年级进行特殊处理
+                const gradeMatch = term.match(/([一二三四五六七八九123456789])年级/);
+                if (gradeMatch) {
+                    const gradeNum = gradeMap[gradeMatch[1]];
+                    if (gradeNum && textbook.gradeStr && textbook.gradeStr.includes(gradeMatch[0])) {
+                        return true;
+                    }
+                }
+                
+                // 检查是否只输入了年级数字
+                if (gradeMap[term] && textbook.gradeStr) {
+                    const gradeText = gradeMap[term] + '年级';
+                    if (textbook.gradeStr.includes(gradeText)) {
+                        return true;
+                    }
+                }
+                
+                return false;
+            });
+        }
+
+        // 应用筛选
+        function applyFilters() {
+            app.filteredTextbooks = app.textbooks.filter(textbook => {
+                // 搜索筛选
+                if (app.filters.search) {
+                    const searchLower = app.filters.search.toLowerCase().trim();
+                    
+                    // 分词处理：按空格、逗号等分割
+                    const searchTerms = searchLower
+                        .split(/[\s,，、]+/)
+                        .filter(term => term.length > 0)
+                        .map(term => normalizeSearchTerm(term));
+                    
+                    // 如果没有有效的搜索词，跳过搜索筛选
+                    if (searchTerms.length === 0) {
+                        return true;
+                    }
+                    
+                    // 检查是否匹配所有搜索词
+                    if (!matchesSearch(textbook, searchTerms)) {
+                        return false;
+                    }
+                }
+                
+                // 分类筛选
+                if (app.filters.stage.length && !app.filters.stage.includes(textbook.stage)) return false;
+                if (app.filters.subject.length && !app.filters.subject.includes(textbook.subject)) return false;
+                // 出版社筛选 - 支持部分匹配
+                if (app.filters.publisher.length) {
+                    let publisherMatched = false;
+                    for (let filterPublisher of app.filters.publisher) {
+                        if (textbook.publisher && textbook.publisher.includes(filterPublisher)) {
+                            publisherMatched = true;
+                            break;
+                        }
+                    }
+                    if (!publisherMatched) return false;
+                }
+                // 年级筛选 - 支持部分匹配（忽略册别）
+                if (app.filters.grade.length) {
+                    let gradeMatched = false;
+                    for (let filterGrade of app.filters.grade) {
+                        if (textbook.gradeStr && textbook.gradeStr.includes(filterGrade)) {
+                            gradeMatched = true;
+                            break;
+                        }
+                    }
+                    if (!gradeMatched) return false;
+                }
+                
+                return true;
+            });
+            
+            app.currentPage = 1;
+            renderTextbooks();
+        }
+
+        // 渲染教材列表
+        function renderTextbooks() {
+            const start = (app.currentPage - 1) * app.pageSize;
+            const end = start + app.pageSize;
+            const pageData = app.filteredTextbooks.slice(start, end);
+            
+            // 更新结果数量
+            document.getElementById('resultCount').textContent = app.filteredTextbooks.length;
+            
+            const listContainer = document.getElementById('textbookList');
+            
+            if (pageData.length === 0) {
+                listContainer.innerHTML = `
+                    <div class="empty">
+                        <div class="empty-icon">📭</div>
+                        <p class="empty-text">没有找到符合条件的教材</p>
+                        <p class="empty-hint">请尝试调整筛选条件或搜索关键词</p>
+                    </div>
+                `;
+                document.getElementById('pagination').innerHTML = '';
+                return;
+            }
+            
+            if (app.viewMode === 'table') {
+                renderTableView(listContainer, pageData);
+            } else {
+                renderGridView(listContainer, pageData);
+            }
+            
+            // 渲染分页
+            renderPagination();
+        }
+
+        // 表格视图
+        function renderTableView(container, data) {
+            container.innerHTML = `
+                <table class="textbook-table">
+                    <thead>
+                        <tr>
+                            <th>教材名称</th>
+                            <th class="hide-mobile">学段</th>
+                            <th>学科</th>
+                            <th class="hide-mobile">年级</th>
+                            <th class="hide-mobile">版本</th>
+                            <th>大小</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${data.map(textbook => `
+                            <tr>
+                                <td>
+                                    <div class="textbook-name">${textbook.name}</div>
+                                    <div class="textbook-meta hide-mobile">
+                                        <span class="meta-tag">📖 ${textbook.originalTitle || textbook.name}</span>
+                                    </div>
+                                </td>
+                                <td class="hide-mobile">${textbook.stage || '-'}</td>
+                                <td>${textbook.subject || '-'}</td>
+                                <td class="hide-mobile">${textbook.gradeStr || '-'} ${textbook.term || ''}</td>
+                                <td class="hide-mobile">${textbook.publisher || '-'}</td>
+                                <td>${textbook.size}</td>
+                                <td>
+                                    <button class="btn-download" onclick="showDownload(${textbook.id})">
+                                        <span>下载</span>
+                                    </button>
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            `;
+        }
+
+        // 网格视图
+        function renderGridView(container, data) {
+            container.innerHTML = `
+                <div class="textbook-grid">
+                    ${data.map(textbook => `
+                        <div class="textbook-card" onclick="showDownload(${textbook.id})">
+                            <div class="card-header">
+                                <h3 class="card-title">${textbook.name}</h3>
+                            </div>
+                            <div class="card-meta">
+                                ${textbook.stage ? `<span class="card-tag primary">${textbook.stage}</span>` : ''}
+                                ${textbook.subject ? `<span class="card-tag">${textbook.subject}</span>` : ''}
+                                ${textbook.gradeStr ? `<span class="card-tag">${textbook.gradeStr}${textbook.term ? ' ' + textbook.term : ''}</span>` : ''}
+                                ${textbook.publisher ? `<span class="card-tag">${textbook.publisher}</span>` : ''}
+                            </div>
+                            <div class="card-footer">
+                                <span class="card-size">📄 ${textbook.size}</span>
+                                <button class="btn-download" onclick="event.stopPropagation(); showDownload(${textbook.id})">
+                                    下载
+                                </button>
+                            </div>
+                        </div>
+                    `).join('')}
+                </div>
+            `;
+        }
+
+        // 渲染分页
+        function renderPagination() {
+            const totalPages = Math.ceil(app.filteredTextbooks.length / app.pageSize);
+            const container = document.getElementById('pagination');
+            
+            if (totalPages <= 1) {
+                container.innerHTML = '';
+                return;
+            }
+            
+            let html = '';
+            
+            // 上一页
+            html += `<button class="page-btn" onclick="goToPage(${app.currentPage - 1})" 
+                     ${app.currentPage === 1 ? 'disabled' : ''}>上一页</button>`;
+            
+            // 页码逻辑
+            const maxButtons = 7;
+            let startPage = 1;
+            let endPage = totalPages;
+            
+            if (totalPages > maxButtons) {
+                const half = Math.floor(maxButtons / 2);
+                if (app.currentPage <= half) {
+                    endPage = maxButtons - 1;
+                } else if (app.currentPage >= totalPages - half) {
+                    startPage = totalPages - maxButtons + 2;
+                } else {
+                    startPage = app.currentPage - half + 1;
+                    endPage = app.currentPage + half - 1;
+                }
+            }
+            
+            // 第一页
+            if (startPage > 1) {
+                html += `<button class="page-btn" onclick="goToPage(1)">1</button>`;
+                if (startPage > 2) {
+                    html += `<span class="page-ellipsis">...</span>`;
+                }
+            }
+            
+            // 中间页码
+            for (let i = startPage; i <= endPage; i++) {
+                if (i > 0 && i <= totalPages) {
+                    html += `<button class="page-btn ${i === app.currentPage ? 'active' : ''}" 
+                             onclick="goToPage(${i})">${i}</button>`;
+                }
+            }
+            
+            // 最后一页
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) {
+                    html += `<span class="page-ellipsis">...</span>`;
+                }
+                html += `<button class="page-btn" onclick="goToPage(${totalPages})">${totalPages}</button>`;
+            }
+            
+            // 下一页
+            html += `<button class="page-btn" onclick="goToPage(${app.currentPage + 1})" 
+                     ${app.currentPage === totalPages ? 'disabled' : ''}>下一页</button>`;
+            
+            container.innerHTML = html;
+        }
+
+        // 跳转页面
+        function goToPage(page) {
+            const totalPages = Math.ceil(app.filteredTextbooks.length / app.pageSize);
+            if (page < 1 || page > totalPages) return;
+            
+            app.currentPage = page;
+            renderTextbooks();
+            
+            // 滚动到顶部
+            const content = document.querySelector('.content');
+            content.scrollTop = 0;
+        }
+
+        // 搜索
+        function search() {
+            app.filters.search = document.getElementById('searchInput').value.trim();
+            applyFilters();
+        }
+
+        // 快速筛选
+        function quickFilter(type, value) {
+            // 切换快捷按钮状态
+            const btn = event.target;
+            btn.classList.toggle('active');
+            
+            if (btn.classList.contains('active')) {
+                // 添加筛选
+                if (type === 'grade') {
+                    app.filters[type].push(parseInt(value));
+                } else {
+                    app.filters[type].push(value);
+                }
+            } else {
+                // 移除筛选
+                const index = app.filters[type].indexOf(type === 'grade' ? parseInt(value) : value);
+                if (index > -1) {
+                    app.filters[type].splice(index, 1);
+                }
+            }
+            
+            // 更新对应的复选框
+            updateFilterCheckboxes();
+            applyFilters();
+        }
+
+        // 更新筛选复选框状态
+        function updateFilterCheckboxes() {
+            // 更新所有复选框
+            ['stage', 'subject', 'publisher', 'grade'].forEach(type => {
+                document.querySelectorAll(`#${type}Filters input`).forEach(input => {
+                    const value = type === 'grade' ? parseInt(input.value) : input.value;
+                    input.checked = app.filters[type].includes(value);
+                });
+            });
+        }
+
+        // 清除筛选
+        function clearFilter(type) {
+            app.filters[type] = [];
+            updateFilterCheckboxes();
+            
+            // 清除对应的快捷按钮
+            document.querySelectorAll('.quick-btn').forEach(btn => {
+                const [filterType, filterValue] = getQuickFilterInfo(btn);
+                if (filterType === type) {
+                    btn.classList.remove('active');
+                }
+            });
+            
+            applyFilters();
+        }
+
+        // 清除所有筛选
+        function clearAllFilters() {
+            app.filters = {
+                stage: [],
+                subject: [],
+                publisher: [],
+                grade: [],
+                search: app.filters.search
+            };
+            
+            updateFilterCheckboxes();
+            document.querySelectorAll('.quick-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            applyFilters();
+        }
+
+        // 获取快捷筛选信息
+        function getQuickFilterInfo(btn) {
+            const onclick = btn.getAttribute('onclick');
+            const match = onclick.match(/quickFilter\('(\w+)',\s*'([^']+)'\)/);
+            return match ? [match[1], match[2]] : [null, null];
+        }
+
+        // 排序
+        function sortTextbooks() {
+            const sortBy = document.getElementById('sortSelect').value;
+            if (!sortBy) {
+                app.filteredTextbooks = [...app.filteredTextbooks];
+            } else {
+                app.filteredTextbooks.sort((a, b) => {
+                    switch(sortBy) {
+                        case 'name':
+                            return (a.name || '').localeCompare(b.name || '', 'zh-CN');
+                        case 'grade':
+                            // 使用 gradeStr 进行排序
+                            const aGrade = a.gradeStr || '';
+                            const bGrade = b.gradeStr || '';
+                            return aGrade.localeCompare(bGrade, 'zh-CN');
+                        case 'subject':
+                            return (a.subject || '').localeCompare(b.subject || '', 'zh-CN');
+                        case 'stage':
+                            const stageOrder = ['小学', '初中', '高中', '特殊教育', '教学指南'];
+                            return stageOrder.indexOf(a.stage) - stageOrder.indexOf(b.stage);
+                        default:
+                            return 0;
+                    }
+                });
+            }
+            
+            app.currentPage = 1;
+            renderTextbooks();
+        }
+
+        // 切换视图
+        function switchView(view) {
+            app.viewMode = view;
+            
+            // 更新按钮状态
+            document.querySelectorAll('.view-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.view === view);
+            });
+            
+            renderTextbooks();
+        }
+
+        // 获取教材的百度网盘信息
+        function getBaiduInfo(textbook) {
+            const stage = textbook.stage;
+            
+            // 处理特殊情况
+            if (stage.includes('五•四学制')) {
+                if (stage.includes('小学')) return BAIDU_DISK_SHARES['小学54'];
+                if (stage.includes('初中')) return BAIDU_DISK_SHARES['初中54'];
+            }
+            
+            // 映射特殊名称
+            const stageMap = {
+                '特殊教育': '特教',
+                '教师用书': '教师用书'
+            };
+            
+            const mappedStage = stageMap[stage] || stage;
+            return BAIDU_DISK_SHARES[mappedStage] || BAIDU_DISK_SHARES['小学']; // 默认返回小学
+        }
+
+        // 显示下载弹窗
+        function showDownload(id) {
+            const textbook = app.textbooks.find(t => t.id === id);
+            if (!textbook) return;
+            
+            // 从BAIDU_DISK_SHARES获取百度网盘信息
+            const baiduInfo = getBaiduInfo(textbook);
+            
+            const modalBody = document.getElementById('modalBody');
+            modalBody.innerHTML = `
+                <div class="download-info">
+                    <h4>${textbook.name}</h4>
+                    <p>📚 ${textbook.stage} - ${textbook.subject} - ${textbook.gradeStr || ''} ${textbook.term}</p>
+                    <p>📖 出版社：${textbook.publisher || '未知'}</p>
+                    <p>📊 文件大小：${textbook.size}</p>
+                </div>
+                
+                <div class="download-field">
+                    <label>📎 百度网盘链接（${textbook.stage}）：</label>
+                    <div class="download-link">
+                        <input type="text" value="${baiduInfo.link}" id="link-${id}" readonly>
+                        <span class="copy-icon" onclick="copyTextIcon('link-${id}', this)" title="复制链接">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                            </svg>
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="download-field">
+                    <label>🔑 提取码：</label>
+                    <div class="download-link">
+                        <input type="text" value="${baiduInfo.pwd}" id="pwd-${id}" readonly>
+                        <span class="copy-icon" onclick="copyTextIcon('pwd-${id}', this)" title="复制提取码">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                            </svg>
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="download-field download-field-path">
+                    <label>📁 文件路径（在百度网盘中的位置）：</label>
+                    <div class="download-link">
+                        <input type="text" value="${textbook.pathInDisk}" id="path-${id}" readonly>
+                        <span class="copy-icon" onclick="copyTextIcon('path-${id}', this)" title="复制路径">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                                <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                            </svg>
+                        </span>
+                    </div>
+                </div>
+                
+                <button class="btn-open" onclick="window.open('${baiduInfo.link}', '_blank')">
+                    🚀 打开百度网盘
+                </button>
+                
+                <div class="download-tips">
+                    <h5>下载步骤：</h5>
+                    <ul>
+                        <li>1. 点击"打开百度网盘"或复制链接到浏览器</li>
+                        <li>2. 输入提取码：<strong>${baiduInfo.pwd}</strong></li>
+                        <li>3. 进入百度网盘后，按照上面的文件路径找到教材</li>
+                        <li>4. 文件名：<strong>${textbook.fileName}</strong></li>
+                    </ul>
+                </div>
+            `;
+            
+            document.getElementById('downloadModal').classList.add('show');
+        }
+
+        // 关闭弹窗
+        function closeModal() {
+            document.getElementById('downloadModal').classList.remove('show');
+        }
+
+        // 点击遮罩关闭弹窗
+        function closeModalOnOverlay(event) {
+            if (event.target.classList.contains('modal')) {
+                closeModal();
+            }
+        }
+
+        // 复制文本（新版，使用图标）
+        function copyTextIcon(inputId, iconElement) {
+            const input = document.getElementById(inputId);
+            
+            // 选择文本
+            input.select();
+            input.setSelectionRange(0, 99999);
+            
+            // 复制
+            try {
+                document.execCommand('copy');
+                
+                // 成功提示
+                iconElement.classList.add('copied');
+                const originalTitle = iconElement.title;
+                iconElement.title = '已复制';
+                
+                // 更改图标为勾选
+                iconElement.innerHTML = `
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="20 6 9 17 4 12"></polyline>
+                    </svg>
+                `;
+                
+                setTimeout(() => {
+                    iconElement.classList.remove('copied');
+                    iconElement.title = originalTitle;
+                    // 恢复原始图标
+                    iconElement.innerHTML = `
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect>
+                            <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>
+                        </svg>
+                    `;
+                }, 2000);
+            } catch (err) {
+                console.error('复制失败:', err);
+            }
+        }
+
+        // 切换筛选面板（移动端）
+        function toggleFilters() {
+            const filterPanel = document.getElementById('filterPanel');
+            const overlay = document.getElementById('mobileOverlay');
+            
+            filterPanel.classList.toggle('show');
+            overlay.classList.toggle('show');
+        }
+
+        // 切换主题
+        function toggleTheme() {
+            const currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+            const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+            
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateThemeToggle(newTheme);
+        }
+
+        // 更新主题按钮
+        function updateThemeToggle(theme) {
+            const btn = document.getElementById('themeToggle');
+            btn.textContent = theme === 'light' ? '🌙' : '☀️';
+            btn.title = theme === 'light' ? '切换到深色模式' : '切换到浅色模式';
+        }
+
+        // 防抖函数
+        function debounce(func, wait) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    clearTimeout(timeout);
+                    func(...args);
+                };
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+            };
+        }
+
+        // 绑定事件
+        function bindEvents() {
+            // 搜索框事件
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', debounce(() => {
+                app.filters.search = searchInput.value.trim();
+                applyFilters();
+            }, 300));
+            
+            searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    search();
+                }
+            });
+            
+            // 主题切换
+            document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+            
+            // ESC键关闭
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') {
+                    closeModal();
+                    if (window.innerWidth <= 1024) {
+                        const filterPanel = document.getElementById('filterPanel');
+                        const overlay = document.getElementById('mobileOverlay');
+                        filterPanel.classList.remove('show');
+                        overlay.classList.remove('show');
+                    }
+                }
+            });
+            
+            // 窗口大小改变
+            let resizeTimer;
+            window.addEventListener('resize', () => {
+                clearTimeout(resizeTimer);
+                resizeTimer = setTimeout(() => {
+                    if (window.innerWidth > 1024) {
+                        const filterPanel = document.getElementById('filterPanel');
+                        const overlay = document.getElementById('mobileOverlay');
+                        filterPanel.classList.remove('show');
+                        overlay.classList.remove('show');
+                    }
+                }, 150);
+            });
+        }
+
+
+        // 快速教材筛选功能
+        function quickTextbookFilter(filterName) {
+            // 清除现有筛选
+            clearAllFilters();
+            
+            // 根据不同的筛选名称设置过滤条件
+            switch(filterName) {
+                case '统编版小学语文':
+                    app.filters.publisher.push('统编版');
+                    app.filters.stage.push('小学');
+                    app.filters.subject.push('语文');
+                    break;
+                case '人教版小学数学':
+                    app.filters.publisher.push('人教');
+                    app.filters.stage.push('小学');
+                    app.filters.subject.push('数学');
+                    break;
+                case '人教版初中全套':
+                    app.filters.publisher.push('人教');
+                    app.filters.stage.push('初中');
+                    break;
+                case '北师大版数学':
+                    app.filters.publisher.push('北师大版');
+                    app.filters.subject.push('数学');
+                    break;
+                case '苏教版数学':
+                    app.filters.publisher.push('苏教版');
+                    app.filters.subject.push('数学');
+                    break;
+                case '外研版英语':
+                    app.filters.publisher.push('外研社');
+                    app.filters.subject.push('英语');
+                    break;
+            }
+            
+            // 更新筛选器复选框状态
+            updateFilterCheckboxes();
+            
+            // 应用筛选
+            applyFilters();
+            
+            // 滚动到结果区域
+            document.querySelector('.content').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        // 初始化热门教材数量统计
+        function initPopularCounts() {
+            // 统计各个热门教材组合的数量
+            const counts = {
+                'pop-tb-primary-chinese': app.textbooks.filter(t => 
+                    t.publisher === '统编版' && 
+                    t.stage === '小学' && 
+                    t.subject === '语文').length,
+                'pop-rj-primary-math': app.textbooks.filter(t => 
+                    t.publisher && t.publisher.includes('人教') && 
+                    t.stage === '小学' && 
+                    t.subject === '数学').length,
+                'pop-rj-middle-all': app.textbooks.filter(t => 
+                    t.publisher && t.publisher.includes('人教') && 
+                    t.stage === '初中').length,
+                'pop-bsd-math': app.textbooks.filter(t => 
+                    t.publisher === '北师大版' && 
+                    t.subject === '数学').length,
+                'pop-sj-math': app.textbooks.filter(t => 
+                    t.publisher === '苏教版' && 
+                    t.subject === '数学').length,
+                'pop-wy-english': app.textbooks.filter(t => 
+                    t.publisher === '外研社版' && 
+                    t.subject === '英语').length
+            };
+            
+            // 更新显示
+            Object.keys(counts).forEach(id => {
+                const elem = document.getElementById(id);
+                if (elem) {
+                    elem.textContent = `${counts[id]}本`;
+                }
+            });
+        }
+
+        // 页面加载完成后初始化
+        window.addEventListener('DOMContentLoaded', () => {
+            init();
+            initPopularCounts();
+        });
+    </script>
+</body>
+</html>

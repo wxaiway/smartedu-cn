@@ -1,0 +1,534 @@
+{
+  "group": "小学_语文·书法练习指导",
+  "count": 88,
+  "books": [
+    {
+      "id": "92b904e8-f9f0-4b25-b168-1230b9c373e4",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=92b904e8-f9f0-4b25-b168-1230b9c373e4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "25dda26f-3ff0-433e-955a-aa92a8e7f203",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=25dda26f-3ff0-433e-955a-aa92a8e7f203&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0dabe63c-bc33-40b4-8213-28a6ce4cb85b",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0dabe63c-bc33-40b4-8213-28a6ce4cb85b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1f3409ab-c209-48ba-9263-9bc7ddcae7f4",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1f3409ab-c209-48ba-9263-9bc7ddcae7f4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3a193efc-c843-4263-b7c2-329c94e6d321",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3a193efc-c843-4263-b7c2-329c94e6d321&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "64e50c98-f6ca-4c2a-ac90-81dd332c7508",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=64e50c98-f6ca-4c2a-ac90-81dd332c7508&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aeab9f94-d8e8-441f-8adb-c2c84a7efdf4",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aeab9f94-d8e8-441f-8adb-c2c84a7efdf4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ba736c3-3c83-4246-8b7f-2b4ce967b6ca",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 北师大版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ba736c3-3c83-4246-8b7f-2b4ce967b6ca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "88f95795-03d4-4e87-9999-b1b4a244dbe2",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=88f95795-03d4-4e87-9999-b1b4a244dbe2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5f00134f-7c11-4e8a-b174-a53c8449cfb3",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5f00134f-7c11-4e8a-b174-a53c8449cfb3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bf247dda-ac1a-4a83-b686-0d14558cd0be",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bf247dda-ac1a-4a83-b686-0d14558cd0be&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "56561a21-1cf6-47ed-bac9-84379b908e45",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=56561a21-1cf6-47ed-bac9-84379b908e45&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1c5907cd-ef41-4f88-a691-7e1aa296a815",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1c5907cd-ef41-4f88-a691-7e1aa296a815&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b6f64b9a-fed1-4580-8873-06c01649eede",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b6f64b9a-fed1-4580-8873-06c01649eede&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c5e08aa7-f969-4c6a-9900-f7a234fecd0f",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c5e08aa7-f969-4c6a-9900-f7a234fecd0f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0a3a0c93-8bca-4e90-8ada-8b818fd4a41c",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 粤教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0a3a0c93-8bca-4e90-8ada-8b818fd4a41c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe7f3d69-2dd9-4a81-a039-f8ea459646c3",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe7f3d69-2dd9-4a81-a039-f8ea459646c3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1423ce4-06ef-4017-86e8-41f5251ed5cd",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1423ce4-06ef-4017-86e8-41f5251ed5cd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01890c43-47b3-49ec-a78e-09a3dee7857e",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01890c43-47b3-49ec-a78e-09a3dee7857e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cd7c195b-4a72-410f-80c1-0567b93cf7c9",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cd7c195b-4a72-410f-80c1-0567b93cf7c9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "981b1468-0ebe-41a4-9fc6-79e11d93e927",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=981b1468-0ebe-41a4-9fc6-79e11d93e927&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "172e54c3-fc31-49c2-81e2-0d6c2dcaf994",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=172e54c3-fc31-49c2-81e2-0d6c2dcaf994&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf3c11a7-3204-41fe-9cb5-f84d689a5b37",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf3c11a7-3204-41fe-9cb5-f84d689a5b37&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "74f64458-5ea9-4e6d-b615-e161baf769f3",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 冀美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=74f64458-5ea9-4e6d-b615-e161baf769f3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "28bfedf1-59e7-4927-a313-d6b497553bb6",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=28bfedf1-59e7-4927-a313-d6b497553bb6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d1dd2ee9-f90f-41f1-95e7-4e022f85cae5",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d1dd2ee9-f90f-41f1-95e7-4e022f85cae5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "502ee2c9-19fc-4af1-b766-99802344ebb9",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=502ee2c9-19fc-4af1-b766-99802344ebb9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68916ebb-2e8f-4c91-9207-78a4c0386d48",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=68916ebb-2e8f-4c91-9207-78a4c0386d48&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1b72a26e-6de5-4a40-91c2-d5018638d3cb",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1b72a26e-6de5-4a40-91c2-d5018638d3cb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "daa3e742-33cd-460a-9581-524ac36faea5",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=daa3e742-33cd-460a-9581-524ac36faea5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cb0bf6fb-09f1-461a-a420-3c070041723f",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cb0bf6fb-09f1-461a-a420-3c070041723f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "91d72459-a677-4e4c-8167-5a108b040ac6",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 湘美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=91d72459-a677-4e4c-8167-5a108b040ac6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2467cd8d-4cfa-455f-9756-6e8caf1e40dc",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2467cd8d-4cfa-455f-9756-6e8caf1e40dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a44d23b-1bed-4c0c-bc59-75179597c66b",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a44d23b-1bed-4c0c-bc59-75179597c66b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eaa665bb-4a24-48f4-9f55-9f81542b38fd",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eaa665bb-4a24-48f4-9f55-9f81542b38fd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea105a87-6c3f-40ce-bdae-577cf52c6089",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea105a87-6c3f-40ce-bdae-577cf52c6089&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68884003-9378-458c-b6ca-f407fa49b661",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=68884003-9378-458c-b6ca-f407fa49b661&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9bfade3c-e70b-4981-a18d-e5ba6025348f",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9bfade3c-e70b-4981-a18d-e5ba6025348f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03f7793f-fc45-497a-abfd-49312e116530",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03f7793f-fc45-497a-abfd-49312e116530&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6a990a9-a96e-4462-a84f-24ef9fd38a68",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 华文社版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c6a990a9-a96e-4462-a84f-24ef9fd38a68&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b75220cc-3a2e-4f7e-a643-edd1069b6140",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b75220cc-3a2e-4f7e-a643-edd1069b6140&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d38d8ad7-d105-40da-b23b-f60421613433",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d38d8ad7-d105-40da-b23b-f60421613433&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aec8a51a-a6c4-451f-be7a-c9bc4eb0dad2",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aec8a51a-a6c4-451f-be7a-c9bc4eb0dad2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a6c3a0e-9270-4542-b6fa-8c057b393e09",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a6c3a0e-9270-4542-b6fa-8c057b393e09&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d591eeb4-658e-4f52-aa20-900c05c2dfad",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d591eeb4-658e-4f52-aa20-900c05c2dfad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a6609a7-951c-48e1-bb62-30ee842a578f",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a6609a7-951c-48e1-bb62-30ee842a578f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "63aa9cd3-ac68-49ef-8d78-0500eaa9d00a",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=63aa9cd3-ac68-49ef-8d78-0500eaa9d00a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9ebe7930-d942-4a4a-acaa-c12508b004ad",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 苏少版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9ebe7930-d942-4a4a-acaa-c12508b004ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a3f34dcf-8559-4cf4-b0d9-da9fda28053e",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a3f34dcf-8559-4cf4-b0d9-da9fda28053e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "865b1c2d-a8de-4df7-af8e-a11e42b9cace",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=865b1c2d-a8de-4df7-af8e-a11e42b9cace&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "32a7a1f6-da8d-4663-acf0-88d92b14b728",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=32a7a1f6-da8d-4663-acf0-88d92b14b728&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cada71d4-6557-4723-9b3f-9c83e95365ad",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cada71d4-6557-4723-9b3f-9c83e95365ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "54e50f95-2aae-4eb6-8798-e24836fd6d84",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=54e50f95-2aae-4eb6-8798-e24836fd6d84&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1870885b-abd4-4e9a-a5c7-16f2151932d2",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1870885b-abd4-4e9a-a5c7-16f2151932d2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2ff5c139-4cfc-406e-8789-55421d148e7d",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2ff5c139-4cfc-406e-8789-55421d148e7d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d73e0912-d1ed-4eae-a395-a58dab49c6ba",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 青岛版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d73e0912-d1ed-4eae-a395-a58dab49c6ba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9aaf6fee-4709-4063-a0bb-ca424fc659cf",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9aaf6fee-4709-4063-a0bb-ca424fc659cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "364b50ed-4482-4282-a83c-0b4a896d3184",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=364b50ed-4482-4282-a83c-0b4a896d3184&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ba959abd-d2f6-43f0-92ea-d3b6475938f3",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ba959abd-d2f6-43f0-92ea-d3b6475938f3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9aee59ce-aee1-4e4f-a1d8-58b1af086a1f",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9aee59ce-aee1-4e4f-a1d8-58b1af086a1f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b199345-b428-438d-b28b-b96e7cace48f",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b199345-b428-438d-b28b-b96e7cace48f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1c211508-4c3b-4f07-b9bb-3e541d085fbb",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1c211508-4c3b-4f07-b9bb-3e541d085fbb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19dd5456-1ebd-4ef7-a5bb-0264dfae57cf",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19dd5456-1ebd-4ef7-a5bb-0264dfae57cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "43aaff5d-feef-4d31-b8df-f2069694e838",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 人美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=43aaff5d-feef-4d31-b8df-f2069694e838&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "41b616dc-0285-4d7b-9dbf-acf607d1b847",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=41b616dc-0285-4d7b-9dbf-acf607d1b847&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c08b802a-04ca-4b85-98f0-a8072a683a6c",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c08b802a-04ca-4b85-98f0-a8072a683a6c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7ca54092-9f89-4e9f-9111-50b4578e69e9",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7ca54092-9f89-4e9f-9111-50b4578e69e9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "82638786-62be-4202-ba2d-36c64d26de1b",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=82638786-62be-4202-ba2d-36c64d26de1b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9edc602-4d50-4650-9e1a-c81484bd512d",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9edc602-4d50-4650-9e1a-c81484bd512d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b7c2fef2-eadd-4723-8a34-bf045605b73c",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b7c2fef2-eadd-4723-8a34-bf045605b73c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6ea6433c-7a48-429e-909d-3ccb4ee2ff79",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6ea6433c-7a48-429e-909d-3ccb4ee2ff79&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9494ffa1-a048-4fae-997b-1b034d36350c",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 晋人版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9494ffa1-a048-4fae-997b-1b034d36350c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "996c4df0-953b-4c94-bb72-be280cfb4778",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=996c4df0-953b-4c94-bb72-be280cfb4778&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c46e905e-1131-4278-953a-4cdaabd8601f",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c46e905e-1131-4278-953a-4cdaabd8601f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "310f3242-b73d-4008-9da0-567660a5a017",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=310f3242-b73d-4008-9da0-567660a5a017&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a624faf-5878-445d-a88a-efc1ddb72745",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a624faf-5878-445d-a88a-efc1ddb72745&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "69058e6d-90fb-4904-bf7f-4a8356ea204d",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=69058e6d-90fb-4904-bf7f-4a8356ea204d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ece87b8-ae51-4ee8-b874-abe30ff5b8a0",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ece87b8-ae51-4ee8-b874-abe30ff5b8a0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "840ed572-3a8a-4bcf-84c7-2641c121d13f",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=840ed572-3a8a-4bcf-84c7-2641c121d13f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ad3113ff-9712-49fb-ad4b-cabff8696812",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 沪科教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ad3113ff-9712-49fb-ad4b-cabff8696812&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bbd63754-bef1-4ced-82f3-71f0232a459c",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级上册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bbd63754-bef1-4ced-82f3-71f0232a459c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5d22158b-425b-4ab9-8652-0d98859f5407",
+      "title": "义务教育三至六年级·书法练习指导（实验）三年级下册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5d22158b-425b-4ab9-8652-0d98859f5407&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "78363f7c-446d-45e7-b6b2-bcfee6ca0e45",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级上册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=78363f7c-446d-45e7-b6b2-bcfee6ca0e45&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "789fce6c-fd9a-4a16-8627-5ec309a6f1a0",
+      "title": "义务教育三至六年级·书法练习指导（实验）四年级下册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=789fce6c-fd9a-4a16-8627-5ec309a6f1a0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "517aea3c-46e2-417e-9a4a-3514a069eb16",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级上册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=517aea3c-46e2-417e-9a4a-3514a069eb16&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6c5568cc-ef32-4186-90c3-78248022a91a",
+      "title": "义务教育三至六年级·书法练习指导（实验）五年级下册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6c5568cc-ef32-4186-90c3-78248022a91a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aed13131-6422-4d49-88d6-16e50bc8271f",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级上册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aed13131-6422-4d49-88d6-16e50bc8271f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0dba7dc8-f56b-4e75-8cc1-b9ba3c7051a7",
+      "title": "义务教育三至六年级·书法练习指导（实验）六年级下册",
+      "path": "小学 > 语文·书法练习指导 > 西泠印社版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0dba7dc8-f56b-4e75-8cc1-b9ba3c7051a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

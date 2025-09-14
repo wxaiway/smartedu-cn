@@ -1,0 +1,1128 @@
+{
+  "group": "小学_艺术·音乐",
+  "count": 187,
+  "books": [
+    {
+      "id": "24a22eeb-b39a-4ebe-a63b-ff27de640dde",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=24a22eeb-b39a-4ebe-a63b-ff27de640dde&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f206d867-0dbd-4bbf-bcd0-7c3c2e6d3341",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f206d867-0dbd-4bbf-bcd0-7c3c2e6d3341&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f6f88b71-cb5d-46e5-85d8-5d7f0624f5f2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f6f88b71-cb5d-46e5-85d8-5d7f0624f5f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ff75e468-33b1-4e8c-8bf4-4b1c3a5d94b9",
+      "title": "义务教育教科书·音乐（简谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ff75e468-33b1-4e8c-8bf4-4b1c3a5d94b9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b5025b8a-82c9-44c6-a04b-85692347309f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b5025b8a-82c9-44c6-a04b-85692347309f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "18bd54ec-d153-47a1-b8e3-01fd0e0ff65d",
+      "title": "义务教育教科书·音乐（简谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=18bd54ec-d153-47a1-b8e3-01fd0e0ff65d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "099f4f95-7dee-40e2-942d-eec5297d21e9",
+      "title": "义务教育教科书·音乐（简谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=099f4f95-7dee-40e2-942d-eec5297d21e9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e3a73fe1-d1b3-4e58-b91c-ebbded87e80a",
+      "title": "义务教育教科书·音乐（简谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e3a73fe1-d1b3-4e58-b91c-ebbded87e80a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3cfe0f2a-a6ae-4f6d-8fcb-f39be95f3fda",
+      "title": "义务教育教科书·音乐（简谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3cfe0f2a-a6ae-4f6d-8fcb-f39be95f3fda&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bdef2463-760c-4e2e-904e-850a0a39f5ae",
+      "title": "义务教育教科书·音乐（简谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bdef2463-760c-4e2e-904e-850a0a39f5ae&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a33b345c-b2b1-4d7e-896c-9c74c0b1c4bc",
+      "title": "义务教育教科书·音乐（简谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a33b345c-b2b1-4d7e-896c-9c74c0b1c4bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4762afd3-7ca0-4b53-ba13-492f5280f354",
+      "title": "义务教育教科书·音乐（简谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 冀少版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4762afd3-7ca0-4b53-ba13-492f5280f354&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "26bb7ef5-bce3-450a-b772-6ba7c68680f7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=26bb7ef5-bce3-450a-b772-6ba7c68680f7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "09e0dc3f-bede-4124-9ad6-7774b3733237",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=09e0dc3f-bede-4124-9ad6-7774b3733237&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7899abc6-ef62-48cd-9ea9-07a42ae896f4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7899abc6-ef62-48cd-9ea9-07a42ae896f4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ca939998-096c-4bee-a426-71602ac9fc11",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ca939998-096c-4bee-a426-71602ac9fc11&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "98062bcc-5fa8-459e-9c72-c45d2a77fb5e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=98062bcc-5fa8-459e-9c72-c45d2a77fb5e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "545994e1-2823-43a9-996a-30a9a3236a08",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=545994e1-2823-43a9-996a-30a9a3236a08&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "37bf055e-578b-4f87-be2b-8d2d0797846e",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=37bf055e-578b-4f87-be2b-8d2d0797846e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c22bd863-2a71-4487-86ff-e96aa71f37d5",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c22bd863-2a71-4487-86ff-e96aa71f37d5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fa4c698b-86b7-4bcd-a937-fb3e6deb7f98",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fa4c698b-86b7-4bcd-a937-fb3e6deb7f98&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9bde1fde-165f-4631-b2a8-a2ec6cbb576c",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9bde1fde-165f-4631-b2a8-a2ec6cbb576c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cfdf26d0-2da8-4de8-90ce-d771dd2a3e56",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cfdf26d0-2da8-4de8-90ce-d771dd2a3e56&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cc60dcc4-8c2d-4e71-a453-f10eb823779f",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学 > 艺术·音乐 > 湘文艺版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cc60dcc4-8c2d-4e71-a453-f10eb823779f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e6a71b21-5f23-4938-9791-60da7af58147",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e6a71b21-5f23-4938-9791-60da7af58147&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ded5f6f7-f66c-4720-ba1b-622d16a5f8eb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ded5f6f7-f66c-4720-ba1b-622d16a5f8eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "077f5996-d7ad-48d0-b231-b82f0dd6633e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=077f5996-d7ad-48d0-b231-b82f0dd6633e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "21cf0700-5f71-4c29-90b2-862e72606d7a",
+      "title": "义务教育教科书·音乐（简谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=21cf0700-5f71-4c29-90b2-862e72606d7a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f4970c4a-11bc-4e76-80ef-76a096937293",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f4970c4a-11bc-4e76-80ef-76a096937293&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "66805a9d-7b33-4fef-a677-97bb737f0f85",
+      "title": "义务教育教科书·音乐（简谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=66805a9d-7b33-4fef-a677-97bb737f0f85&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ee2e57c5-0df9-49ef-b94f-2598ce42b2ac",
+      "title": "义务教育教科书·音乐（简谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ee2e57c5-0df9-49ef-b94f-2598ce42b2ac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b579e53-48c0-4129-95e8-66cf15455cdb",
+      "title": "义务教育教科书·音乐（简谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b579e53-48c0-4129-95e8-66cf15455cdb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "26adba99-3d44-48d1-b99e-5892012e2f74",
+      "title": "义务教育教科书·音乐（简谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=26adba99-3d44-48d1-b99e-5892012e2f74&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "45b95afb-105a-450b-b759-53181381830d",
+      "title": "义务教育教科书·音乐（简谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=45b95afb-105a-450b-b759-53181381830d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "50e64760-998f-468e-a150-44bf94c7c0c6",
+      "title": "义务教育教科书·音乐（简谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=50e64760-998f-468e-a150-44bf94c7c0c6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2511344c-92f4-4357-b1c6-39fe19a75bc7",
+      "title": "义务教育教科书·音乐（简谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 粤教花城版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2511344c-92f4-4357-b1c6-39fe19a75bc7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b3dda21b-b7c4-463b-aa1d-b56751a47631",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b3dda21b-b7c4-463b-aa1d-b56751a47631&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f665ec7d-a457-49f4-b9c8-13eadfa9dcde",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f665ec7d-a457-49f4-b9c8-13eadfa9dcde&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "80e5aa96-b8d4-4572-91a4-e9b6a21d05dc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·艺术•音乐（五线谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80e5aa96-b8d4-4572-91a4-e9b6a21d05dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5f386183-76bf-4454-a3f4-894b78c6e97a",
+      "title": "义务教育教科书·音乐（五线谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5f386183-76bf-4454-a3f4-894b78c6e97a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f13d494f-f26e-40f2-998e-063789dc2812",
+      "title": "义务教育教科书·音乐（五线谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f13d494f-f26e-40f2-998e-063789dc2812&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "afef68e8-ff6a-440a-922f-5b05396ae769",
+      "title": "义务教育教科书·音乐（五线谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=afef68e8-ff6a-440a-922f-5b05396ae769&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a31b6bbd-1645-44a9-94c4-47e38318ff57",
+      "title": "义务教育教科书·音乐（五线谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a31b6bbd-1645-44a9-94c4-47e38318ff57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bd683195-11c6-4e54-b817-9129dbc059fd",
+      "title": "义务教育教科书·音乐（五线谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bd683195-11c6-4e54-b817-9129dbc059fd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "10bb72a2-5385-44a2-89c5-38ec79bf6f4e",
+      "title": "义务教育教科书·音乐（五线谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=10bb72a2-5385-44a2-89c5-38ec79bf6f4e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b11cd3a2-46f4-429a-8cd3-f8449ebc4d59",
+      "title": "义务教育教科书·音乐（五线谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b11cd3a2-46f4-429a-8cd3-f8449ebc4d59&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "feca3466-c8db-4e67-8c3c-3f7c48b018bf",
+      "title": "义务教育教科书·音乐（五线谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=feca3466-c8db-4e67-8c3c-3f7c48b018bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3b1568de-2527-41a3-8654-acaea509ce57",
+      "title": "义务教育教科书·音乐（五线谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（五线谱） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3b1568de-2527-41a3-8654-acaea509ce57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b8951964-24c0-4060-badc-f228b53d641b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b8951964-24c0-4060-badc-f228b53d641b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "76632b59-b036-4aa7-aa58-680399413bc6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=76632b59-b036-4aa7-aa58-680399413bc6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "766e37d1-e123-4873-8568-d3e0c52eedbe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=766e37d1-e123-4873-8568-d3e0c52eedbe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ad32672d-c699-4dbb-b5cb-3f835f37f68c",
+      "title": "义务教育教科书·音乐（简谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ad32672d-c699-4dbb-b5cb-3f835f37f68c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "94f8c3c1-f042-4a83-a518-54923f5a793a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=94f8c3c1-f042-4a83-a518-54923f5a793a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "045236fc-672d-42be-b6bc-14f2b80b1122",
+      "title": "义务教育教科书·音乐（简谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=045236fc-672d-42be-b6bc-14f2b80b1122&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bea6984f-3afb-4c10-baa1-bcb185e10a50",
+      "title": "义务教育教科书·音乐（简谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bea6984f-3afb-4c10-baa1-bcb185e10a50&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e4add9c9-5ab7-4bff-81cb-92448a87583b",
+      "title": "义务教育教科书·音乐（简谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e4add9c9-5ab7-4bff-81cb-92448a87583b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5dff9889-f392-411f-b6b8-54a85ef9b88f",
+      "title": "义务教育教科书·音乐（简谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5dff9889-f392-411f-b6b8-54a85ef9b88f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "646e486f-f949-4c4e-a85c-bc4ec91eff32",
+      "title": "义务教育教科书·音乐（简谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=646e486f-f949-4c4e-a85c-bc4ec91eff32&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bf368014-5b19-48e9-8666-77b396da9f44",
+      "title": "义务教育教科书·音乐（简谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bf368014-5b19-48e9-8666-77b396da9f44&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8059d1d-de87-4c11-af54-85d8366d4188",
+      "title": "义务教育教科书·音乐（简谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 苏少版（简谱） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8059d1d-de87-4c11-af54-85d8366d4188&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3fc7b56e-2d85-4aa3-97d6-fe26e9a5adda",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3fc7b56e-2d85-4aa3-97d6-fe26e9a5adda&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dfd989d9-35bc-4f20-92cf-747265a75764",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dfd989d9-35bc-4f20-92cf-747265a75764&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ad2b82aa-0a8b-4593-8e63-d3572a91272e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ad2b82aa-0a8b-4593-8e63-d3572a91272e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0a3a580a-103d-437d-8373-a6754286876c",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0a3a580a-103d-437d-8373-a6754286876c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4868ddad-530b-4ac9-a96c-db881e05b446",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4868ddad-530b-4ac9-a96c-db881e05b446&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "079f09d8-5ff1-41a8-abce-cb858844a395",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=079f09d8-5ff1-41a8-abce-cb858844a395&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ccabffe1-1e94-4916-8d55-68d059c9cbe4",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ccabffe1-1e94-4916-8d55-68d059c9cbe4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4e57fff6-a074-4230-beec-07cdc12d2c54",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4e57fff6-a074-4230-beec-07cdc12d2c54&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4085b385-81aa-46ac-91f5-712f6ec42941",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4085b385-81aa-46ac-91f5-712f6ec42941&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b6b0e980-c7e8-4b98-b55b-698f69abacb7",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b6b0e980-c7e8-4b98-b55b-698f69abacb7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75e5deb9-aba3-45a4-aed9-334bbdea2c31",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75e5deb9-aba3-45a4-aed9-334bbdea2c31&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3dac3f69-aecc-4d94-a1fa-81b58738f2c4",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学 > 艺术·音乐 > 接力社版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3dac3f69-aecc-4d94-a1fa-81b58738f2c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6b5bacd7-fc1b-4667-9394-b97850267207",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6b5bacd7-fc1b-4667-9394-b97850267207&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d11ba6c6-d460-4840-b64e-c164f7c5c05d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d11ba6c6-d460-4840-b64e-c164f7c5c05d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b341a603-e2da-4833-b2b8-be933b8cf103",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b341a603-e2da-4833-b2b8-be933b8cf103&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e2209d21-10bc-4325-a6a7-7b418537abd5",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e2209d21-10bc-4325-a6a7-7b418537abd5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4fa6163-00ab-4b34-b5b4-09c91997ba9b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a4fa6163-00ab-4b34-b5b4-09c91997ba9b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5856b540-269a-4fd6-b14d-d7276bf252f7",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5856b540-269a-4fd6-b14d-d7276bf252f7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1d2a3d69-a5a8-41d4-8e4f-cdbc7e6c96d3",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1d2a3d69-a5a8-41d4-8e4f-cdbc7e6c96d3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "65e528ea-c62f-438d-ae45-63ea7cb6a3bb",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=65e528ea-c62f-438d-ae45-63ea7cb6a3bb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "114fe71c-97c6-4eeb-b106-f561fe7ae42b",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=114fe71c-97c6-4eeb-b106-f561fe7ae42b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eec6fa1e-ce4c-4c27-bdc3-4b84c7a66842",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eec6fa1e-ce4c-4c27-bdc3-4b84c7a66842&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "554fc6d2-4c9e-4d47-9f27-8a1a07d1c633",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=554fc6d2-4c9e-4d47-9f27-8a1a07d1c633&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "142b53a5-79c7-475a-a5fa-26c887739be9",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学 > 艺术·音乐 > 辽海版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=142b53a5-79c7-475a-a5fa-26c887739be9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1edc1df4-6e15-4a27-954c-3314300e4c9a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1edc1df4-6e15-4a27-954c-3314300e4c9a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5d694f11-3b33-4949-a837-0213e3611e98",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5d694f11-3b33-4949-a837-0213e3611e98&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "53b6f28c-15ec-4dd5-bfe7-3f62aa0188a4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=53b6f28c-15ec-4dd5-bfe7-3f62aa0188a4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "53b6151c-0958-4ecf-991e-90de1ea2a182",
+      "title": "义务教育教科书·音乐（五线谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=53b6151c-0958-4ecf-991e-90de1ea2a182&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01f139f1-7525-4c1b-bb16-8bb16ecf86d2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01f139f1-7525-4c1b-bb16-8bb16ecf86d2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d2fadd45-a68b-4647-9e06-35c6ab8ca1a7",
+      "title": "义务教育教科书·音乐（五线谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d2fadd45-a68b-4647-9e06-35c6ab8ca1a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c5e04c30-a7b6-4387-95a9-1fc594c55dd3",
+      "title": "义务教育教科书·音乐（五线谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c5e04c30-a7b6-4387-95a9-1fc594c55dd3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "952f6ffd-ca17-4239-8e65-4df82f48447d",
+      "title": "义务教育教科书·音乐（五线谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=952f6ffd-ca17-4239-8e65-4df82f48447d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6b0bc34-5897-4f08-b3c9-a96351bfb0c3",
+      "title": "义务教育教科书·音乐（五线谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c6b0bc34-5897-4f08-b3c9-a96351bfb0c3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "de918666-2562-4867-9d02-3da904a5595a",
+      "title": "义务教育教科书·音乐（五线谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=de918666-2562-4867-9d02-3da904a5595a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4ec9b2df-2eb1-48f4-a7b5-9fd3a939acb0",
+      "title": "义务教育教科书·音乐（五线谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4ec9b2df-2eb1-48f4-a7b5-9fd3a939acb0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b501ad0d-fd6e-479d-96b4-2bd9f14fd705",
+      "title": "义务教育教科书·音乐（五线谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（五线谱） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b501ad0d-fd6e-479d-96b4-2bd9f14fd705&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9f433ce8-5378-47b8-89c5-56dae0691bbe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9f433ce8-5378-47b8-89c5-56dae0691bbe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2f5c2fd2-c56f-43c0-8ad4-9ff110836a82",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2f5c2fd2-c56f-43c0-8ad4-9ff110836a82&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "276ef2f9-06ef-446c-90ff-5e436295af34",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=276ef2f9-06ef-446c-90ff-5e436295af34&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cc750305-19c7-46fc-95ee-c54bc1f372d4",
+      "title": "义务教育教科书·音乐（简谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cc750305-19c7-46fc-95ee-c54bc1f372d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a87f06b8-e3b0-474b-9007-1fb8372e2973",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a87f06b8-e3b0-474b-9007-1fb8372e2973&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a2b3cee-2548-4d61-bf7c-54ae24cf2ea3",
+      "title": "义务教育教科书·音乐（简谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a2b3cee-2548-4d61-bf7c-54ae24cf2ea3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b943bed9-46fb-4e29-910e-c7237f3cc9e9",
+      "title": "义务教育教科书·音乐（简谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b943bed9-46fb-4e29-910e-c7237f3cc9e9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "228eccae-cdb5-4a54-bf7e-db30e3f93c68",
+      "title": "义务教育教科书·音乐（简谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=228eccae-cdb5-4a54-bf7e-db30e3f93c68&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b02bb6a8-a879-4f04-9118-c8b4126ddb7f",
+      "title": "义务教育教科书·音乐（简谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b02bb6a8-a879-4f04-9118-c8b4126ddb7f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d01b112-2b6d-4fa2-820b-2092867309ec",
+      "title": "义务教育教科书·音乐（简谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0d01b112-2b6d-4fa2-820b-2092867309ec&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "93449efd-767d-4b69-ba8b-4d762e7ae204",
+      "title": "义务教育教科书·音乐（简谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=93449efd-767d-4b69-ba8b-4d762e7ae204&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49630530-8842-4c43-8385-cdff71233db5",
+      "title": "义务教育教科书·音乐（简谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 人教版（简谱） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49630530-8842-4c43-8385-cdff71233db5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d0dbebac-0ab2-4207-b945-3b15ffc02f48",
+      "title": "义务教育教科书·音乐（五线谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d0dbebac-0ab2-4207-b945-3b15ffc02f48&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "20ad5015-f54f-47a1-aa76-e84d8188763e",
+      "title": "义务教育教科书·音乐（五线谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=20ad5015-f54f-47a1-aa76-e84d8188763e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "21ab8b84-5743-4a6b-b0bc-b1b236168b66",
+      "title": "义务教育教科书·音乐（五线谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=21ab8b84-5743-4a6b-b0bc-b1b236168b66&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "67214821-84ba-4a21-8d17-b1e28e3f6249",
+      "title": "义务教育教科书·音乐（五线谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=67214821-84ba-4a21-8d17-b1e28e3f6249&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a5e52995-3a83-4f73-bdc5-139b2b43ff95",
+      "title": "义务教育教科书·音乐（五线谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a5e52995-3a83-4f73-bdc5-139b2b43ff95&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6a15a940-d8c6-4a19-ae22-353e752a9a4c",
+      "title": "义务教育教科书·音乐（五线谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6a15a940-d8c6-4a19-ae22-353e752a9a4c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5c26928f-f57e-42bf-b416-da550319d359",
+      "title": "义务教育教科书·音乐（五线谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5c26928f-f57e-42bf-b416-da550319d359&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "020bafed-cd4d-4ab0-a6cb-aad4b8a7faf5",
+      "title": "义务教育教科书·音乐（五线谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=020bafed-cd4d-4ab0-a6cb-aad4b8a7faf5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3d8099a0-c31b-42f3-b3c6-5e4a0a7266b8",
+      "title": "义务教育教科书·音乐（五线谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3d8099a0-c31b-42f3-b3c6-5e4a0a7266b8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf6ca343-4771-48de-b7ca-c8364d49bf86",
+      "title": "义务教育教科书·音乐（五线谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf6ca343-4771-48de-b7ca-c8364d49bf86&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "edf6ad45-a252-464f-a777-66f313a9f182",
+      "title": "义务教育教科书·音乐（五线谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=edf6ad45-a252-464f-a777-66f313a9f182&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a2a5ec1d-badd-4911-a460-806fd37b2d90",
+      "title": "义务教育教科书·音乐（五线谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a2a5ec1d-badd-4911-a460-806fd37b2d90&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eb3e1f96-6068-4c22-a3ff-efcacddf01bc",
+      "title": "义务教育教科书·音乐（简谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eb3e1f96-6068-4c22-a3ff-efcacddf01bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "915fda51-2340-4b15-a8dc-325e24d18424",
+      "title": "义务教育教科书·音乐（简谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=915fda51-2340-4b15-a8dc-325e24d18424&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e262778a-fdb1-487c-b3a6-5580077bc240",
+      "title": "义务教育教科书·音乐（简谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e262778a-fdb1-487c-b3a6-5580077bc240&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "de833454-7996-4c2b-bddb-4d5b08debd85",
+      "title": "义务教育教科书·音乐（简谱）二年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=de833454-7996-4c2b-bddb-4d5b08debd85&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0582388c-c285-430b-acfd-164a1781de28",
+      "title": "义务教育教科书·音乐（简谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0582388c-c285-430b-acfd-164a1781de28&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3a17dddf-461c-4806-8e41-726f3c311f6e",
+      "title": "义务教育教科书·音乐（简谱）三年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3a17dddf-461c-4806-8e41-726f3c311f6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea0812e7-3ea2-43ff-b6d0-541dd8d3f48b",
+      "title": "义务教育教科书·音乐（简谱）四年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea0812e7-3ea2-43ff-b6d0-541dd8d3f48b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f3ec1624-597b-4481-b2e3-4e710dc63637",
+      "title": "义务教育教科书·音乐（简谱）四年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f3ec1624-597b-4481-b2e3-4e710dc63637&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "80f97882-8e2f-4355-ac98-9428b4336b4d",
+      "title": "义务教育教科书·音乐（简谱）五年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80f97882-8e2f-4355-ac98-9428b4336b4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f91a7d1c-bf55-451e-b086-175140861817",
+      "title": "义务教育教科书·音乐（简谱）五年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f91a7d1c-bf55-451e-b086-175140861817&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1446aeec-6743-48b4-b17b-bc9677fe6711",
+      "title": "义务教育教科书·音乐（简谱）六年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1446aeec-6743-48b4-b17b-bc9677fe6711&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2e37587d-f6bb-48d0-a3c2-90422ff9f3e8",
+      "title": "义务教育教科书·音乐（简谱）六年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2e37587d-f6bb-48d0-a3c2-90422ff9f3e8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b670788-1513-4be1-a9f6-33560f7b7f25",
+      "title": "义务教育教科书·音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b670788-1513-4be1-a9f6-33560f7b7f25&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8383d859-dc4c-4390-a63e-30a736e6dca6",
+      "title": "义务教育教科书·音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8383d859-dc4c-4390-a63e-30a736e6dca6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "86952267-6eec-4529-95fb-3ad6a74ac9f2",
+      "title": "义务教育教科书·音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=86952267-6eec-4529-95fb-3ad6a74ac9f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2db0f0e0-c317-4eee-9236-021f1eb24dd5",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2db0f0e0-c317-4eee-9236-021f1eb24dd5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9f27b41-a177-41fb-9a07-0f3a4640cadf",
+      "title": "义务教育教科书·音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9f27b41-a177-41fb-9a07-0f3a4640cadf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea46abb8-97a8-4559-a3eb-5ff0797c2ac3",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea46abb8-97a8-4559-a3eb-5ff0797c2ac3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "95b3e55f-6385-478e-a161-f2b991791ffb",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=95b3e55f-6385-478e-a161-f2b991791ffb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c667f6cb-bd90-4562-894a-b395a8b99b06",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c667f6cb-bd90-4562-894a-b395a8b99b06&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "673a26dc-23c7-4e53-b012-e0371d515ff2",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=673a26dc-23c7-4e53-b012-e0371d515ff2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "331fc101-223a-4222-8360-2115b4e71fe8",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=331fc101-223a-4222-8360-2115b4e71fe8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "810d76fb-2016-4c52-a01a-d5ef28469034",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=810d76fb-2016-4c52-a01a-d5ef28469034&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bab94c44-f831-4e33-869d-1f7062f9f8d5",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：敬谱） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bab94c44-f831-4e33-869d-1f7062f9f8d5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8dd6173b-8b93-4c10-8c38-7af4cb9e9335",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8dd6173b-8b93-4c10-8c38-7af4cb9e9335&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "247ccdf3-1b5a-40e7-917b-d332f846020a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=247ccdf3-1b5a-40e7-917b-d332f846020a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "86a916ad-f38c-429b-abea-adbab1b99b46",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=86a916ad-f38c-429b-abea-adbab1b99b46&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cc880729-1a24-4ab1-bc18-eaa020587ab8",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cc880729-1a24-4ab1-bc18-eaa020587ab8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1338c62c-bdb3-4870-9879-235ce107b938",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1338c62c-bdb3-4870-9879-235ce107b938&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49a936d9-b076-40fe-a67a-c7e8124c7ea3",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49a936d9-b076-40fe-a67a-c7e8124c7ea3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ade6cbd6-f8f3-43ad-996f-72c75ad6e248",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ade6cbd6-f8f3-43ad-996f-72c75ad6e248&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "88ca7aa8-c952-4200-813c-77fefd0c035a",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=88ca7aa8-c952-4200-813c-77fefd0c035a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1305bab3-b07d-4dd4-af42-ff8a4def5743",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1305bab3-b07d-4dd4-af42-ff8a4def5743&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3032b271-a4f9-43d5-96e0-c2f0bdb42d93",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3032b271-a4f9-43d5-96e0-c2f0bdb42d93&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7c28f3d5-0f3e-4abe-a4d3-872e123cc6eb",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7c28f3d5-0f3e-4abe-a4d3-872e123cc6eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5020cc24-a43f-4812-afbe-ffdb6260600d",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学 > 艺术·音乐 > 沪教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5020cc24-a43f-4812-afbe-ffdb6260600d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "86f509b3-2671-4eec-88cc-0a436060f4c6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=86f509b3-2671-4eec-88cc-0a436060f4c6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e41a4a53-5502-4cdf-8c38-3f4311947140",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e41a4a53-5502-4cdf-8c38-3f4311947140&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e5e01e29-4aa2-4930-ba7c-5480e81ebc12",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e5e01e29-4aa2-4930-ba7c-5480e81ebc12&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4ebfb14-6427-4acd-860c-ec8fe1303d21",
+      "title": "义务教育教科书·音乐二年级下册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a4ebfb14-6427-4acd-860c-ec8fe1303d21&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0e8f8542-e727-412b-83a4-3722e89ce6b0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0e8f8542-e727-412b-83a4-3722e89ce6b0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bee25fa4-7c1d-441e-bc56-71bc2dde1316",
+      "title": "义务教育教科书·音乐三年级下册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bee25fa4-7c1d-441e-bc56-71bc2dde1316&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ee52f926-2013-48c2-96b7-cdf9c7e61e5d",
+      "title": "义务教育教科书·音乐四年级上册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ee52f926-2013-48c2-96b7-cdf9c7e61e5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1997f676-8b2d-482d-b84e-283eba86858a",
+      "title": "义务教育教科书·音乐四年级下册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1997f676-8b2d-482d-b84e-283eba86858a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "db70d6bf-0240-4828-ad88-e8adeaee8fec",
+      "title": "义务教育教科书·音乐五年级上册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=db70d6bf-0240-4828-ad88-e8adeaee8fec&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "df54f466-da0c-4c7a-8e27-dae32c57aab0",
+      "title": "义务教育教科书·音乐五年级下册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=df54f466-da0c-4c7a-8e27-dae32c57aab0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf3b23f7-56a5-47e0-bc02-ba1b85f9af27",
+      "title": "义务教育教科书·音乐六年级上册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf3b23f7-56a5-47e0-bc02-ba1b85f9af27&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "42f94d78-b11f-4f71-82cc-0a8d91137731",
+      "title": "义务教育教科书·音乐六年级下册",
+      "path": "小学 > 艺术·音乐 > 西南大学版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=42f94d78-b11f-4f71-82cc-0a8d91137731&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c608a3d8-a5a3-67d8-f1b7-1113b8cf7b64",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（李心草）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：李心草） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c608a3d8-a5a3-67d8-f1b7-1113b8cf7b64&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dbf1a5c6-b96a-a475-bca6-921086308de4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（赵季平，杜永寿）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dbf1a5c6-b96a-a475-bca6-921086308de4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "61b6fb7c-c602-2e07-4412-8cedb9e9ae77",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）（赵季平，杜永寿）一年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=61b6fb7c-c602-2e07-4412-8cedb9e9ae77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eb3cab38-fcbc-be4b-e812-c28a833ebb8b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级上册",
+      "path": "小学 > 艺术·音乐 > 教科版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eb3cab38-fcbc-be4b-e812-c28a833ebb8b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "52c58572-fa3f-f36b-a48a-90b2c15bb49d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）一年级上册",
+      "path": "小学 > 艺术·音乐 > 鄂教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=52c58572-fa3f-f36b-a48a-90b2c15bb49d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "464d4692-6efe-80bb-b199-0bc2537ee15e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）一年级下册",
+      "path": "小学 > 艺术·音乐 > 鄂教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=464d4692-6efe-80bb-b199-0bc2537ee15e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f96a9449-2e22-e3a0-e93e-2bd3b32a0cae",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐一年级下册",
+      "path": "小学 > 艺术·音乐 > 教科版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f96a9449-2e22-e3a0-e93e-2bd3b32a0cae&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "34102688-1de1-4122-b928-a6998da7073a",
+      "title": "义务教育教科书•艺术•音乐（五线谱）",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=34102688-1de1-4122-b928-a6998da7073a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "abefe580-658a-483e-9219-815897c3f9a2",
+      "title": "义务教育教科书•艺术•音乐（简谱）",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=abefe580-658a-483e-9219-815897c3f9a2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0385ab87-c33f-56ae-8fcc-e37e590fadd7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（李心草）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：李心草） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0385ab87-c33f-56ae-8fcc-e37e590fadd7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4587e621-bada-7224-e833-d1fd586d3851",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（李心草）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（五线谱）（主编：李心草） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4587e621-bada-7224-e833-d1fd586d3851&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "60553e0b-5848-ea7d-a4c0-25b1f97a2508",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）二年级上册",
+      "path": "小学 > 艺术·音乐 > 鄂教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=60553e0b-5848-ea7d-a4c0-25b1f97a2508&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7f285702-7636-6761-3f43-93f20dffd2a6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）三年级上册",
+      "path": "小学 > 艺术·音乐 > 鄂教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7f285702-7636-6761-3f43-93f20dffd2a6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a0717aac-06e4-063c-ca01-2d315b09e024",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐三年级上册",
+      "path": "小学 > 艺术·音乐 > 教科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a0717aac-06e4-063c-ca01-2d315b09e024&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a7d2477-e509-8962-7e13-30b4ff1320a8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）（赵季平，杜永寿）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a7d2477-e509-8962-7e13-30b4ff1320a8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be361f1c-7290-a939-ec10-236f0b624e90",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（赵季平，杜永寿）二年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=be361f1c-7290-a939-ec10-236f0b624e90&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a5256c3b-3244-db39-0fd3-aaed6de8b4d1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）（赵季平，杜永寿）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a5256c3b-3244-db39-0fd3-aaed6de8b4d1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c56e3148-9062-e5a8-4c47-03b8447fb82b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（赵季平，杜永寿）三年级上册",
+      "path": "小学 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c56e3148-9062-e5a8-4c47-03b8447fb82b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a7a04f01-4f74-25a5-e12d-9aa52c9437f8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐二年级上册",
+      "path": "小学 > 艺术·音乐 > 教科版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a7a04f01-4f74-25a5-e12d-9aa52c9437f8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

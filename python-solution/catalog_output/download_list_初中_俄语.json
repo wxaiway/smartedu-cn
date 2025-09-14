@@ -1,0 +1,36 @@
+{
+  "group": "初中_俄语",
+  "count": 5,
+  "books": [
+    {
+      "id": "e818a7fc-1f30-4d2a-83f4-2d84c4f59f53",
+      "title": "义务教育教科书·俄语八年级全一册",
+      "path": "初中 > 俄语 > 人教版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e818a7fc-1f30-4d2a-83f4-2d84c4f59f53&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "27c2c8da-631f-4e7c-a082-f16332dea956",
+      "title": "义务教育教科书·俄语九年级全一册",
+      "path": "初中 > 俄语 > 人教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=27c2c8da-631f-4e7c-a082-f16332dea956&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "920b02e2-b783-d924-0ee8-24f4e76989eb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 俄语 七年级 上册",
+      "path": "初中 > 俄语 > 人教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=920b02e2-b783-d924-0ee8-24f4e76989eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "291ab0fb-afd8-457a-af8a-63ee937d0840",
+      "title": "义务教育教科书 俄语 七年级 下册",
+      "path": "初中 > 俄语 > 人教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=291ab0fb-afd8-457a-af8a-63ee937d0840&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d4bc29ea-c198-8bee-74af-976be2d7ce60",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 俄语 八年级 上册",
+      "path": "初中 > 俄语 > 人教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d4bc29ea-c198-8bee-74af-976be2d7ce60&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

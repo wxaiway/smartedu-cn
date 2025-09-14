@@ -1,0 +1,48 @@
+{
+  "group": "小学（五•四学制）_英语",
+  "count": 7,
+  "books": [
+    {
+      "id": "ddd8b05c-38ec-4fdb-8759-62c3a0f7b457",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·英语三年级下册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ddd8b05c-38ec-4fdb-8759-62c3a0f7b457&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "47e3b1ab-f8f2-4ee1-9067-fc480c55b7bc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·英语四年级上册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=47e3b1ab-f8f2-4ee1-9067-fc480c55b7bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "65ab4fe2-acb4-4001-b510-4e5e15022987",
+      "title": "义务教育教科书（五•四学制）·英语四年级下册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=65ab4fe2-acb4-4001-b510-4e5e15022987&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7d5fdeb6-e29e-4965-899c-cade3144ae9c",
+      "title": "义务教育教科书（五•四学制）·英语五年级上册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7d5fdeb6-e29e-4965-899c-cade3144ae9c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1391ae53-2733-4d84-b178-a3b8def79ffd",
+      "title": "义务教育教科书（五•四学制）·英语五年级下册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1391ae53-2733-4d84-b178-a3b8def79ffd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7911ca10-c4ba-e4b2-10fe-351af9f13222",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五·四学制）·英语 三年级上册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7911ca10-c4ba-e4b2-10fe-351af9f13222&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a309d2f-bd77-40ea-2407-86d2cb46c1c7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五·四学制）·英语 三年级上册",
+      "path": "小学（五•四学制） > 英语 > 鲁科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a309d2f-bd77-40ea-2407-86d2cb46c1c7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

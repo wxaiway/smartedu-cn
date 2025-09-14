@@ -1,0 +1,18 @@
+{
+  "group": "初中_信息科技",
+  "count": 2,
+  "books": [
+    {
+      "id": "9f79d7fb-82f2-1c40-371b-60e5b62c13b6",
+      "title": "义务教育信息科技课程教学指南 互联网应用与创新 七年级全一册",
+      "path": "初中 > 信息科技 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=9f79d7fb-82f2-1c40-371b-60e5b62c13b6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "167cf7ca-4827-0c39-aa65-e338569f9e46",
+      "title": "义务教育信息科技课程教学指南 物联网实践与探索 八年级全一册",
+      "path": "初中 > 信息科技 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=167cf7ca-4827-0c39-aa65-e338569f9e46&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

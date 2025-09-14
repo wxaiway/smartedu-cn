@@ -1,0 +1,36 @@
+{
+  "group": "高中_语文",
+  "count": 5,
+  "books": [
+    {
+      "id": "b8e9a3fe-dae7-49c0-86cb-d146f883fd8e",
+      "title": "普通高中教科书·语文必修 上册",
+      "path": "高中 > 语文 > 统编版 > 高中年级 > 必修 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b8e9a3fe-dae7-49c0-86cb-d146f883fd8e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9085151a-b698-4b28-8c00-2c4aaf0c91ad",
+      "title": "普通高中教科书·语文必修 下册",
+      "path": "高中 > 语文 > 统编版 > 高中年级 > 必修 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9085151a-b698-4b28-8c00-2c4aaf0c91ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3b7a3baf-4e1e-4380-b2cc-3bf330d00cc3",
+      "title": "普通高中教科书·语文选择性必修 上册",
+      "path": "高中 > 语文 > 统编版 > 高中年级 > 选择性必修 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3b7a3baf-4e1e-4380-b2cc-3bf330d00cc3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da694670-f25b-46a0-9c3f-a31f5a2f131a",
+      "title": "普通高中教科书·语文选择性必修 中册",
+      "path": "高中 > 语文 > 统编版 > 高中年级 > 选择性必修 中册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da694670-f25b-46a0-9c3f-a31f5a2f131a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2de54e6d-1f82-4fdc-9f26-c94dfed9c5af",
+      "title": "普通高中教科书·语文选择性必修 下册",
+      "path": "高中 > 语文 > 统编版 > 高中年级 > 选择性必修 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2de54e6d-1f82-4fdc-9f26-c94dfed9c5af&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

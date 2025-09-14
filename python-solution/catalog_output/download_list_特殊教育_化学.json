@@ -1,0 +1,30 @@
+{
+  "group": "特殊教育_化学",
+  "count": 4,
+  "books": [
+    {
+      "id": "e016f8a1-342f-3847-8ba2-7b97d795222e",
+      "title": "盲校义务教育实验教科书 化学 九年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 化学 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e016f8a1-342f-3847-8ba2-7b97d795222e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "419779c1-4de3-b122-7f54-670ce25e7549",
+      "title": "聋校义务教育实验教科书 化学 九年级 上册",
+      "path": "特殊教育 > 化学 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=419779c1-4de3-b122-7f54-670ce25e7549&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea92a62d-91b2-b160-f8a5-42d455ede32f",
+      "title": "聋校义务教育实验教科书 化学 九年级 下册",
+      "path": "特殊教育 > 化学 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea92a62d-91b2-b160-f8a5-42d455ede32f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e406830a-110d-0d4e-1d85-3cda14e47032",
+      "title": "盲校义务教育实验教科书 化学 九年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 化学 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e406830a-110d-0d4e-1d85-3cda14e47032&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "group": "小学（五•四学制）_数学",
+  "count": 13,
+  "books": [
+    {
+      "id": "1553984b-b9c5-4687-80c2-6dc8333c55f2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·数学一年级上册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1553984b-b9c5-4687-80c2-6dc8333c55f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d533bf7d-cf73-40b3-a1f6-67cb7136a669",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·数学一年级下册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d533bf7d-cf73-40b3-a1f6-67cb7136a669&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4ef2ab71-a2e2-4856-9876-d1bd9b7ce213",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·数学二年级上册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4ef2ab71-a2e2-4856-9876-d1bd9b7ce213&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b0a3e541-c0a9-42a8-8aaf-438ca91daaa5",
+      "title": "义务教育教科书（五•四学制）·数学二年级下册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b0a3e541-c0a9-42a8-8aaf-438ca91daaa5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2f1b301f-60c9-443f-9f04-5f21f4e3b9ea",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·数学三年级上册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2f1b301f-60c9-443f-9f04-5f21f4e3b9ea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01f92c05-efcf-4f90-acf3-daafeece14f5",
+      "title": "义务教育教科书（五•四学制）·数学三年级下册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01f92c05-efcf-4f90-acf3-daafeece14f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "51f5d4ab-fe7b-4c25-a6a3-d987730d5dcc",
+      "title": "义务教育教科书（五•四学制）·数学四年级上册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=51f5d4ab-fe7b-4c25-a6a3-d987730d5dcc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6fc612f4-b014-4d5c-8b0e-4e54633b0763",
+      "title": "义务教育教科书（五•四学制）·数学四年级下册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6fc612f4-b014-4d5c-8b0e-4e54633b0763&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b155b26-7765-47fa-ab6a-2b4652f2f669",
+      "title": "义务教育教科书（五•四学制）·数学五年级上册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b155b26-7765-47fa-ab6a-2b4652f2f669&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c385cb0b-767f-415c-acba-fa6b7902ef97",
+      "title": "义务教育教科书（五•四学制）·数学五年级下册",
+      "path": "小学（五•四学制） > 数学 > 青岛版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c385cb0b-767f-415c-acba-fa6b7902ef97&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "18deb512-b4c0-54cf-6fc1-6974f55fa02e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•数学一年级上册",
+      "path": "小学（五•四学制） > 数学 > 沪教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=18deb512-b4c0-54cf-6fc1-6974f55fa02e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "12118d5e-0af8-b9c9-9f3b-d2d901f8c5a2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•数学一年级下册",
+      "path": "小学（五•四学制） > 数学 > 沪教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=12118d5e-0af8-b9c9-9f3b-d2d901f8c5a2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ba55763b-2dc0-b05b-fb65-898bcfe44590",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•数学二年级上册",
+      "path": "小学（五•四学制） > 数学 > 沪教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ba55763b-2dc0-b05b-fb65-898bcfe44590&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

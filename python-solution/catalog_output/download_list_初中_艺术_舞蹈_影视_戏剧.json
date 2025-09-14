@@ -1,0 +1,552 @@
+{
+  "group": "初中_艺术_舞蹈_影视_戏剧",
+  "count": 91,
+  "books": [
+    {
+      "id": "78a2ae52-e070-4730-a571-854ffaf81510",
+      "title": "义务教育教科书·艺术七年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 鄂教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=78a2ae52-e070-4730-a571-854ffaf81510&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1f7f3ce9-c489-40d8-a87d-3fa0644d2e82",
+      "title": "义务教育教科书·艺术七年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 鄂教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1f7f3ce9-c489-40d8-a87d-3fa0644d2e82&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8e0089ae-8849-4a59-8c67-c1d13f43728b",
+      "title": "义务教育教科书·艺术八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 鄂教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8e0089ae-8849-4a59-8c67-c1d13f43728b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d096ef2-6069-4149-bfea-84b8a7c57536",
+      "title": "义务教育教科书·艺术八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 鄂教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0d096ef2-6069-4149-bfea-84b8a7c57536&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "edc44702-150b-4808-84ae-a6f722081d32",
+      "title": "义务教育教科书·艺术九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 鄂教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=edc44702-150b-4808-84ae-a6f722081d32&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3a2d5ae6-cdd9-46cf-864e-1471160c848e",
+      "title": "义务教育教科书·艺术九年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 鄂教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3a2d5ae6-cdd9-46cf-864e-1471160c848e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a2104ad1-c8f3-433e-a397-a077fe3e2b57",
+      "title": "义务教育教科书·艺术七年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a2104ad1-c8f3-433e-a397-a077fe3e2b57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0637b54d-5d43-42d1-a1fd-0201f5631789",
+      "title": "义务教育教科书·艺术七年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0637b54d-5d43-42d1-a1fd-0201f5631789&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3194fbe7-9e41-4851-a300-2047d1585563",
+      "title": "义务教育教科书·艺术八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3194fbe7-9e41-4851-a300-2047d1585563&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3b126f99-b9cf-485b-81b5-578011c65ced",
+      "title": "义务教育教科书·艺术八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3b126f99-b9cf-485b-81b5-578011c65ced&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4e9aff7-bbc9-48e2-b7c7-ad8119121714",
+      "title": "义务教育教科书·艺术九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a4e9aff7-bbc9-48e2-b7c7-ad8119121714&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5bfc21d8-821f-4a56-b604-25658c2ad02f",
+      "title": "义务教育教科书·艺术九年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5bfc21d8-821f-4a56-b604-25658c2ad02f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5fa63773-5b65-29a2-d13d-6c3f95f23d0f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5fa63773-5b65-29a2-d13d-6c3f95f23d0f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1de3785-404e-bcea-089f-80f68af5411f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1de3785-404e-bcea-089f-80f68af5411f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8b7657ef-3986-904d-9688-79ad7431ba7f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8b7657ef-3986-904d-9688-79ad7431ba7f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "84f08ec9-e993-8f36-6fcc-2ce6b7ea28a3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=84f08ec9-e993-8f36-6fcc-2ce6b7ea28a3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b781465a-d400-8a9f-0f63-cb2e654d23bb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b781465a-d400-8a9f-0f63-cb2e654d23bb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6f670b75-e5e1-dd6f-6320-8a32e0d2b0ce",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6f670b75-e5e1-dd6f-6320-8a32e0d2b0ce&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c7641dcb-ec9e-34ac-43a0-cd9e8a64f6fa",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c7641dcb-ec9e-34ac-43a0-cd9e8a64f6fa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a8e64e4c-b95a-a3f5-4875-876eb59f3c23",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a8e64e4c-b95a-a3f5-4875-876eb59f3c23&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "95f740aa-2d8e-b3a2-c6de-4d5fed8a47f7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=95f740aa-2d8e-b3a2-c6de-4d5fed8a47f7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0a68f99f-2345-deca-7bdc-466510e527d4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0a68f99f-2345-deca-7bdc-466510e527d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c0301ce0-197c-497e-3c68-db67add0b733",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c0301ce0-197c-497e-3c68-db67add0b733&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ba82f8e7-8cb5-2997-5878-e96fda34d545",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 影视（含数字媒体艺术） 八年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ba82f8e7-8cb5-2997-5878-e96fda34d545&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ebf4701d-e25b-892a-b5c7-6cbb289ab95b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 戏剧（含戏曲） 八年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ebf4701d-e25b-892a-b5c7-6cbb289ab95b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8ffcbbc2-8df0-c877-0e26-015f5cfba4db",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 舞蹈 八年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8ffcbbc2-8df0-c877-0e26-015f5cfba4db&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5dbfa2a0-5b8c-13f8-4484-10d7950714b1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5dbfa2a0-5b8c-13f8-4484-10d7950714b1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5ed10a9d-396a-8f59-8aa9-c62408eb3031",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5ed10a9d-396a-8f59-8aa9-c62408eb3031&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da726abc-4404-8eb7-ca75-7830610bb4e7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da726abc-4404-8eb7-ca75-7830610bb4e7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1caf171a-523b-1ab0-2c93-8916cbd0369d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1caf171a-523b-1ab0-2c93-8916cbd0369d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bfe27ad8-bc6b-7020-0875-5c55c8c7e5a8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bfe27ad8-bc6b-7020-0875-5c55c8c7e5a8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da274cae-d861-14ff-2d8b-aa360ed2e825",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da274cae-d861-14ff-2d8b-aa360ed2e825&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "67a02c16-424f-8778-3767-5d5da230c1fc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=67a02c16-424f-8778-3767-5d5da230c1fc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2006d828-f02c-1236-bc81-59ab86a5afad",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2006d828-f02c-1236-bc81-59ab86a5afad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "754e8472-515a-8d8b-0a51-bc99bee43028",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=754e8472-515a-8d8b-0a51-bc99bee43028&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "562d43ac-d257-f007-e1af-e8ec522c7f9d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=562d43ac-d257-f007-e1af-e8ec522c7f9d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "55f40f1f-34f0-489c-183e-94617e795716",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=55f40f1f-34f0-489c-183e-94617e795716&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1eb7cd25-1c21-f1a9-bf9c-786133479aac",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1eb7cd25-1c21-f1a9-bf9c-786133479aac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e774bde9-061a-bbc9-9a57-78c00026851e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e774bde9-061a-bbc9-9a57-78c00026851e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "91b3f536-9a39-cbc3-9d84-f605fa5ffc79",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=91b3f536-9a39-cbc3-9d84-f605fa5ffc79&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3c1102db-8da7-97d4-92fd-5aba0821d8b2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3c1102db-8da7-97d4-92fd-5aba0821d8b2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2e79da19-808c-349c-5089-9a7a39fb0803",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 影视（含数字媒体艺术） 八年级 下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 八年级 > 影视下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2e79da19-808c-349c-5089-9a7a39fb0803&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c530b9c6-218e-3310-ada6-7b1efb660bfc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 舞蹈 八年级 下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 八年级 > 舞蹈下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c530b9c6-218e-3310-ada6-7b1efb660bfc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c705258b-11bc-2e61-e8e4-9fc11b2c960a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 戏剧（含戏曲） 八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 八年级 > 戏剧下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c705258b-11bc-2e61-e8e4-9fc11b2c960a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "322b859f-14ff-40db-9b58-ab19a466fd34",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=322b859f-14ff-40db-9b58-ab19a466fd34&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1e7deb29-1fed-4759-bbb0-c07708ebcb46",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1e7deb29-1fed-4759-bbb0-c07708ebcb46&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "769d6fcf-4d11-1ed7-8e80-78b7c8d17733",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 九年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=769d6fcf-4d11-1ed7-8e80-78b7c8d17733&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f955079a-00ce-6a59-d62a-96e3d81674a4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 九年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f955079a-00ce-6a59-d62a-96e3d81674a4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "78356663-fea5-4c98-0286-be8a901f4ee6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=78356663-fea5-4c98-0286-be8a901f4ee6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6f1b5d7a-72ee-2443-8744-be145d66a357",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6f1b5d7a-72ee-2443-8744-be145d66a357&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "caa0fb50-f1e3-24c8-9296-14374c17fbd8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 苏少版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=caa0fb50-f1e3-24c8-9296-14374c17fbd8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "886d80b6-af17-e57a-eaf5-6b3223b1426f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=886d80b6-af17-e57a-eaf5-6b3223b1426f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "776fc262-2169-5146-b0f8-61947f4f93a4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=776fc262-2169-5146-b0f8-61947f4f93a4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75f62313-14e0-a1a2-55b5-84e8b47091db",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75f62313-14e0-a1a2-55b5-84e8b47091db&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ee16c51f-3b5a-aee6-b901-ff3eaae5bf74",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ee16c51f-3b5a-aee6-b901-ff3eaae5bf74&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6575bbbe-dc44-e32d-83ee-a433ea2586da",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘美版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6575bbbe-dc44-e32d-83ee-a433ea2586da&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "083e8b09-8488-873d-d1f2-a915534fae81",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 粤教版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=083e8b09-8488-873d-d1f2-a915534fae81&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "209bea1c-057e-d72f-9bd5-fad28a766e6c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 粤教版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=209bea1c-057e-d72f-9bd5-fad28a766e6c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3c7f8505-385c-dfc2-3c3e-5a47e7ee8ada",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 舞蹈 八年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 粤教版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3c7f8505-385c-dfc2-3c3e-5a47e7ee8ada&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "29c7ad86-fc38-6833-9dc5-7862bd91143a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 舞蹈 九年级 下册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 粤教版 > 九年级 > 舞蹈下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=29c7ad86-fc38-6833-9dc5-7862bd91143a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a67608a0-a784-527d-9db2-fdcc40e12f15",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 桂教版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a67608a0-a784-527d-9db2-fdcc40e12f15&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d7420e73-937d-7d91-b022-28af28ead6e0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈 八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 桂教版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d7420e73-937d-7d91-b022-28af28ead6e0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eb9fef72-01ba-5667-807c-99f3c3f023dc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 冀少版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eb9fef72-01ba-5667-807c-99f3c3f023dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8308d8a6-aa53-b699-c0d2-9c947eb177be",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 冀少版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8308d8a6-aa53-b699-c0d2-9c947eb177be&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f8e23860-25e8-241d-d290-1d531787af31",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 冀少版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f8e23860-25e8-241d-d290-1d531787af31&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d3799ec0-de04-c4cd-6054-101d92c89594",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 沪教版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d3799ec0-de04-c4cd-6054-101d92c89594&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "360ed851-9777-5193-2527-2cebb3b25e0d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 沪教版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=360ed851-9777-5193-2527-2cebb3b25e0d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b0846271-36af-fd00-f47e-bfe93b053cbd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 沪教版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b0846271-36af-fd00-f47e-bfe93b053cbd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "83e74cc8-705f-5012-4593-fdb0c25c9bd5",
+      "title": "（根据2022年版课程标准修订）艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 赣美版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=83e74cc8-705f-5012-4593-fdb0c25c9bd5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d29f6a36-d430-e3a5-0294-d30cd6960e0b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 赣美版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d29f6a36-d430-e3a5-0294-d30cd6960e0b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "500b6ba1-0da4-a092-ac6a-242a4618c235",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈_八年级八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 赣美版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=500b6ba1-0da4-a092-ac6a-242a4618c235&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "489cd397-eb43-7099-ccd2-3b05644a1722",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 辽海版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=489cd397-eb43-7099-ccd2-3b05644a1722&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bc42eb75-b48c-6303-4db7-9fc05c91d3f8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 辽海版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bc42eb75-b48c-6303-4db7-9fc05c91d3f8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a938517f-ff4d-f688-6b53-0160b43b4ef1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 辽海版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a938517f-ff4d-f688-6b53-0160b43b4ef1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a3ee363-d6f0-3c4a-8863-d31264b36318",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 岭南美版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a3ee363-d6f0-3c4a-8863-d31264b36318&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "efd10b43-aa83-2321-8389-b55bb4e084ab",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 岭南美版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=efd10b43-aa83-2321-8389-b55bb4e084ab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2672a0a1-cbc0-6c59-181e-cfa87d254ab0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 岭南美版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2672a0a1-cbc0-6c59-181e-cfa87d254ab0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e46d5434-ff33-f12b-228b-ea092b085371",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 九年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e46d5434-ff33-f12b-228b-ea092b085371&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "63dbfc52-7b6a-10b0-abcb-c99b04338477",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 九年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=63dbfc52-7b6a-10b0-abcb-c99b04338477&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "63c47d17-8375-2bbe-5400-c83f781aaa9d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人美版 > 九年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=63c47d17-8375-2bbe-5400-c83f781aaa9d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6f72d47b-419d-f035-dff2-cd6fbbcced20",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人音版 > 九年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6f72d47b-419d-f035-dff2-cd6fbbcced20&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "266b4469-6063-b055-1c8c-cfbd69c6159f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人音版 > 九年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=266b4469-6063-b055-1c8c-cfbd69c6159f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fb899364-be5d-92fd-1e3f-cbc2c7bd70bc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人音版 > 九年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fb899364-be5d-92fd-1e3f-cbc2c7bd70bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3977206d-f4db-5327-d19c-5f79504a6b30",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 西南大学版 > 八年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3977206d-f4db-5327-d19c-5f79504a6b30&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b58e293-6b4c-0e1d-0df2-c1b87224746e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•戏剧（含戏曲）八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 西南大学版 > 八年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b58e293-6b4c-0e1d-0df2-c1b87224746e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9dc7748c-28dd-24a3-f975-4e22c06fb98e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈八年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 西南大学版 > 八年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9dc7748c-28dd-24a3-f975-4e22c06fb98e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6eb14af-0fab-47af-54ea-4a6bdbd0d930",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•舞蹈九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 教科版 > 九年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c6eb14af-0fab-47af-54ea-4a6bdbd0d930&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0233940f-040a-577f-6840-238ce38302d4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•影视（含数字媒体艺术）九年级上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 湘文艺版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0233940f-040a-577f-6840-238ce38302d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8e31c8e2-e2f1-ac08-78cf-ce56727cc3d4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 戏剧 九年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 九年级 > 戏剧上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8e31c8e2-e2f1-ac08-78cf-ce56727cc3d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c334e0f-79ba-1f13-7bea-b7a3e30fa196",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 影视（含数字媒体艺术） 九年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 九年级 > 影视上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c334e0f-79ba-1f13-7bea-b7a3e30fa196&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3b9479c7-c23d-380a-1087-2224cf5ea21c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 艺术 舞蹈 九年级 上册",
+      "path": "初中 > 艺术·舞蹈/影视/戏剧 > 人教版 > 九年级 > 舞蹈上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3b9479c7-c23d-380a-1087-2224cf5ea21c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "group": "高中_信息技术",
+  "count": 48,
+  "books": [
+    {
+      "id": "86ccb6ea-55da-4d28-8368-a7ce17a1b3e7",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 必修1 数据与计算",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=86ccb6ea-55da-4d28-8368-a7ce17a1b3e7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ddecd339-a9fa-4d3c-8da5-ffc396808be3",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 必修2 信息系统与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ddecd339-a9fa-4d3c-8da5-ffc396808be3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8cac5778-82b9-4e9d-b6ed-c488da9d230b",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 选择性必修1 数据与数据结构",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8cac5778-82b9-4e9d-b6ed-c488da9d230b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d8c10eaf-beef-4a47-a3fa-b8bd297f2f50",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 选择性必修2 网络基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d8c10eaf-beef-4a47-a3fa-b8bd297f2f50&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "05b33d09-5d68-4c50-aa42-1ca795b585f2",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 选择性必修3 数据管理与分析",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=05b33d09-5d68-4c50-aa42-1ca795b585f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "58d5f5fa-737b-48e6-b7f3-ebeb1799cf81",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 选择性必修4 人工智能初步",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=58d5f5fa-737b-48e6-b7f3-ebeb1799cf81&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "05f38801-c67d-44fa-83be-a9000ef4e9fb",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 选择性必修5 三维设计与创意",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=05f38801-c67d-44fa-83be-a9000ef4e9fb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f9587a7d-dcea-4e27-82b0-89a2fde1f0b8",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中 > 信息技术 > 人教中图版 > 高中年级 > 选择性必修6 开源硬件项目设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f9587a7d-dcea-4e27-82b0-89a2fde1f0b8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ace1b038-475b-4852-aecc-0ae8f2bd1b8f",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 必修1 数据与计算",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ace1b038-475b-4852-aecc-0ae8f2bd1b8f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8a1f197c-c148-4d49-a12c-75d2777171ad",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 必修2 信息系统与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8a1f197c-c148-4d49-a12c-75d2777171ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9b4af5a-f005-479b-a5b2-ab2524954488",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 选择性必修1 数据与数据结构",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9b4af5a-f005-479b-a5b2-ab2524954488&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b6a6c300-e688-4169-af20-c93dd70e3f0e",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 选择性必修2 网络基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b6a6c300-e688-4169-af20-c93dd70e3f0e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d5166e6c-cc89-40c2-b3de-6944a180eeda",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 选择性必修3 数据管理与分析",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d5166e6c-cc89-40c2-b3de-6944a180eeda&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "752f8cd6-ca7e-402a-8f86-8c2186914b37",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 选择性必修4 人工智能初步",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=752f8cd6-ca7e-402a-8f86-8c2186914b37&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2e76340f-034a-40a9-8e3a-c14d68e8f3b5",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 选择性必修5 三维设计与创意",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2e76340f-034a-40a9-8e3a-c14d68e8f3b5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a7c6605b-4247-4562-9506-7e30022b488e",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中 > 信息技术 > 沪科教版 > 高中年级 > 选择性必修6 开源硬件项目设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a7c6605b-4247-4562-9506-7e30022b488e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "513c3028-a60e-49c1-94a4-a6f3e442d445",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 必修1 数据与计算",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=513c3028-a60e-49c1-94a4-a6f3e442d445&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "427544e3-c3cf-429d-a7c8-ec5b9870c60d",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 必修2 信息系统与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=427544e3-c3cf-429d-a7c8-ec5b9870c60d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ac0519aa-efbd-4ce8-b054-4965ec070377",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 选择性必修1 数据与数据结构",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ac0519aa-efbd-4ce8-b054-4965ec070377&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "73d77674-3313-490c-a1ab-b6c764000e0e",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 选择性必修2 网络基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=73d77674-3313-490c-a1ab-b6c764000e0e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1db9db10-6807-4f35-a905-34b21ce4e4dc",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 选择性必修3 数据管理与分析",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1db9db10-6807-4f35-a905-34b21ce4e4dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0e91ba88-beee-487b-b7da-c563a095daad",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 选择性必修4 人工智能初步",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0e91ba88-beee-487b-b7da-c563a095daad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c520b3d8-46db-43b5-947d-abb2f931acec",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 选择性必修5 三维设计与创意",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c520b3d8-46db-43b5-947d-abb2f931acec&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5e526aef-38db-4da6-b21a-89daa1ab0e4a",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中 > 信息技术 > 粤教版 > 高中年级 > 选择性必修6 开源硬件项目设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5e526aef-38db-4da6-b21a-89daa1ab0e4a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4179c16a-892b-43d6-b6c4-0cf1d97dcd3e",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 必修1 数据与计算",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4179c16a-892b-43d6-b6c4-0cf1d97dcd3e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4a5cc36d-ed29-4773-878a-f622c34d3d04",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 必修2 信息系统与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4a5cc36d-ed29-4773-878a-f622c34d3d04&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89f76a0a-8d11-4725-891b-8e2fa879aa57",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 选择性必修1 数据与数据结构",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89f76a0a-8d11-4725-891b-8e2fa879aa57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e30e5ac2-789c-4b94-83f6-e88bd6f23c17",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 选择性必修2 网络基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e30e5ac2-789c-4b94-83f6-e88bd6f23c17&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7e4314d-d4ff-4db6-b7d5-d9f8062467f5",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 选择性必修3 数据管理与分析",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7e4314d-d4ff-4db6-b7d5-d9f8062467f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "82627814-edb3-45f1-903c-74f37897ad6e",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 选择性必修4 人工智能初步",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=82627814-edb3-45f1-903c-74f37897ad6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1bacea2-629c-4cdd-adcc-a5ef3d899ac9",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 选择性必修5 三维设计与创意",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1bacea2-629c-4cdd-adcc-a5ef3d899ac9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a2942853-6d5e-44d2-92c7-8e14064b4be8",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中 > 信息技术 > 浙教版 > 高中年级 > 选择性必修6 开源硬件项目设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a2942853-6d5e-44d2-92c7-8e14064b4be8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f663d6c9-cf91-41cc-afa4-008a6ebaea91",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 必修1 数据与计算",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f663d6c9-cf91-41cc-afa4-008a6ebaea91&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "58ea9174-4937-4573-8b5a-be71a96de5b4",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 必修2 信息系统与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=58ea9174-4937-4573-8b5a-be71a96de5b4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0ad02b2f-3ed6-4054-b7ff-a2993b4cd70e",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 选择性必修1 数据与数据结构",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0ad02b2f-3ed6-4054-b7ff-a2993b4cd70e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8e26563e-fa57-48ab-a3c9-7f2e5a726207",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 选择性必修2 网络基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8e26563e-fa57-48ab-a3c9-7f2e5a726207&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d6845ec0-59e8-47a9-94d0-0d0bdb618dfd",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 选择性必修3 数据管理与分析",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6845ec0-59e8-47a9-94d0-0d0bdb618dfd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "756cfd41-b96e-4e6b-80d5-77998c19fcad",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 选择性必修4 人工智能初步",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=756cfd41-b96e-4e6b-80d5-77998c19fcad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0041b386-0b61-4ad1-bcc2-627fb6a3249d",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 选择性必修5 三维设计与创意",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0041b386-0b61-4ad1-bcc2-627fb6a3249d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9651c31-1db6-48a9-b17b-6dff0ed83c55",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中 > 信息技术 > 教科版 > 高中年级 > 选择性必修6 开源硬件项目设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9651c31-1db6-48a9-b17b-6dff0ed83c55&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "14777d3f-87ff-4c31-91b1-0245914a9851",
+      "title": "普通高中教科书·信息技术必修1 数据与计算",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 必修1 数据与计算",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=14777d3f-87ff-4c31-91b1-0245914a9851&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3c15ae63-4744-4983-afbd-1fd4f43ddc73",
+      "title": "普通高中教科书·信息技术必修2 信息系统与社会",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 必修2 信息系统与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3c15ae63-4744-4983-afbd-1fd4f43ddc73&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7d65cef-e1a1-48b5-840a-a8fd3ecab3b3",
+      "title": "普通高中教科书·信息技术选择性必修1 数据与数据结构",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 选择性必修1 数据与数据结构",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7d65cef-e1a1-48b5-840a-a8fd3ecab3b3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "56da11b6-d36b-4fcd-9763-caa37023fc15",
+      "title": "普通高中教科书·信息技术选择性必修2 网络基础",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 选择性必修2 网络基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=56da11b6-d36b-4fcd-9763-caa37023fc15&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d9c81ae-bea7-46af-b57c-b3f374f8bbe4",
+      "title": "普通高中教科书·信息技术选择性必修3 数据管理与分析",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 选择性必修3 数据管理与分析",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4d9c81ae-bea7-46af-b57c-b3f374f8bbe4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0dc7a556-d889-4180-91e0-f7174365f922",
+      "title": "普通高中教科书·信息技术选择性必修4 人工智能初步",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 选择性必修4 人工智能初步",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0dc7a556-d889-4180-91e0-f7174365f922&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89e1e918-70ee-4d3e-b426-6a60522d1489",
+      "title": "普通高中教科书·信息技术选择性必修5 三维设计与创意",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 选择性必修5 三维设计与创意",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89e1e918-70ee-4d3e-b426-6a60522d1489&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe1015a4-6fcc-4fe2-ac1f-7c104a8eb551",
+      "title": "普通高中教科书·信息技术选择性必修6 开源硬件项目设计",
+      "path": "高中 > 信息技术 > 华东师大版 > 高中年级 > 选择性必修6 开源硬件项目设计",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe1015a4-6fcc-4fe2-ac1f-7c104a8eb551&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

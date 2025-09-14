@@ -1,0 +1,126 @@
+{
+  "group": "高中_化学",
+  "count": 20,
+  "books": [
+    {
+      "id": "5cd19072-e40d-4a73-8580-7b7ada5d4005",
+      "title": "普通高中教科书·化学必修 第一册",
+      "path": "高中 > 化学 > 人教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5cd19072-e40d-4a73-8580-7b7ada5d4005&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "07f7d663-a867-4eb6-ad39-03b55dbd4a65",
+      "title": "普通高中教科书·化学必修 第二册",
+      "path": "高中 > 化学 > 人教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=07f7d663-a867-4eb6-ad39-03b55dbd4a65&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3502fe81-b23e-4f68-aa3d-7921e7932ec9",
+      "title": "普通高中教科书·化学选择性必修1 化学反应原理",
+      "path": "高中 > 化学 > 人教版 > 高中年级 > 选择性必修1 化学反应原理",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3502fe81-b23e-4f68-aa3d-7921e7932ec9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b82cefe7-d631-4bde-baf9-352ca033cba4",
+      "title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+      "path": "高中 > 化学 > 人教版 > 高中年级 > 选择性必修2 物质结构与性质",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b82cefe7-d631-4bde-baf9-352ca033cba4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c561d8ee-7c06-4cb1-9a4d-e34036f02d53",
+      "title": "普通高中教科书·化学选择性必修3 有机化学基础",
+      "path": "高中 > 化学 > 人教版 > 高中年级 > 选择性必修3 有机化学基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c561d8ee-7c06-4cb1-9a4d-e34036f02d53&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "88874a47-cd9b-4dbc-bd48-bb2ea5d63115",
+      "title": "普通高中教科书·化学必修 第一册",
+      "path": "高中 > 化学 > 鲁科版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=88874a47-cd9b-4dbc-bd48-bb2ea5d63115&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9c979989-5bdc-43ef-87f9-3b0007924996",
+      "title": "普通高中教科书·化学必修 第二册",
+      "path": "高中 > 化学 > 鲁科版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9c979989-5bdc-43ef-87f9-3b0007924996&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "97ac34e8-e154-44b3-9188-301d40a70501",
+      "title": "普通高中教科书·化学选择性必修1 化学反应原理",
+      "path": "高中 > 化学 > 鲁科版 > 高中年级 > 选择性必修1 化学反应原理",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=97ac34e8-e154-44b3-9188-301d40a70501&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec8efb84-29a5-441c-bcd6-8603c7bfe004",
+      "title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+      "path": "高中 > 化学 > 鲁科版 > 高中年级 > 选择性必修2 物质结构与性质",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec8efb84-29a5-441c-bcd6-8603c7bfe004&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6049934b-48f5-480c-909e-4f7b36eb3436",
+      "title": "普通高中教科书·化学选择性必修3 有机化学基础",
+      "path": "高中 > 化学 > 鲁科版 > 高中年级 > 选择性必修3 有机化学基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6049934b-48f5-480c-909e-4f7b36eb3436&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "208b49ab-747d-4742-80a5-9e15c3e62241",
+      "title": "普通高中教科书·化学必修 第一册",
+      "path": "高中 > 化学 > 苏教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=208b49ab-747d-4742-80a5-9e15c3e62241&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "404be997-70ad-41c4-94cc-4230de60ab36",
+      "title": "普通高中教科书·化学必修 第二册",
+      "path": "高中 > 化学 > 苏教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=404be997-70ad-41c4-94cc-4230de60ab36&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d7df92bd-e849-42a7-a491-874cf9d0d038",
+      "title": "普通高中教科书·化学选择性必修1 化学反应原理",
+      "path": "高中 > 化学 > 苏教版 > 高中年级 > 选择性必修1 化学反应原理",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d7df92bd-e849-42a7-a491-874cf9d0d038&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "39329b7d-3de1-411a-884b-c9668c01108c",
+      "title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+      "path": "高中 > 化学 > 苏教版 > 高中年级 > 选择性必修2 物质结构与性质",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=39329b7d-3de1-411a-884b-c9668c01108c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea2d167f-30e3-4c4b-9376-aa1c7be5929c",
+      "title": "普通高中教科书·化学选择性必修3 有机化学基础",
+      "path": "高中 > 化学 > 苏教版 > 高中年级 > 选择性必修3 有机化学基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea2d167f-30e3-4c4b-9376-aa1c7be5929c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1982834a-3522-49d2-91b4-367ba2d9e5d0",
+      "title": "普通高中教科书·化学必修 第一册",
+      "path": "高中 > 化学 > 沪科技版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1982834a-3522-49d2-91b4-367ba2d9e5d0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e4b37691-459d-46c2-8807-dd36b3199348",
+      "title": "普通高中教科书·化学必修 第二册",
+      "path": "高中 > 化学 > 沪科技版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e4b37691-459d-46c2-8807-dd36b3199348&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "31313b43-2159-469c-9ee8-142b29ca1b7d",
+      "title": "普通高中教科书·化学选择性必修1 化学反应原理",
+      "path": "高中 > 化学 > 沪科技版 > 高中年级 > 选择性必修1 化学反应原理",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=31313b43-2159-469c-9ee8-142b29ca1b7d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4e2be9b1-793c-4b35-acb6-ae97fd50a93e",
+      "title": "普通高中教科书·化学选择性必修2 物质结构与性质",
+      "path": "高中 > 化学 > 沪科技版 > 高中年级 > 选择性必修2 物质结构与性质",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4e2be9b1-793c-4b35-acb6-ae97fd50a93e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a630b839-ed1d-40cb-99a0-aabfab26ab20",
+      "title": "普通高中教科书·化学选择性必修3 有机化学基础",
+      "path": "高中 > 化学 > 沪科技版 > 高中年级 > 选择性必修3 有机化学基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a630b839-ed1d-40cb-99a0-aabfab26ab20&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

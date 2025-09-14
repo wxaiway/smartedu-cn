@@ -1,0 +1,78 @@
+{
+  "group": "小学_语文",
+  "count": 12,
+  "books": [
+    {
+      "id": "1c73b348-e8b6-47d6-84b0-6dbacbe28268",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·语文一年级上册",
+      "path": "小学 > 语文 > 统编版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1c73b348-e8b6-47d6-84b0-6dbacbe28268&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b87e153f-a64c-451a-aa6c-6ed9ac7d6821",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·语文一年级下册",
+      "path": "小学 > 语文 > 统编版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b87e153f-a64c-451a-aa6c-6ed9ac7d6821&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2ce8f153-7bff-4c97-b6db-9aac414fea19",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·语文二年级上册",
+      "path": "小学 > 语文 > 统编版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2ce8f153-7bff-4c97-b6db-9aac414fea19&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0f93b83e-b3c2-4a5d-8acd-ea460ab962d4",
+      "title": "义务教育教科书·语文二年级下册",
+      "path": "小学 > 语文 > 统编版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0f93b83e-b3c2-4a5d-8acd-ea460ab962d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "837f368e-fd4e-404a-ae3f-342d75bc0227",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·语文三年级上册",
+      "path": "小学 > 语文 > 统编版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=837f368e-fd4e-404a-ae3f-342d75bc0227&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8e107655-5128-451f-84e5-d158725c537b",
+      "title": "义务教育教科书·语文三年级下册",
+      "path": "小学 > 语文 > 统编版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8e107655-5128-451f-84e5-d158725c537b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5cd7e623-5c38-4602-871a-3fba8a551db2",
+      "title": "义务教育教科书·语文四年级上册",
+      "path": "小学 > 语文 > 统编版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5cd7e623-5c38-4602-871a-3fba8a551db2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "53d6315e-5f90-42c4-904f-2d4e95fe99ed",
+      "title": "义务教育教科书·语文四年级下册",
+      "path": "小学 > 语文 > 统编版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=53d6315e-5f90-42c4-904f-2d4e95fe99ed&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aabf2e4a-3ceb-4e86-8804-22c10223cc57",
+      "title": "义务教育教科书·语文五年级上册",
+      "path": "小学 > 语文 > 统编版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aabf2e4a-3ceb-4e86-8804-22c10223cc57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "98172dc9-8fba-4da6-9fae-6a3d1166f038",
+      "title": "义务教育教科书·语文五年级下册",
+      "path": "小学 > 语文 > 统编版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=98172dc9-8fba-4da6-9fae-6a3d1166f038&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2e3dc199-9c42-486b-bbee-7731bd0ee227",
+      "title": "义务教育教科书·语文六年级上册",
+      "path": "小学 > 语文 > 统编版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2e3dc199-9c42-486b-bbee-7731bd0ee227&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "06422d77-21f1-45c3-b409-fa2947eee424",
+      "title": "义务教育教科书·语文六年级下册",
+      "path": "小学 > 语文 > 统编版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=06422d77-21f1-45c3-b409-fa2947eee424&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "group": "高中_思想政治",
+  "count": 8,
+  "books": [
+    {
+      "id": "c7c07640-970b-4def-814a-0f77eba4a2d9",
+      "title": "普通高中教科书·思想政治必修1 中国特色社会主义",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 必修1 中国特色社会主义",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c7c07640-970b-4def-814a-0f77eba4a2d9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e36cf7c0-c787-4b34-ba7a-84a78baac331",
+      "title": "普通高中教科书·思想政治必修2 经济与社会",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 必修2 经济与社会",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e36cf7c0-c787-4b34-ba7a-84a78baac331&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "507cf8b4-327e-41ad-9f6d-babb59f5eef1",
+      "title": "普通高中教科书·思想政治必修3 政治与法治",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 必修3 政治与法治",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=507cf8b4-327e-41ad-9f6d-babb59f5eef1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "561cdda2-8f90-4b13-b987-8d8c3bb9e554",
+      "title": "普通高中教科书·思想政治必修4 哲学与文化",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 必修4 哲学与文化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=561cdda2-8f90-4b13-b987-8d8c3bb9e554&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9cee6cbd-4ce9-43a2-b884-895dafd832af",
+      "title": "普通高中教科书·思想政治选择性必修1 当代国际政治与经济",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 选择性必修1 当代国际政治与经济",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9cee6cbd-4ce9-43a2-b884-895dafd832af&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "acc5bf16-92b5-47c7-b57b-b7f4eb5f2199",
+      "title": "普通高中教科书·思想政治选择性必修2 法律与生活",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 选择性必修2 法律与生活",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=acc5bf16-92b5-47c7-b57b-b7f4eb5f2199&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "33a1cf09-b3e4-4874-95f4-25d38a5847c3",
+      "title": "普通高中教科书·思想政治选择性必修3 逻辑与思维",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 选择性必修3 逻辑与思维",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=33a1cf09-b3e4-4874-95f4-25d38a5847c3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ac2acabd-ec0a-47be-bf73-b7e64a9cf856",
+      "title": "习近平新时代中国特色社会主义思想学生读本·高中",
+      "path": "高中 > 思想政治 > 统编版 > 高中年级 > 学生读本一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ac2acabd-ec0a-47be-bf73-b7e64a9cf856&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

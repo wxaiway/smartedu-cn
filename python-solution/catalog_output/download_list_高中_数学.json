@@ -1,0 +1,234 @@
+{
+  "group": "高中_数学",
+  "count": 38,
+  "books": [
+    {
+      "id": "6e764703-6e5e-4ea3-9462-34652c2678ef",
+      "title": "普通高中教科书·数学（A版）必修 第一册",
+      "path": "高中 > 数学 > 人教A版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6e764703-6e5e-4ea3-9462-34652c2678ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d296fc79-8d47-4b18-862c-6df49adc2ce0",
+      "title": "普通高中教科书·数学（A版）必修 第二册",
+      "path": "高中 > 数学 > 人教A版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d296fc79-8d47-4b18-862c-6df49adc2ce0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d0fd2c1f-6b4f-43f0-8229-de0a53b197df",
+      "title": "普通高中教科书·数学（A版）选择性必修 第一册",
+      "path": "高中 > 数学 > 人教A版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d0fd2c1f-6b4f-43f0-8229-de0a53b197df&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "99c1fb5b-d1e0-4238-90b9-a573ab84bf08",
+      "title": "普通高中教科书·数学（A版）选择性必修 第二册",
+      "path": "高中 > 数学 > 人教A版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=99c1fb5b-d1e0-4238-90b9-a573ab84bf08&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ffaba6c3-497d-47b0-b91a-784f43625507",
+      "title": "普通高中教科书·数学（A版）选择性必修 第三册",
+      "path": "高中 > 数学 > 人教A版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ffaba6c3-497d-47b0-b91a-784f43625507&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "adb974b6-7312-4ad5-9adc-6e8d135eddbc",
+      "title": "普通高中教科书·数学（B版）必修 第一册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=adb974b6-7312-4ad5-9adc-6e8d135eddbc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "02011dad-8881-4a85-8476-8aeb69e6eb54",
+      "title": "普通高中教科书·数学（B版）必修 第二册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=02011dad-8881-4a85-8476-8aeb69e6eb54&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1c260b8-c917-4751-b095-9863f69c8f77",
+      "title": "普通高中教科书·数学（B版）必修 第三册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1c260b8-c917-4751-b095-9863f69c8f77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "350da632-7888-42fb-afc5-a022adaa28ac",
+      "title": "普通高中教科书·数学（B版）必修 第四册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=350da632-7888-42fb-afc5-a022adaa28ac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "47306eac-960e-4799-b600-1c23212779a8",
+      "title": "普通高中教科书·数学（B版）选择性必修 第一册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=47306eac-960e-4799-b600-1c23212779a8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89dcdee0-a094-433f-ba9f-f7a5a2dd7c24",
+      "title": "普通高中教科书·数学（B版）选择性必修 第二册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89dcdee0-a094-433f-ba9f-f7a5a2dd7c24&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "92c2948c-2c0c-410b-bae0-22e9d592759b",
+      "title": "普通高中教科书·数学（B版）选择性必修 第三册",
+      "path": "高中 > 数学 > 人教版（B版）（主编：高存明） > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=92c2948c-2c0c-410b-bae0-22e9d592759b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9b57499-3594-4ae3-a33b-4c440739c28a",
+      "title": "普通高中教科书·数学必修 第一册",
+      "path": "高中 > 数学 > 北师大版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9b57499-3594-4ae3-a33b-4c440739c28a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4dbbf35b-31dc-4fde-88ba-8369a8999874",
+      "title": "普通高中教科书·数学必修 第二册",
+      "path": "高中 > 数学 > 北师大版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4dbbf35b-31dc-4fde-88ba-8369a8999874&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6fd52efc-6395-4a42-b810-8810064d075e",
+      "title": "普通高中教科书·数学选择性必修 第一册",
+      "path": "高中 > 数学 > 北师大版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6fd52efc-6395-4a42-b810-8810064d075e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2767a985-949c-416c-83b6-cce0bca67b03",
+      "title": "普通高中教科书·数学选择性必修 第二册",
+      "path": "高中 > 数学 > 北师大版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2767a985-949c-416c-83b6-cce0bca67b03&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5136d0eb-69b1-43cb-81e2-9f5f52ed06ca",
+      "title": "普通高中教科书·数学必修 第一册",
+      "path": "高中 > 数学 > 苏教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5136d0eb-69b1-43cb-81e2-9f5f52ed06ca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "066ef32a-2360-49b1-a862-680b40b0ab2a",
+      "title": "普通高中教科书·数学必修 第二册",
+      "path": "高中 > 数学 > 苏教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=066ef32a-2360-49b1-a862-680b40b0ab2a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "55265e13-60fd-4b6e-8eb3-c4ce84dfdbe7",
+      "title": "普通高中教科书·数学选择性必修 第一册",
+      "path": "高中 > 数学 > 苏教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=55265e13-60fd-4b6e-8eb3-c4ce84dfdbe7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "833cae74-4d4d-4472-8f56-a99fa306af96",
+      "title": "普通高中教科书·数学选择性必修 第二册",
+      "path": "高中 > 数学 > 苏教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=833cae74-4d4d-4472-8f56-a99fa306af96&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1cc53b27-108b-4d61-8948-ff135daadf77",
+      "title": "普通高中教科书·数学必修 第一册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1cc53b27-108b-4d61-8948-ff135daadf77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "807d9aac-53ac-4b3e-b254-e37f5298be6e",
+      "title": "普通高中教科书·数学必修 第二册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=807d9aac-53ac-4b3e-b254-e37f5298be6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9ce0ef2b-139f-496a-8e55-02a599826648",
+      "title": "普通高中教科书·数学必修 第三册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9ce0ef2b-139f-496a-8e55-02a599826648&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "59292625-06b0-4cfd-a6af-4f3039e6ad80",
+      "title": "普通高中教科书·数学必修 第四册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=59292625-06b0-4cfd-a6af-4f3039e6ad80&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "745e8f68-1a78-4f83-b0f5-e22df893c390",
+      "title": "普通高中教科书·数学选择性必修 第一册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=745e8f68-1a78-4f83-b0f5-e22df893c390&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fa94efb7-3958-48d2-b4e3-0092464a97eb",
+      "title": "普通高中教科书·数学选择性必修 第二册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fa94efb7-3958-48d2-b4e3-0092464a97eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5d704eba-eb45-4cae-9f13-07a943d25b9d",
+      "title": "普通高中教科书·数学选择性必修 第三册",
+      "path": "高中 > 数学 > 鄂教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5d704eba-eb45-4cae-9f13-07a943d25b9d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "71ede6e4-951d-43a5-ae62-58bd9ec0a2a0",
+      "title": "普通高中教科书·数学必修 第一册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=71ede6e4-951d-43a5-ae62-58bd9ec0a2a0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5ac46cdf-5972-454f-b799-216329b8c2bc",
+      "title": "普通高中教科书·数学必修 第二册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5ac46cdf-5972-454f-b799-216329b8c2bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dfa0f514-a260-4d5c-a00f-7e717ac1e63a",
+      "title": "普通高中教科书·数学必修 第三册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dfa0f514-a260-4d5c-a00f-7e717ac1e63a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "71b9d50c-aa99-4c34-859b-7aea35c0b11a",
+      "title": "普通高中教科书·数学必修 第四册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=71b9d50c-aa99-4c34-859b-7aea35c0b11a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c142386a-85de-4c44-bb42-29a70b50056e",
+      "title": "普通高中教科书·数学选择性必修 第一册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c142386a-85de-4c44-bb42-29a70b50056e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "24ca7cd7-8add-4661-85ac-5823dadf28e1",
+      "title": "普通高中教科书·数学选择性必修 第三册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=24ca7cd7-8add-4661-85ac-5823dadf28e1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75d71a33-a32d-48c8-bc79-2fb7dd679a42",
+      "title": "普通高中教科书·数学选择性必修 第一册",
+      "path": "高中 > 数学 > 湘教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75d71a33-a32d-48c8-bc79-2fb7dd679a42&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "16daab2a-2bcc-454d-9f1d-26e04556d969",
+      "title": "普通高中教科书·数学必修 第二册",
+      "path": "高中 > 数学 > 湘教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=16daab2a-2bcc-454d-9f1d-26e04556d969&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a939d024-348c-4137-8aab-80d8db0e0b5c",
+      "title": "普通高中教科书·数学必修 第一册",
+      "path": "高中 > 数学 > 湘教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a939d024-348c-4137-8aab-80d8db0e0b5c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7f22402-4ee2-4bc0-82f5-100f9201c6a6",
+      "title": "普通高中教科书·数学选择性必修 第二册",
+      "path": "高中 > 数学 > 湘教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7f22402-4ee2-4bc0-82f5-100f9201c6a6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "561c947a-b8b7-7b91-11d5-98dbb04e2e82",
+      "title": "普通高中教科书·数学选择性必修 第二册",
+      "path": "高中 > 数学 > 沪教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=561c947a-b8b7-7b91-11d5-98dbb04e2e82&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

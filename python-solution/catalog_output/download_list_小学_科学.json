@@ -1,0 +1,882 @@
+{
+  "group": "小学_科学",
+  "count": 146,
+  "books": [
+    {
+      "id": "bd625fcd-e083-460c-ae3b-c50a9840c48e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学一年级上册",
+      "path": "小学 > 科学 > 大象社版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bd625fcd-e083-460c-ae3b-c50a9840c48e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f05e6878-15c4-4caa-a320-82598fff0811",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 大象社版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f05e6878-15c4-4caa-a320-82598fff0811&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "87b4dda1-96e1-43ff-a388-79291f23c2e6",
+      "title": "义务教育教科书·科学·学生活动手册二年级上册",
+      "path": "小学 > 科学 > 大象社版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=87b4dda1-96e1-43ff-a388-79291f23c2e6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "73023d42-5512-4000-b713-e5253da436bd",
+      "title": "义务教育教科书·科学二年级上册",
+      "path": "小学 > 科学 > 大象社版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=73023d42-5512-4000-b713-e5253da436bd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7716680d-d143-4f95-acc5-fe0833614067",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学 > 科学 > 大象社版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7716680d-d143-4f95-acc5-fe0833614067&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "28861d1d-0a0b-4bcc-9587-30365f0f33c9",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 大象社版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=28861d1d-0a0b-4bcc-9587-30365f0f33c9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9cb183f6-d913-40af-b5ef-5fdca4d242bb",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学 > 科学 > 大象社版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9cb183f6-d913-40af-b5ef-5fdca4d242bb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6c54ea5d-446a-4033-aa7a-80e2b72a3bf2",
+      "title": "义务教育教科书·科学三年级上册",
+      "path": "小学 > 科学 > 大象社版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6c54ea5d-446a-4033-aa7a-80e2b72a3bf2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b6a39b01-8b64-48db-880d-94c5dccf2e21",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学 > 科学 > 大象社版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b6a39b01-8b64-48db-880d-94c5dccf2e21&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a93868ec-cea3-49ed-8ee0-503785d4ca70",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 大象社版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a93868ec-cea3-49ed-8ee0-503785d4ca70&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c7263c09-e9c8-41a3-9da5-dc379f8093d4",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学 > 科学 > 大象社版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c7263c09-e9c8-41a3-9da5-dc379f8093d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1b6b8ae-e465-4072-b355-e8d42e89c7a5",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 大象社版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1b6b8ae-e465-4072-b355-e8d42e89c7a5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0ce96670-7af5-4833-8253-5429abbf4a1f",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学 > 科学 > 大象社版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0ce96670-7af5-4833-8253-5429abbf4a1f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5debdc3a-9afd-46cb-a5a6-4ebadeacae7f",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 大象社版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5debdc3a-9afd-46cb-a5a6-4ebadeacae7f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2dba9b0a-d7b2-4232-a621-85cc2f0ec2c4",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学 > 科学 > 大象社版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2dba9b0a-d7b2-4232-a621-85cc2f0ec2c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ebfbecc8-13e6-4bc9-9b25-1b470d2f09ae",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 大象社版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ebfbecc8-13e6-4bc9-9b25-1b470d2f09ae&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "72196aae-bbc4-4962-b9a5-5b2ea8940e10",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学 > 科学 > 大象社版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=72196aae-bbc4-4962-b9a5-5b2ea8940e10&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a228e2e9-acdf-45a2-a4ae-9aeaa54f4049",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 大象社版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a228e2e9-acdf-45a2-a4ae-9aeaa54f4049&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0e7dcfff-fa97-4a04-86d9-0bcc95b81707",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学 > 科学 > 大象社版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0e7dcfff-fa97-4a04-86d9-0bcc95b81707&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc47bbd2-e255-4e1a-a40c-7e4f0c7b94db",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 大象社版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc47bbd2-e255-4e1a-a40c-7e4f0c7b94db&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4ed42055-0c4e-4acb-9172-b56e8ecb6c19",
+      "title": "义务教育教科书·科学·学生活动手册六年级下册",
+      "path": "小学 > 科学 > 大象社版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4ed42055-0c4e-4acb-9172-b56e8ecb6c19&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "50b6bd12-7571-4c8b-af1a-2bd49492bc14",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 大象社版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=50b6bd12-7571-4c8b-af1a-2bd49492bc14&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8fce409-aedf-4a37-9de1-b62c42876192",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学一年级上册",
+      "path": "小学 > 科学 > 粤教科技版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8fce409-aedf-4a37-9de1-b62c42876192&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5343f071-29c6-49af-96a4-cb3627be38b9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 粤教科技版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5343f071-29c6-49af-96a4-cb3627be38b9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9168cd56-17b0-4e3f-ab69-98dcddf47330",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学二年级上册",
+      "path": "小学 > 科学 > 粤教科技版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9168cd56-17b0-4e3f-ab69-98dcddf47330&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "96b07214-78b8-4ace-81dc-199ce553df63",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 粤教科技版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=96b07214-78b8-4ace-81dc-199ce553df63&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d783d358-e878-4cb0-8aec-39d6253f93b3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学三年级上册",
+      "path": "小学 > 科学 > 粤教科技版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d783d358-e878-4cb0-8aec-39d6253f93b3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9eb5540e-ef5a-42d0-84ac-a00cae7343db",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 粤教科技版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9eb5540e-ef5a-42d0-84ac-a00cae7343db&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b8725345-13ed-42d9-9dfc-8b24ba2dddb8",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 粤教科技版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b8725345-13ed-42d9-9dfc-8b24ba2dddb8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e5281092-7229-4357-bb8a-4ce1ad130420",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 粤教科技版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e5281092-7229-4357-bb8a-4ce1ad130420&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "65a48a6b-59e3-4f6a-9908-a0aee4c8b2d6",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 粤教科技版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=65a48a6b-59e3-4f6a-9908-a0aee4c8b2d6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aa0114ae-c4cd-47a5-8f5c-1e278dee8abb",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 粤教科技版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aa0114ae-c4cd-47a5-8f5c-1e278dee8abb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea2350e1-4e35-4e14-8fcf-3d5bfa860542",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 粤教科技版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea2350e1-4e35-4e14-8fcf-3d5bfa860542&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fcb6c839-2cee-4572-80e5-6b25166e6680",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 粤教科技版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fcb6c839-2cee-4572-80e5-6b25166e6680&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2096c624-82a2-40ec-a03f-92e8ad178e63",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学一年级上册",
+      "path": "小学 > 科学 > 冀人版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2096c624-82a2-40ec-a03f-92e8ad178e63&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4f631c6a-5e03-4590-a8cf-f48fb1913454",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 冀人版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4f631c6a-5e03-4590-a8cf-f48fb1913454&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d55385d4-b5c5-4562-be3f-af21e3fb1ac6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学二年级上册",
+      "path": "小学 > 科学 > 冀人版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d55385d4-b5c5-4562-be3f-af21e3fb1ac6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "723e9eca-543d-42e6-b017-f2de6c42f683",
+      "title": "义务教育教科书·科学二年级上册",
+      "path": "小学 > 科学 > 冀人版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=723e9eca-543d-42e6-b017-f2de6c42f683&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d38364c4-be87-4833-8d3a-00b069e7d649",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学 > 科学 > 冀人版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d38364c4-be87-4833-8d3a-00b069e7d649&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8b7c49ae-c701-4887-9f38-7c803862bcf7",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 冀人版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8b7c49ae-c701-4887-9f38-7c803862bcf7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7ffd5bd-6974-46a0-b865-b3ca92a96138",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学 > 科学 > 冀人版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7ffd5bd-6974-46a0-b865-b3ca92a96138&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7745e0d1-8ee2-4a0f-9e7c-82d9104d1ad3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学三年级上册",
+      "path": "小学 > 科学 > 冀人版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7745e0d1-8ee2-4a0f-9e7c-82d9104d1ad3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d5801358-5bc3-408c-a3ed-0833c8e2e557",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学 > 科学 > 冀人版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d5801358-5bc3-408c-a3ed-0833c8e2e557&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "94fa2c7e-3609-427a-99b9-22aeab017aed",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 冀人版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=94fa2c7e-3609-427a-99b9-22aeab017aed&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01b02d7d-bb12-42ec-a0b0-e04ee094928b",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学 > 科学 > 冀人版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01b02d7d-bb12-42ec-a0b0-e04ee094928b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1b9b4fc7-ac0f-4df3-8617-7ba3c4e314b9",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 冀人版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1b9b4fc7-ac0f-4df3-8617-7ba3c4e314b9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b0579a10-05f8-40d8-a9bb-92be94072ffe",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学 > 科学 > 冀人版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b0579a10-05f8-40d8-a9bb-92be94072ffe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e3000ce5-1651-4bf5-bb2e-80a660617dce",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 冀人版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e3000ce5-1651-4bf5-bb2e-80a660617dce&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "896fc7c1-a9bd-4ab2-9090-18aef6d06aa2",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学 > 科学 > 冀人版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=896fc7c1-a9bd-4ab2-9090-18aef6d06aa2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e2210009-49c2-430f-bdf2-0c04fee44a65",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 冀人版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e2210009-49c2-430f-bdf2-0c04fee44a65&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2535d455-b78d-4fef-97a8-a385dc44c533",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学 > 科学 > 冀人版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2535d455-b78d-4fef-97a8-a385dc44c533&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8ba5e927-b2d2-4dc2-87f8-fc4f6014359f",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 冀人版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8ba5e927-b2d2-4dc2-87f8-fc4f6014359f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7c23edb0-7b2f-4611-8bbc-df9055c01a2b",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学 > 科学 > 冀人版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7c23edb0-7b2f-4611-8bbc-df9055c01a2b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "07bcd0fc-1155-4592-b219-ef183fd37c2a",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 冀人版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=07bcd0fc-1155-4592-b219-ef183fd37c2a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "62fc4060-5a73-4c74-a769-df4dac3c50eb",
+      "title": "义务教育教科书·科学·学生活动手册六年级下册",
+      "path": "小学 > 科学 > 冀人版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=62fc4060-5a73-4c74-a769-df4dac3c50eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "20759b9d-525c-4f62-abc7-262bedd91cc1",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 冀人版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=20759b9d-525c-4f62-abc7-262bedd91cc1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "64e96b25-9c23-498a-91da-c63e1ef531c7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级上册",
+      "path": "小学 > 科学 > 人教鄂教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=64e96b25-9c23-498a-91da-c63e1ef531c7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e231dd57-90b2-49c3-a82f-a44a72f8e330",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 人教鄂教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e231dd57-90b2-49c3-a82f-a44a72f8e330&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4fefad7e-ded1-4b6e-8798-4c53f7d18fd3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学二年级上册",
+      "path": "小学 > 科学 > 人教鄂教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4fefad7e-ded1-4b6e-8798-4c53f7d18fd3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3908f76e-f017-4002-b675-3007005d3b9a",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 人教鄂教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3908f76e-f017-4002-b675-3007005d3b9a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "514a37c8-107a-42b4-a4e7-b385debef4f2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学三年级上册",
+      "path": "小学 > 科学 > 人教鄂教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=514a37c8-107a-42b4-a4e7-b385debef4f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "92b96caf-648e-4e33-86b7-8ae0045d6087",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 人教鄂教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=92b96caf-648e-4e33-86b7-8ae0045d6087&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc128ba8-658e-4b17-bdc9-f1de1b81d211",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 人教鄂教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc128ba8-658e-4b17-bdc9-f1de1b81d211&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "00af1648-7893-427d-a8e2-ec26cd73da47",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 人教鄂教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=00af1648-7893-427d-a8e2-ec26cd73da47&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e46d4ba6-c572-4fb0-b77d-d8b0e9d5a026",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 人教鄂教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e46d4ba6-c572-4fb0-b77d-d8b0e9d5a026&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "74252724-0655-41e5-80c0-8d7387eb6fad",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 人教鄂教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=74252724-0655-41e5-80c0-8d7387eb6fad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6782eaa6-91c5-4dd7-925e-a8be66aff00e",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 人教鄂教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6782eaa6-91c5-4dd7-925e-a8be66aff00e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "93aeceec-7684-462b-93d0-4dc12fd4c515",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 人教鄂教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=93aeceec-7684-462b-93d0-4dc12fd4c515&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "36b21477-70a9-4210-a75f-ee958d438632",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学一年级上册",
+      "path": "小学 > 科学 > 湘科版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=36b21477-70a9-4210-a75f-ee958d438632&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bab36dc9-75be-4a71-9d80-803300439b01",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 湘科版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bab36dc9-75be-4a71-9d80-803300439b01&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dafce506-808b-40a6-a56a-80c723ac1e60",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学二年级上册",
+      "path": "小学 > 科学 > 湘科版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dafce506-808b-40a6-a56a-80c723ac1e60&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "61250f93-6e0c-4547-b940-c0a79fff0e8a",
+      "title": "义务教育教科书·科学·学生活动手册二年级上册",
+      "path": "小学 > 科学 > 湘科版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=61250f93-6e0c-4547-b940-c0a79fff0e8a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "910709d9-627a-4338-a6b5-e0a06055ad25",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 湘科版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=910709d9-627a-4338-a6b5-e0a06055ad25&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49e50fe7-18e8-4eb6-a149-f5d000a63c36",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学 > 科学 > 湘科版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49e50fe7-18e8-4eb6-a149-f5d000a63c36&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "138e9ae0-2631-4fd7-bdd2-ab8409356736",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学三年级上册",
+      "path": "小学 > 科学 > 湘科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=138e9ae0-2631-4fd7-bdd2-ab8409356736&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2d9ad462-be06-4e9d-891f-59a89b5258a5",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学 > 科学 > 湘科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2d9ad462-be06-4e9d-891f-59a89b5258a5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "20f41da1-d0bd-4079-8af9-183beeec98da",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 湘科版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=20f41da1-d0bd-4079-8af9-183beeec98da&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2f02dd3a-512a-4c5a-827c-f8ff196a0b96",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学 > 科学 > 湘科版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2f02dd3a-512a-4c5a-827c-f8ff196a0b96&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b0e2c52d-8d3d-49d0-a6bd-057d03a56d35",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 湘科版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b0e2c52d-8d3d-49d0-a6bd-057d03a56d35&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "539d472c-109b-488e-ae84-2538cd11fe4a",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学 > 科学 > 湘科版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=539d472c-109b-488e-ae84-2538cd11fe4a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9475028c-d44b-4d2a-8bd0-f4d9c278c895",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 湘科版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9475028c-d44b-4d2a-8bd0-f4d9c278c895&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea935c08-c70b-44a6-9bc2-f27a418a4b68",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学 > 科学 > 湘科版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea935c08-c70b-44a6-9bc2-f27a418a4b68&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1de84c9-6328-48b8-a6b5-54e311e0c85a",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 湘科版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1de84c9-6328-48b8-a6b5-54e311e0c85a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "59201f48-3d04-4acf-8505-cf1980cf91f5",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学 > 科学 > 湘科版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=59201f48-3d04-4acf-8505-cf1980cf91f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "12af8337-90a6-4954-9e52-735bdd7a2e03",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 湘科版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=12af8337-90a6-4954-9e52-735bdd7a2e03&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc848216-f6d5-4217-9640-94229f1dddc3",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学 > 科学 > 湘科版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc848216-f6d5-4217-9640-94229f1dddc3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "137ef314-c5d3-4c4c-812d-4e634e9e742f",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 湘科版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=137ef314-c5d3-4c4c-812d-4e634e9e742f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8b747152-2a78-4fc7-820f-43d7f9175834",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学 > 科学 > 湘科版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8b747152-2a78-4fc7-820f-43d7f9175834&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "79feeabf-313b-457a-99fb-3d684191bd2d",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 湘科版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=79feeabf-313b-457a-99fb-3d684191bd2d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7dfd671a-56fb-4a56-b80b-c5a4f92ba37e",
+      "title": "义务教育教科书·科学·学生活动手册六年级下册",
+      "path": "小学 > 科学 > 湘科版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7dfd671a-56fb-4a56-b80b-c5a4f92ba37e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a32d0ba5-c2de-49df-9173-5e7cf2b572a3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学一年级上册",
+      "path": "小学 > 科学 > 苏教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a32d0ba5-c2de-49df-9173-5e7cf2b572a3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "27bef766-de39-4edb-baf5-7026de1dd465",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 苏教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=27bef766-de39-4edb-baf5-7026de1dd465&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49d469c3-c25b-4da2-971d-f4c24ef28db9",
+      "title": "义务教育教科书·科学·学生活动手册二年级上册",
+      "path": "小学 > 科学 > 苏教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49d469c3-c25b-4da2-971d-f4c24ef28db9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f5a2270a-307e-4411-a038-9fc150cdcf30",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学三年级上册",
+      "path": "小学 > 科学 > 苏教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f5a2270a-307e-4411-a038-9fc150cdcf30&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4dfeb1dc-aee4-46bc-9935-15232971cffb",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学 > 科学 > 苏教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4dfeb1dc-aee4-46bc-9935-15232971cffb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2817de7-3e26-4e0b-b331-d6f4eff9147c",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 苏教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2817de7-3e26-4e0b-b331-d6f4eff9147c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e29d49bc-9cf1-4788-abea-73a0a9dff49a",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学 > 科学 > 苏教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e29d49bc-9cf1-4788-abea-73a0a9dff49a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b2411d42-9897-4020-92f3-22584a50a93c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学二年级上册",
+      "path": "小学 > 科学 > 苏教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b2411d42-9897-4020-92f3-22584a50a93c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "12ef79ba-6a49-47e6-987f-5b0df8c1130b",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学 > 科学 > 苏教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=12ef79ba-6a49-47e6-987f-5b0df8c1130b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bdd320fc-eb04-4ad7-8f8e-8c3cca3f8600",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 苏教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bdd320fc-eb04-4ad7-8f8e-8c3cca3f8600&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "690880ed-c243-4975-a2c6-230c086084e4",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学 > 科学 > 苏教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=690880ed-c243-4975-a2c6-230c086084e4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a6abc204-e747-498a-bd3e-d1bac687d306",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 苏教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a6abc204-e747-498a-bd3e-d1bac687d306&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f75ffdb0-f373-4f11-8c3e-6b757963a4f6",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学 > 科学 > 苏教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f75ffdb0-f373-4f11-8c3e-6b757963a4f6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "61115b9c-5c7d-4523-84ff-dc22cfeb2ff6",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 苏教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=61115b9c-5c7d-4523-84ff-dc22cfeb2ff6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "adb2399f-3413-4ae1-9be8-9eb87bea771d",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学 > 科学 > 苏教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=adb2399f-3413-4ae1-9be8-9eb87bea771d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fcff4585-d630-465c-a54b-b83687b4e0d5",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 苏教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fcff4585-d630-465c-a54b-b83687b4e0d5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "52521a6d-b7fd-4212-b627-f92b4e8634c5",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学 > 科学 > 苏教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=52521a6d-b7fd-4212-b627-f92b4e8634c5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2114b1a-d7da-48ed-87b7-1c74d4203c28",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 苏教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2114b1a-d7da-48ed-87b7-1c74d4203c28&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8145b839-8fb8-4cfa-b7a2-407e2dc9d9b6",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学 > 科学 > 苏教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8145b839-8fb8-4cfa-b7a2-407e2dc9d9b6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "15190cd6-ae5a-448c-8a96-02eebc2ad083",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 苏教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=15190cd6-ae5a-448c-8a96-02eebc2ad083&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3fa5966a-3889-44d2-948c-6f3f2acd7345",
+      "title": "义务教育教科书·科学·学生活动手册六年级下册",
+      "path": "小学 > 科学 > 苏教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3fa5966a-3889-44d2-948c-6f3f2acd7345&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be3f69cd-4c82-4021-bf38-de8844e27159",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 苏教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=be3f69cd-4c82-4021-bf38-de8844e27159&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5082db8c-82e3-4253-be5a-36a4cc7473a6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•科学一年级上册",
+      "path": "小学 > 科学 > 教科版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5082db8c-82e3-4253-be5a-36a4cc7473a6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6747ab99-ffe6-4414-a4ba-e8de1e9a6b5f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 教科版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6747ab99-ffe6-4414-a4ba-e8de1e9a6b5f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a27e1141-eb30-4030-a1df-0051cc737afc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学二年级上册",
+      "path": "小学 > 科学 > 教科版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a27e1141-eb30-4030-a1df-0051cc737afc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d1e7490c-c9e3-42cc-8235-858af14b4a20",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 教科版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d1e7490c-c9e3-42cc-8235-858af14b4a20&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8959f5d-8cb6-4624-aebc-df78b612b332",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学三年级上册",
+      "path": "小学 > 科学 > 教科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8959f5d-8cb6-4624-aebc-df78b612b332&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "67a740b6-4ebe-4965-82cf-6d0e1772d14b",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 教科版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=67a740b6-4ebe-4965-82cf-6d0e1772d14b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "de850b37-08a3-40d5-8aa7-7791f08179e0",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 教科版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=de850b37-08a3-40d5-8aa7-7791f08179e0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "99186490-5b29-4767-aca5-b6386ec98960",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 教科版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=99186490-5b29-4767-aca5-b6386ec98960&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4f4b95e8-022c-4685-a126-cc3bded02620",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 教科版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4f4b95e8-022c-4685-a126-cc3bded02620&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a2bcf38-3f8e-4835-9466-341207f7d02c",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 教科版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a2bcf38-3f8e-4835-9466-341207f7d02c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89bce7a4-35e0-48a0-a29a-f9b97f14354d",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 教科版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89bce7a4-35e0-48a0-a29a-f9b97f14354d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c4fe2cc-076f-47bf-9962-39816e866429",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 教科版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c4fe2cc-076f-47bf-9962-39816e866429&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c31bb8a-5578-4ec4-9b42-761313ba005d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级上册",
+      "path": "小学 > 科学 > 青岛版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c31bb8a-5578-4ec4-9b42-761313ba005d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bb1d5d4c-8bb2-4b4a-8ad3-2a57bd4fd998",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学一年级下册",
+      "path": "小学 > 科学 > 青岛版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bb1d5d4c-8bb2-4b4a-8ad3-2a57bd4fd998&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fa1a553d-38a9-424e-8180-66ed74620cf9",
+      "title": "义务教育教科书·科学·学生活动手册二年级上册",
+      "path": "小学 > 科学 > 青岛版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fa1a553d-38a9-424e-8180-66ed74620cf9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ecb1650-59f7-4a25-8201-3ca05455eaf2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学二年级上册",
+      "path": "小学 > 科学 > 青岛版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ecb1650-59f7-4a25-8201-3ca05455eaf2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1178bcd-d340-41d5-b175-e86a02d9dafa",
+      "title": "义务教育教科书·科学·学生活动手册二年级下册",
+      "path": "小学 > 科学 > 青岛版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1178bcd-d340-41d5-b175-e86a02d9dafa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "690add8f-b525-4790-af55-6d8020030b34",
+      "title": "义务教育教科书·科学二年级下册",
+      "path": "小学 > 科学 > 青岛版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=690add8f-b525-4790-af55-6d8020030b34&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8158d0df-5b6c-4f92-9ec7-5dc9499aa278",
+      "title": "义务教育教科书·科学·学生活动手册三年级上册",
+      "path": "小学 > 科学 > 青岛版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8158d0df-5b6c-4f92-9ec7-5dc9499aa278&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d1b46db-df58-4d9c-8470-eb25a5300229",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·科学三年级上册",
+      "path": "小学 > 科学 > 青岛版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4d1b46db-df58-4d9c-8470-eb25a5300229&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ad792d24-69ac-4e22-9188-c181ea6361a3",
+      "title": "义务教育教科书·科学·学生活动手册三年级下册",
+      "path": "小学 > 科学 > 青岛版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ad792d24-69ac-4e22-9188-c181ea6361a3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d8877c00-471b-4499-ae51-e1c93b1f38de",
+      "title": "义务教育教科书·科学三年级下册",
+      "path": "小学 > 科学 > 青岛版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d8877c00-471b-4499-ae51-e1c93b1f38de&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a00140da-7a43-4677-aad7-097644d606cf",
+      "title": "义务教育教科书·科学·学生活动手册四年级上册",
+      "path": "小学 > 科学 > 青岛版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a00140da-7a43-4677-aad7-097644d606cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e75e7bc7-59cf-4e11-a6b7-ad4200a16568",
+      "title": "义务教育教科书·科学四年级上册",
+      "path": "小学 > 科学 > 青岛版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e75e7bc7-59cf-4e11-a6b7-ad4200a16568&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3785573e-28cb-4654-b262-af20ecca2246",
+      "title": "义务教育教科书·科学·学生活动手册四年级下册",
+      "path": "小学 > 科学 > 青岛版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3785573e-28cb-4654-b262-af20ecca2246&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "948c853e-ffae-4f11-8375-3b7352106225",
+      "title": "义务教育教科书·科学四年级下册",
+      "path": "小学 > 科学 > 青岛版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=948c853e-ffae-4f11-8375-3b7352106225&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "157b3e5b-a4a5-41f1-a1f7-12e9f78cde50",
+      "title": "义务教育教科书·科学·学生活动手册五年级上册",
+      "path": "小学 > 科学 > 青岛版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=157b3e5b-a4a5-41f1-a1f7-12e9f78cde50&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "18a6af8e-742e-405b-86e1-7e2e130eff2d",
+      "title": "义务教育教科书·科学五年级上册",
+      "path": "小学 > 科学 > 青岛版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=18a6af8e-742e-405b-86e1-7e2e130eff2d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "73d613ef-4f2a-4de5-a85c-af7b5d48d327",
+      "title": "义务教育教科书·科学·学生活动手册五年级下册",
+      "path": "小学 > 科学 > 青岛版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=73d613ef-4f2a-4de5-a85c-af7b5d48d327&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8dd44e3c-96dc-4d7c-9afc-a867e98a7df6",
+      "title": "义务教育教科书·科学五年级下册",
+      "path": "小学 > 科学 > 青岛版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8dd44e3c-96dc-4d7c-9afc-a867e98a7df6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7d32ff10-5306-43e1-b8cd-529f9d84ea62",
+      "title": "义务教育教科书·科学六年级上册",
+      "path": "小学 > 科学 > 青岛版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7d32ff10-5306-43e1-b8cd-529f9d84ea62&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f0642735-35d3-4172-9cf6-964fa3d7f80d",
+      "title": "义务教育教科书·科学六年级下册",
+      "path": "小学 > 科学 > 青岛版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f0642735-35d3-4172-9cf6-964fa3d7f80d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6961c6ef-d18c-a16a-e8c7-47e375515e3a",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学 > 科学 > 教科版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6961c6ef-d18c-a16a-e8c7-47e375515e3a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "04818af9-0b3b-6b98-31a0-e61b2977ef7b",
+      "title": "义务教育教科书·科学·学生活动手册六年级上册",
+      "path": "小学 > 科学 > 青岛版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=04818af9-0b3b-6b98-31a0-e61b2977ef7b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

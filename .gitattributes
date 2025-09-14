@@ -1,0 +1,29 @@
+# 大型JSON文件使用LFS（如果需要）
+# *.json filter=lfs diff=lfs merge=lfs -text
+
+# 文本文件规范化换行符
+*.py text eol=lf
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.sh text eol=lf
+
+# 二进制文件
+*.pdf binary
+*.mp3 binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# 标记生成的文件
+frontend/textbooks.js linguist-generated=true
+python-solution/download_tasks.json linguist-generated=true
+python-solution/catalog_output/* linguist-generated=true
+
+# 文档文件
+*.md linguist-documentation=true
+README.md linguist-documentation=false

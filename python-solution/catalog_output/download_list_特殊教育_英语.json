@@ -1,0 +1,36 @@
+{
+  "group": "特殊教育_英语",
+  "count": 5,
+  "books": [
+    {
+      "id": "1611a694-2473-53ef-4202-2f5aa3bb86be",
+      "title": "盲校义务教育实验教科书 英语 七年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 英语 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1611a694-2473-53ef-4202-2f5aa3bb86be&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cee44b16-a028-73cb-9147-347c64bf3982",
+      "title": "盲校义务教育实验教科书 英语 八年级 上册（供低视力学生使用）",
+      "path": "特殊教育 > 英语 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cee44b16-a028-73cb-9147-347c64bf3982&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c9d50906-0ea8-da8c-3132-061d4705cd1b",
+      "title": "盲校义务教育实验教科书 英语 九年级 全一册（供低视力学生使用）",
+      "path": "特殊教育 > 英语 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c9d50906-0ea8-da8c-3132-061d4705cd1b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "86cee2ef-8abf-e433-6b1f-ecf1d5d9c0c3",
+      "title": "（根据2022年版课程标准修订）盲校义务教育实验教科书 英语 七年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 英语 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=86cee2ef-8abf-e433-6b1f-ecf1d5d9c0c3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3eccf57a-3af7-9c6c-afa4-81997ae6a25c",
+      "title": "盲校义务教育实验教科书 英语 八年级 下册（供低视力学生使用）",
+      "path": "特殊教育 > 英语 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3eccf57a-3af7-9c6c-afa4-81997ae6a25c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

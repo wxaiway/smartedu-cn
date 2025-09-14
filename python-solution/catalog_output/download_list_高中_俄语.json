@@ -1,0 +1,48 @@
+{
+  "group": "高中_俄语",
+  "count": 7,
+  "books": [
+    {
+      "id": "f22034fd-b3be-4daa-bfdd-8a9e688e0dd6",
+      "title": "普通高中教科书·俄语必修 第一册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f22034fd-b3be-4daa-bfdd-8a9e688e0dd6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "904ead74-41d3-4aa6-867f-5c401b0bb52d",
+      "title": "普通高中教科书·俄语必修 第二册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=904ead74-41d3-4aa6-867f-5c401b0bb52d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3d3ad398-f5e8-4344-a2de-ee7b2e496973",
+      "title": "普通高中教科书·俄语必修 第三册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3d3ad398-f5e8-4344-a2de-ee7b2e496973&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9f9e380-dc25-4acc-b9ff-5ebfdb53afaf",
+      "title": "普通高中教科书·俄语选择性必修 第一册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9f9e380-dc25-4acc-b9ff-5ebfdb53afaf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "142b7616-8980-4d9a-be75-e5284faf9ebb",
+      "title": "普通高中教科书·俄语选择性必修 第二册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=142b7616-8980-4d9a-be75-e5284faf9ebb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f36bcf6-c849-4b36-83c3-c2c538a78e80",
+      "title": "普通高中教科书·俄语选择性必修 第三册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3f36bcf6-c849-4b36-83c3-c2c538a78e80&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "843d88cb-5137-4498-b9d9-b3bb3e8a1b07",
+      "title": "普通高中教科书·俄语选择性必修 第四册",
+      "path": "高中 > 俄语 > 人教版 > 高中年级 > 选择性必修 第四册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=843d88cb-5137-4498-b9d9-b3bb3e8a1b07&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "group": "初中（五•四学制）_语文",
+  "count": 8,
+  "books": [
+    {
+      "id": "d6941a82-0aa3-4c6c-a198-b95ea84a6852",
+      "title": "义务教育教科书（五•四学制）·语文九年级上册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6941a82-0aa3-4c6c-a198-b95ea84a6852&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ab06a72c-93e6-4135-b549-900db6783fa9",
+      "title": "义务教育教科书（五•四学制）·语文九年级下册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ab06a72c-93e6-4135-b549-900db6783fa9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8b697f9-6a7a-4057-85ef-7651f68aa91e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·语文八年级上册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8b697f9-6a7a-4057-85ef-7651f68aa91e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03491549-8712-48a3-8fc8-5a616e6f492e",
+      "title": "义务教育教科书（五•四学制）·语文八年级下册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03491549-8712-48a3-8fc8-5a616e6f492e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "df82f043-281e-48ef-931a-34b951ae8c26",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·语文七年级上册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=df82f043-281e-48ef-931a-34b951ae8c26&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d08cae24-887e-45bd-8ccb-b56af508a293",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·语文七年级下册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d08cae24-887e-45bd-8ccb-b56af508a293&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2ca4002f-cb3d-4a21-bcfe-ebb94032a400",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·语文六年级上册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2ca4002f-cb3d-4a21-bcfe-ebb94032a400&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a953eeec-db0c-4c8b-860f-aa94f4727b6b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·语文六年级下册",
+      "path": "初中（五•四学制） > 语文 > 统编版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a953eeec-db0c-4c8b-860f-aa94f4727b6b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

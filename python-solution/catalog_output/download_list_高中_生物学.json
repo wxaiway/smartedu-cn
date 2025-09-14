@@ -1,0 +1,186 @@
+{
+  "group": "高中_生物学",
+  "count": 30,
+  "books": [
+    {
+      "id": "9d522562-b529-446c-9b5b-084812beee6e",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中 > 生物学 > 人教版 > 高中年级 > 必修1 分子与细胞",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9d522562-b529-446c-9b5b-084812beee6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f89f0368-11c8-4a21-a767-a9102c9ce872",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中 > 生物学 > 人教版 > 高中年级 > 必修2 遗传与进化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f89f0368-11c8-4a21-a767-a9102c9ce872&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec6ab12c-0b06-43a5-bf62-ee90b619f607",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中 > 生物学 > 人教版 > 高中年级 > 选择性必修1 稳态与调节",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec6ab12c-0b06-43a5-bf62-ee90b619f607&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "825baab7-f0ea-4a90-9b4a-513f338e2484",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中 > 生物学 > 人教版 > 高中年级 > 选择性必修2 生物与环境",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=825baab7-f0ea-4a90-9b4a-513f338e2484&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d12ff6b6-b6cd-444a-9749-4642aa350482",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中 > 生物学 > 人教版 > 高中年级 > 选择性必修3 生物技术与工程",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d12ff6b6-b6cd-444a-9749-4642aa350482&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19ee712d-9ef8-4d67-9c1f-d08f8e8efef8",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中 > 生物学 > 沪科教版 > 高中年级 > 必修1 分子与细胞",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19ee712d-9ef8-4d67-9c1f-d08f8e8efef8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01aa24ab-b4c7-4c08-ba80-e9d318653b85",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中 > 生物学 > 沪科教版 > 高中年级 > 必修2 遗传与进化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01aa24ab-b4c7-4c08-ba80-e9d318653b85&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fd607dd9-ef23-488b-bbc8-f39ad6b1c231",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中 > 生物学 > 沪科教版 > 高中年级 > 选择性必修1 稳态与调节",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fd607dd9-ef23-488b-bbc8-f39ad6b1c231&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1da14332-cb18-4ca3-8d7a-44bdc776a645",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中 > 生物学 > 沪科教版 > 高中年级 > 选择性必修2 生物与环境",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1da14332-cb18-4ca3-8d7a-44bdc776a645&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "29046737-201f-4558-a10a-054af70f849e",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中 > 生物学 > 沪科教版 > 高中年级 > 选择性必修3 生物技术与工程",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=29046737-201f-4558-a10a-054af70f849e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1eb6065-df9c-4e04-8199-078f55b61097",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中 > 生物学 > 北师大版 > 高中年级 > 必修1 分子与细胞",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1eb6065-df9c-4e04-8199-078f55b61097&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6979e325-aba2-4576-8ff6-db6a475f5321",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中 > 生物学 > 北师大版 > 高中年级 > 必修2 遗传与进化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6979e325-aba2-4576-8ff6-db6a475f5321&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1b48154c-67c1-4f48-9388-1f3178352a91",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中 > 生物学 > 北师大版 > 高中年级 > 选择性必修1 稳态与调节",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1b48154c-67c1-4f48-9388-1f3178352a91&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "24545301-19c9-42a1-b617-51ef4e85a7b5",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中 > 生物学 > 北师大版 > 高中年级 > 选择性必修2 生物与环境",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=24545301-19c9-42a1-b617-51ef4e85a7b5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dff90ad3-175f-4c7d-acd4-1a7edb8becf7",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中 > 生物学 > 北师大版 > 高中年级 > 选择性必修3 生物技术与工程",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dff90ad3-175f-4c7d-acd4-1a7edb8becf7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f772c954-440d-4a1f-b134-5718c02abc86",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中 > 生物学 > 苏教版 > 高中年级 > 必修1 分子与细胞",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f772c954-440d-4a1f-b134-5718c02abc86&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3a58cbac-f52d-4daa-a569-1889db49ab67",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中 > 生物学 > 苏教版 > 高中年级 > 必修2 遗传与进化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3a58cbac-f52d-4daa-a569-1889db49ab67&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "edb20fce-5f09-4bcc-988d-664d09bb4e96",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中 > 生物学 > 苏教版 > 高中年级 > 选择性必修1 稳态与调节",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=edb20fce-5f09-4bcc-988d-664d09bb4e96&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7ea582cb-5cf9-45d2-97f5-a3d1c0827323",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中 > 生物学 > 苏教版 > 高中年级 > 选择性必修2 生物与环境",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7ea582cb-5cf9-45d2-97f5-a3d1c0827323&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7571ad8f-6735-46f8-ab07-a365be6c805d",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中 > 生物学 > 苏教版 > 高中年级 > 选择性必修3 生物技术与工程",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7571ad8f-6735-46f8-ab07-a365be6c805d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c2d7f565-f856-4e4c-9bdc-de4bd89e827c",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中 > 生物学 > 浙科版 > 高中年级 > 必修1 分子与细胞",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c2d7f565-f856-4e4c-9bdc-de4bd89e827c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec55a812-315c-4301-b0d9-08baaa88f381",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中 > 生物学 > 浙科版 > 高中年级 > 必修2 遗传与进化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec55a812-315c-4301-b0d9-08baaa88f381&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c09fb4f-c4cf-4e3c-b3d5-a7f101c8b7f2",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中 > 生物学 > 浙科版 > 高中年级 > 选择性必修1 稳态与调节",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c09fb4f-c4cf-4e3c-b3d5-a7f101c8b7f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1c32ef7-53a1-4d34-bd78-0974236265a8",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中 > 生物学 > 浙科版 > 高中年级 > 选择性必修2 生物与环境",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1c32ef7-53a1-4d34-bd78-0974236265a8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4c47b88f-6049-4c7a-a201-c540188f7bbb",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中 > 生物学 > 浙科版 > 高中年级 > 选择性必修3 生物技术与工程",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4c47b88f-6049-4c7a-a201-c540188f7bbb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "449c3aba-0d7e-4620-81b0-82fb1d893bd3",
+      "title": "普通高中教科书·生物学必修1 分子与细胞",
+      "path": "高中 > 生物学 > 沪科技版 > 高中年级 > 必修1 分子与细胞",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=449c3aba-0d7e-4620-81b0-82fb1d893bd3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3a133cab-78f3-4359-83e8-72aaf9dba364",
+      "title": "普通高中教科书·生物学必修2 遗传与进化",
+      "path": "高中 > 生物学 > 沪科技版 > 高中年级 > 必修2 遗传与进化",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3a133cab-78f3-4359-83e8-72aaf9dba364&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "adc5c83a-40bb-41b1-8c90-aaafa49d5234",
+      "title": "普通高中教科书·生物学选择性必修1 稳态与调节",
+      "path": "高中 > 生物学 > 沪科技版 > 高中年级 > 选择性必修1 稳态与调节",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=adc5c83a-40bb-41b1-8c90-aaafa49d5234&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "17df4d83-2991-4963-a827-f531089b5ecc",
+      "title": "普通高中教科书·生物学选择性必修2 生物与环境",
+      "path": "高中 > 生物学 > 沪科技版 > 高中年级 > 选择性必修2 生物与环境",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=17df4d83-2991-4963-a827-f531089b5ecc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "72db80ff-063e-4afc-a027-f2e0d9ecc26d",
+      "title": "普通高中教科书·生物学选择性必修3 生物技术与工程",
+      "path": "高中 > 生物学 > 沪科技版 > 高中年级 > 选择性必修3 生物技术与工程",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=72db80ff-063e-4afc-a027-f2e0d9ecc26d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

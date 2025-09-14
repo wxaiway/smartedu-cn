@@ -1,0 +1,594 @@
+{
+  "group": "初中_艺术·音乐",
+  "count": 98,
+  "books": [
+    {
+      "id": "dc9fac32-978e-44e1-87c6-1d33b7d45046",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐七年级上册",
+      "path": "初中 > 艺术·音乐 > 粤教花城版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc9fac32-978e-44e1-87c6-1d33b7d45046&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9f54e28-1eb7-4453-8924-ca1012b8536b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 粤教花城版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9f54e28-1eb7-4453-8924-ca1012b8536b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1b500542-5751-471b-99c6-1cc2476301f5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐八年级上册",
+      "path": "初中 > 艺术·音乐 > 粤教花城版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1b500542-5751-471b-99c6-1cc2476301f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "318efa7f-3cb9-422e-8952-73adf7ac6b23",
+      "title": "义务教育教科书·音乐（简谱）八年级下册",
+      "path": "初中 > 艺术·音乐 > 粤教花城版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=318efa7f-3cb9-422e-8952-73adf7ac6b23&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8ba7d1dd-d8e0-4cc9-ae48-d0155095ccd2",
+      "title": "义务教育教科书·音乐（简谱）九年级上册",
+      "path": "初中 > 艺术·音乐 > 粤教花城版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8ba7d1dd-d8e0-4cc9-ae48-d0155095ccd2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2aca4c8b-8316-4d47-b591-cf9c810fc95a",
+      "title": "义务教育教科书·音乐（简谱）九年级下册",
+      "path": "初中 > 艺术·音乐 > 粤教花城版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2aca4c8b-8316-4d47-b591-cf9c810fc95a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9de05692-74e4-4821-9e23-aaead40bffba",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 桂教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9de05692-74e4-4821-9e23-aaead40bffba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7375c8c-cc7b-4c7e-a356-2b2ff8c589d6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐七年级下册",
+      "path": "初中 > 艺术·音乐 > 桂教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7375c8c-cc7b-4c7e-a356-2b2ff8c589d6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4e5d81a9-00a0-4164-8bdc-f4b106e07252",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 桂教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4e5d81a9-00a0-4164-8bdc-f4b106e07252&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5d311cfc-2765-4c61-b974-18524a339d48",
+      "title": "义务教育教科书·音乐八年级下册",
+      "path": "初中 > 艺术·音乐 > 桂教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5d311cfc-2765-4c61-b974-18524a339d48&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "010b4f6e-43d8-4263-9377-44cfd1c7f22a",
+      "title": "义务教育教科书·音乐九年级上册",
+      "path": "初中 > 艺术·音乐 > 桂教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=010b4f6e-43d8-4263-9377-44cfd1c7f22a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1c151f9d-c193-4237-9810-f586697b693f",
+      "title": "义务教育教科书·音乐九年级下册",
+      "path": "初中 > 艺术·音乐 > 桂教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1c151f9d-c193-4237-9810-f586697b693f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f3c62031-6fac-48c6-81aa-c570965d1e6a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 冀少版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f3c62031-6fac-48c6-81aa-c570965d1e6a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c39c5f47-032b-400e-9fe4-df1698e4c95e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 冀少版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c39c5f47-032b-400e-9fe4-df1698e4c95e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d7627d18-db72-4d00-a87c-fa4507b3e369",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 冀少版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d7627d18-db72-4d00-a87c-fa4507b3e369&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "af2d6d70-2b23-4a80-a9e1-7c0992bd94e3",
+      "title": "义务教育教科书·音乐（简谱）八年级下册",
+      "path": "初中 > 艺术·音乐 > 冀少版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=af2d6d70-2b23-4a80-a9e1-7c0992bd94e3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2bde84dd-2de9-496c-b3cf-37cdae9f3ff3",
+      "title": "义务教育教科书·音乐（简谱）九年级上册",
+      "path": "初中 > 艺术·音乐 > 冀少版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2bde84dd-2de9-496c-b3cf-37cdae9f3ff3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6aa4b8b6-a6e2-4cee-a706-fa0e8dc5e538",
+      "title": "义务教育教科书·音乐（简谱）九年级下册",
+      "path": "初中 > 艺术·音乐 > 冀少版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6aa4b8b6-a6e2-4cee-a706-fa0e8dc5e538&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89a20f12-26fb-420e-87bc-aa46e0863920",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐七年级上册",
+      "path": "初中 > 艺术·音乐 > 湘文艺版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89a20f12-26fb-420e-87bc-aa46e0863920&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ce5915aa-90cb-4174-bd7f-976b14b16b24",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐七年级下册",
+      "path": "初中 > 艺术·音乐 > 湘文艺版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ce5915aa-90cb-4174-bd7f-976b14b16b24&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e2d0db96-bf3c-4097-bda6-f681e903fcb7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐八年级上册",
+      "path": "初中 > 艺术·音乐 > 湘文艺版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e2d0db96-bf3c-4097-bda6-f681e903fcb7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1cd6ba3d-480f-4f1d-8ef8-e4791c5f63b6",
+      "title": "义务教育教科书·音乐八年级下册",
+      "path": "初中 > 艺术·音乐 > 湘文艺版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1cd6ba3d-480f-4f1d-8ef8-e4791c5f63b6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ee6fafa5-1377-4051-b08a-5f72da1557de",
+      "title": "义务教育教科书·音乐九年级上册",
+      "path": "初中 > 艺术·音乐 > 湘文艺版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ee6fafa5-1377-4051-b08a-5f72da1557de&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be7671ec-f19d-43ec-9299-bd719d253318",
+      "title": "义务教育教科书·音乐九年级下册",
+      "path": "初中 > 艺术·音乐 > 湘文艺版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=be7671ec-f19d-43ec-9299-bd719d253318&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8c314449-5369-4ae0-90be-9b24c4cbd060",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 苏少版（五线谱） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8c314449-5369-4ae0-90be-9b24c4cbd060&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aa8c7fb6-e52f-4aa4-a073-eed31e1a0acb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 苏少版（五线谱） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aa8c7fb6-e52f-4aa4-a073-eed31e1a0acb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89817ac0-7b6d-4b02-9b34-a01e4c11d7b4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 苏少版（五线谱） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89817ac0-7b6d-4b02-9b34-a01e4c11d7b4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5dcfa3ee-7f20-4f1c-a0f1-bfb4335c1812",
+      "title": "义务教育教科书·音乐（五线谱）八年级下册",
+      "path": "初中 > 艺术·音乐 > 苏少版（五线谱） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5dcfa3ee-7f20-4f1c-a0f1-bfb4335c1812&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a0fa99a2-774b-45ef-957e-a38999a7f597",
+      "title": "义务教育教科书·音乐（五线谱）九年级上册",
+      "path": "初中 > 艺术·音乐 > 苏少版（五线谱） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a0fa99a2-774b-45ef-957e-a38999a7f597&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9936fcc6-ede7-4f73-bbec-c0a9043ed094",
+      "title": "义务教育教科书·音乐（五线谱）九年级下册",
+      "path": "初中 > 艺术·音乐 > 苏少版（五线谱） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9936fcc6-ede7-4f73-bbec-c0a9043ed094&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1fc361b2-3b90-46eb-8cff-b6e5b57943ed",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 苏少版（简谱） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1fc361b2-3b90-46eb-8cff-b6e5b57943ed&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c371e144-1718-4330-8ce1-6e759c2cc6f8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 苏少版（简谱） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c371e144-1718-4330-8ce1-6e759c2cc6f8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f795e98b-5c3b-47e0-8b88-79ef0866bb93",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·艺术•音乐（简谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 苏少版（简谱） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f795e98b-5c3b-47e0-8b88-79ef0866bb93&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "834097ee-0112-4092-931e-0678d143fac0",
+      "title": "义务教育教科书·音乐（简谱）八年级下册",
+      "path": "初中 > 艺术·音乐 > 苏少版（简谱） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=834097ee-0112-4092-931e-0678d143fac0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "11a55e1e-1627-4be2-986c-82467aebc886",
+      "title": "义务教育教科书·音乐（简谱）九年级上册",
+      "path": "初中 > 艺术·音乐 > 苏少版（简谱） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=11a55e1e-1627-4be2-986c-82467aebc886&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec8050ef-1dac-4e58-a58b-20dfdda26737",
+      "title": "义务教育教科书·音乐（简谱）九年级下册",
+      "path": "初中 > 艺术·音乐 > 苏少版（简谱） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec8050ef-1dac-4e58-a58b-20dfdda26737&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7aa9577-f1dd-405d-ac58-ad2c908394d5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐七年级上册",
+      "path": "初中 > 艺术·音乐 > 辽海版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7aa9577-f1dd-405d-ac58-ad2c908394d5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d70f22f7-4abf-4cbc-a9d0-20d1ab8523dd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐七年级下册",
+      "path": "初中 > 艺术·音乐 > 辽海版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d70f22f7-4abf-4cbc-a9d0-20d1ab8523dd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c163d4df-4e9b-4d63-9863-17a068d12786",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐八年级上册",
+      "path": "初中 > 艺术·音乐 > 辽海版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c163d4df-4e9b-4d63-9863-17a068d12786&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9aebb7cf-fbb8-42c4-acb1-12c1fa17e0b4",
+      "title": "义务教育教科书·音乐八年级下册",
+      "path": "初中 > 艺术·音乐 > 辽海版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9aebb7cf-fbb8-42c4-acb1-12c1fa17e0b4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dfbe9891-f329-4d1f-89b8-f0c9e62a43f7",
+      "title": "义务教育教科书·音乐九年级上册",
+      "path": "初中 > 艺术·音乐 > 辽海版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dfbe9891-f329-4d1f-89b8-f0c9e62a43f7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "38db5bb2-760c-4131-88a5-4fa1cf90adc8",
+      "title": "义务教育教科书·音乐九年级下册",
+      "path": "初中 > 艺术·音乐 > 辽海版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=38db5bb2-760c-4131-88a5-4fa1cf90adc8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "80918a4c-6e34-49d6-ad84-088b559fba36",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 人教版（五线谱） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=80918a4c-6e34-49d6-ad84-088b559fba36&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "77acfa2f-71c0-4fb0-a294-38fd93381bb8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 人教版（五线谱） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=77acfa2f-71c0-4fb0-a294-38fd93381bb8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2932e972-ba8b-4d6e-aa41-5dbd1e757a0b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（五线谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 人教版（五线谱） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2932e972-ba8b-4d6e-aa41-5dbd1e757a0b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5e0cf2cb-6a44-429c-9149-b28e9dff6a8d",
+      "title": "义务教育教科书·音乐（五线谱）八年级下册",
+      "path": "初中 > 艺术·音乐 > 人教版（五线谱） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5e0cf2cb-6a44-429c-9149-b28e9dff6a8d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef1c3233-4968-410e-bca4-176a59864f81",
+      "title": "义务教育教科书·音乐（五线谱）九年级上册",
+      "path": "初中 > 艺术·音乐 > 人教版（五线谱） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ef1c3233-4968-410e-bca4-176a59864f81&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f88d5654-9868-45f1-9aa9-5d0db71be70a",
+      "title": "义务教育教科书·音乐（五线谱）九年级下册",
+      "path": "初中 > 艺术·音乐 > 人教版（五线谱） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f88d5654-9868-45f1-9aa9-5d0db71be70a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "705d021d-5379-4bc0-859d-cba9df7ff193",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 人教版（简谱） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=705d021d-5379-4bc0-859d-cba9df7ff193&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "895c9bcc-30f7-4752-9700-6f4edc850644",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 人教版（简谱） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=895c9bcc-30f7-4752-9700-6f4edc850644&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "15ddbbb6-0006-4b38-97c6-852b109a3e5b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐（简谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 人教版（简谱） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=15ddbbb6-0006-4b38-97c6-852b109a3e5b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ecf99aba-62b5-497b-bd96-77fd5fae34d4",
+      "title": "义务教育教科书·音乐（简谱）八年级下册",
+      "path": "初中 > 艺术·音乐 > 人教版（简谱） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ecf99aba-62b5-497b-bd96-77fd5fae34d4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f1ef3033-541c-4058-a83d-33358478930a",
+      "title": "义务教育教科书·音乐（简谱）九年级上册",
+      "path": "初中 > 艺术·音乐 > 人教版（简谱） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f1ef3033-541c-4058-a83d-33358478930a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a70cae4-c6bb-47e8-966a-2631af61ba12",
+      "title": "义务教育教科书·音乐（简谱）九年级下册",
+      "path": "初中 > 艺术·音乐 > 人教版（简谱） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a70cae4-c6bb-47e8-966a-2631af61ba12&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c7cc6ff7-f6d9-4b81-8046-620093135f76",
+      "title": "义务教育教科书·音乐（五线谱）七年级上册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c7cc6ff7-f6d9-4b81-8046-620093135f76&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0c5fc277-b52d-4949-85fc-c196f88965d9",
+      "title": "义务教育教科书·音乐（五线谱）七年级下册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0c5fc277-b52d-4949-85fc-c196f88965d9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9caf0656-c30a-4e1c-a861-2c1ec979f9ec",
+      "title": "义务教育教科书·音乐（五线谱）八年级上册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9caf0656-c30a-4e1c-a861-2c1ec979f9ec&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6b4f04bb-5691-4ba4-8ddf-0d32e62f2fd5",
+      "title": "义务教育教科书·音乐（五线谱）八年级下册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6b4f04bb-5691-4ba4-8ddf-0d32e62f2fd5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01d4bfe4-4380-48c7-bd9e-251be1126fe0",
+      "title": "义务教育教科书·音乐（五线谱）九年级上册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01d4bfe4-4380-48c7-bd9e-251be1126fe0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0be0623c-2392-44e1-8bd2-fb792da264a3",
+      "title": "义务教育教科书·音乐（五线谱）九年级下册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：曹理） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0be0623c-2392-44e1-8bd2-fb792da264a3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2172626f-fa0e-4fec-aa24-ad76f560beac",
+      "title": "义务教育教科书·音乐（简谱）七年级上册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2172626f-fa0e-4fec-aa24-ad76f560beac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "96879428-7d93-4181-90d6-c4b0d8923434",
+      "title": "义务教育教科书·音乐（简谱）七年级下册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=96879428-7d93-4181-90d6-c4b0d8923434&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d6411beb-a05f-4364-adb9-17e2f35e6f47",
+      "title": "义务教育教科书·音乐（简谱）八年级上册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6411beb-a05f-4364-adb9-17e2f35e6f47&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03bfdde0-0359-4bf6-b2b4-7312f2e9ac3c",
+      "title": "义务教育教科书·音乐（简谱）八年级下册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03bfdde0-0359-4bf6-b2b4-7312f2e9ac3c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "02c6f4fd-cda8-406f-b29b-198e950e2bdd",
+      "title": "义务教育教科书·音乐（简谱）九年级上册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=02c6f4fd-cda8-406f-b29b-198e950e2bdd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cce010f6-a621-4fc8-b0b9-c727c064fa5d",
+      "title": "义务教育教科书·音乐（简谱）九年级下册（主编：曹理）",
+      "path": "初中 > 艺术·音乐 > 人音版（简谱）（主编：曹理） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cce010f6-a621-4fc8-b0b9-c727c064fa5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ab4c8e98-ad76-4217-8130-ab37ab4f2f33",
+      "title": "义务教育教科书·音乐七年级上册（主编：敬谱）",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：敬谱） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ab4c8e98-ad76-4217-8130-ab37ab4f2f33&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75bfe78e-ca0a-4f1f-b3f1-65b3c38b964f",
+      "title": "义务教育教科书·音乐七年级下册（主编：敬谱）",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：敬谱） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75bfe78e-ca0a-4f1f-b3f1-65b3c38b964f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89fd1366-8fe6-4f62-a029-94c71e8bbd27",
+      "title": "义务教育教科书·音乐八年级上册（主编：敬谱）",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：敬谱） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89fd1366-8fe6-4f62-a029-94c71e8bbd27&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89d1c713-593f-4f48-844f-1c2d1a8eb9d2",
+      "title": "义务教育教科书·音乐八年级下册（主编：敬谱）",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：敬谱） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89d1c713-593f-4f48-844f-1c2d1a8eb9d2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f332e5dc-81cc-4abb-922e-46477d3862dc",
+      "title": "义务教育教科书·音乐九年级上册（主编：敬谱）",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：敬谱） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f332e5dc-81cc-4abb-922e-46477d3862dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e5887061-c122-4431-accc-311afe76f6c1",
+      "title": "义务教育教科书·音乐九年级下册（主编：敬谱）",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：敬谱） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e5887061-c122-4431-accc-311afe76f6c1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "83e4947a-4d3b-4248-aaaf-3e6248cd1b98",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术）•音乐七年级上册",
+      "path": "初中 > 艺术·音乐 > 沪教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=83e4947a-4d3b-4248-aaaf-3e6248cd1b98&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f439ed9-c85d-49d7-baac-e47b4dd69d75",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐七年级下册",
+      "path": "初中 > 艺术·音乐 > 沪教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3f439ed9-c85d-49d7-baac-e47b4dd69d75&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "684c134f-4a2b-4145-b301-913eb6a14f76",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐八年级上册",
+      "path": "初中 > 艺术·音乐 > 沪教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=684c134f-4a2b-4145-b301-913eb6a14f76&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "21fb2b54-6da9-43e5-81e5-5ccef90150cb",
+      "title": "义务教育教科书·音乐八年级下册",
+      "path": "初中 > 艺术·音乐 > 沪教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=21fb2b54-6da9-43e5-81e5-5ccef90150cb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "702d8210-3199-4e29-b249-010b291b5779",
+      "title": "义务教育教科书·音乐九年级上册",
+      "path": "初中 > 艺术·音乐 > 沪教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=702d8210-3199-4e29-b249-010b291b5779&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "584018a4-54a5-4c23-9cdc-5e531d1ee71e",
+      "title": "义务教育教科书·音乐九年级下册",
+      "path": "初中 > 艺术·音乐 > 沪教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=584018a4-54a5-4c23-9cdc-5e531d1ee71e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9e16ac2-d171-43a9-bb83-ef53425c5daa",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐七年级上册",
+      "path": "初中 > 艺术·音乐 > 西南大学版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9e16ac2-d171-43a9-bb83-ef53425c5daa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ce6e353a-a6c7-4aa4-9fa2-d6050a4a6a0f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐七年级下册",
+      "path": "初中 > 艺术·音乐 > 西南大学版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ce6e353a-a6c7-4aa4-9fa2-d6050a4a6a0f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4c437213-7566-4054-bb27-82a32b7fc6cc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·音乐八年级上册",
+      "path": "初中 > 艺术·音乐 > 西南大学版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4c437213-7566-4054-bb27-82a32b7fc6cc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef007c8f-4800-4b33-ba6c-c8f90dbf0959",
+      "title": "义务教育教科书·音乐八年级下册",
+      "path": "初中 > 艺术·音乐 > 西南大学版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ef007c8f-4800-4b33-ba6c-c8f90dbf0959&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a6e33c2b-8e52-43af-b135-0b9b449f8ada",
+      "title": "义务教育教科书·音乐九年级上册",
+      "path": "初中 > 艺术·音乐 > 西南大学版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a6e33c2b-8e52-43af-b135-0b9b449f8ada&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "273ef3f1-231a-48ef-a406-19b531c7c730",
+      "title": "义务教育教科书·音乐九年级下册",
+      "path": "初中 > 艺术·音乐 > 西南大学版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=273ef3f1-231a-48ef-a406-19b531c7c730&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe6956de-cc85-22c4-e2ab-cba466e7d4c7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（李心草）七年级上册",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：李心草） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe6956de-cc85-22c4-e2ab-cba466e7d4c7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d5ebe37e-ea12-3a79-7d0f-569a1ff29fc7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（赵季平，杜永寿）七年级上册",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d5ebe37e-ea12-3a79-7d0f-569a1ff29fc7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da3b2ae7-edbe-0c89-c3b8-851cb70743d5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）（赵季平，杜永寿）七年级上册",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da3b2ae7-edbe-0c89-c3b8-851cb70743d5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c4c86ed1-88f4-a222-fe37-7476a8253f6a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐七年级上册",
+      "path": "初中 > 艺术·音乐 > 教科版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c4c86ed1-88f4-a222-fe37-7476a8253f6a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "94656fab-ffaa-6fc6-cc52-5d5d356ee4e0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）七年级上册",
+      "path": "初中 > 艺术·音乐 > 鄂教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=94656fab-ffaa-6fc6-cc52-5d5d356ee4e0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "237f0236-b0ee-d413-e135-e55701a066b4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）七年级下册",
+      "path": "初中 > 艺术·音乐 > 鄂教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=237f0236-b0ee-d413-e135-e55701a066b4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be8dad21-7d3b-ab0b-24e7-9183223fd988",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐七年级下册",
+      "path": "初中 > 艺术·音乐 > 教科版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=be8dad21-7d3b-ab0b-24e7-9183223fd988&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "09ce90a4-eff8-4f06-9d10-46e1f1cf7177",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（赵季平，杜永寿）七年级下册",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=09ce90a4-eff8-4f06-9d10-46e1f1cf7177&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f6582166-fd20-4a25-a27e-6b68dbd6d28c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）（赵季平，杜永寿）七年级下册",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f6582166-fd20-4a25-a27e-6b68dbd6d28c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "70b3fcc2-5519-9b4e-0387-a9cea7b1b3dd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（李心草）八年级上册",
+      "path": "初中 > 艺术·音乐 > 人音版（五线谱）（主编：李心草） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=70b3fcc2-5519-9b4e-0387-a9cea7b1b3dd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1acae560-022d-bbae-385f-0ae87d5392c1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）八年级上册",
+      "path": "初中 > 艺术·音乐 > 鄂教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1acae560-022d-bbae-385f-0ae87d5392c1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a31fe2b1-43ad-4fa2-5197-dce6098347a6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐八年级上册",
+      "path": "初中 > 艺术·音乐 > 教科版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a31fe2b1-43ad-4fa2-5197-dce6098347a6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f9000a23-23c1-d6d2-c3f0-2fb88fa83bca",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（五线谱）（赵季平，杜永寿）八年级上册",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f9000a23-23c1-d6d2-c3f0-2fb88fa83bca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a12b508f-3e9a-a318-56af-3924250f0b8e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•音乐（简谱）（赵季平，杜永寿）八年级上册",
+      "path": "初中 > 艺术·音乐 > 人音版（主编：赵季平，杜永寿） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a12b508f-3e9a-a318-56af-3924250f0b8e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

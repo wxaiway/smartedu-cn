@@ -1,0 +1,42 @@
+{
+  "group": "初中（五•四学制）_化学",
+  "count": 6,
+  "books": [
+    {
+      "id": "29d7ea64-d588-4594-b06c-21412e8c0597",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·化学八年级全一册",
+      "path": "初中（五•四学制） > 化学 > 人教版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=29d7ea64-d588-4594-b06c-21412e8c0597&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "85fcce9b-ed0c-44cd-aa3a-e46ab38d5dab",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·化学九年级全一册",
+      "path": "初中（五•四学制） > 化学 > 人教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=85fcce9b-ed0c-44cd-aa3a-e46ab38d5dab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f21039d7-8d9e-4fd8-9c47-d420c3017231",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•化学八年级全一册",
+      "path": "初中（五•四学制） > 化学 > 鲁教版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f21039d7-8d9e-4fd8-9c47-d420c3017231&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "032996c5-8ba6-4690-8172-7db84f860310",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•化学九年级全一册",
+      "path": "初中（五•四学制） > 化学 > 鲁教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=032996c5-8ba6-4690-8172-7db84f860310&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ee731f50-1aea-cfe4-cfa1-df95c7b4fab0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•化学八年级全一册",
+      "path": "初中（五•四学制） > 化学 > 沪科技版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ee731f50-1aea-cfe4-cfa1-df95c7b4fab0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e631b16a-511c-141e-d712-dbb39be61c2c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•化学九年级全一册",
+      "path": "初中（五•四学制） > 化学 > 沪科技版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e631b16a-511c-141e-d712-dbb39be61c2c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

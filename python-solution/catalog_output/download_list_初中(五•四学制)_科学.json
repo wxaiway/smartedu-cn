@@ -1,0 +1,18 @@
+{
+  "group": "初中（五•四学制）_科学",
+  "count": 2,
+  "books": [
+    {
+      "id": "5c14f294-9b5f-a843-d40a-779fe009ea5c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•科学六年级上册",
+      "path": "初中（五•四学制） > 科学 > 沪科技版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5c14f294-9b5f-a843-d40a-779fe009ea5c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2ec04b9-1617-2a43-8cd6-8fe79f8b69fe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•科学六年级下册",
+      "path": "初中（五•四学制） > 科学 > 沪科技版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2ec04b9-1617-2a43-8cd6-8fe79f8b69fe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

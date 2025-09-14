@@ -1,0 +1,24 @@
+{
+  "group": "初中_西班牙语",
+  "count": 3,
+  "books": [
+    {
+      "id": "d1fb1fc7-ee3e-a063-2cc4-599844ca1d5d",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·西班牙语 必修I上册",
+      "path": "初中 > 西班牙语 > 外研社版 > 七年级 > 必修Ⅰ（上册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d1fb1fc7-ee3e-a063-2cc4-599844ca1d5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aabbea3e-d7a1-6cc0-df50-cb7ccc3e22a7",
+      "title": "普通中学教科书·西班牙语 必修I下册",
+      "path": "初中 > 西班牙语 > 外研社版 > 七年级 > 必修Ⅰ（下册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aabbea3e-d7a1-6cc0-df50-cb7ccc3e22a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75f7ba74-5878-7803-28a0-76f3b8841c8a",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·西班牙语 必修Ⅱ（上册）",
+      "path": "初中 > 西班牙语 > 外研社版 > 八年级 > 必修Ⅱ（上册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75f7ba74-5878-7803-28a0-76f3b8841c8a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group": "高中_西班牙语",
+  "count": 5,
+  "books": [
+    {
+      "id": "17e474cc-a682-9ca9-d9d0-3bdad839b09a",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·西班牙语 必修IV第一册",
+      "path": "高中 > 西班牙语 > 外研社版 > 必修Ⅳ 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=17e474cc-a682-9ca9-d9d0-3bdad839b09a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4b32c515-febf-3ec6-f173-bfb0609cb5a1",
+      "title": "普通中学教科书·西班牙语 必修IV第二册",
+      "path": "高中 > 西班牙语 > 外研社版 > 必修Ⅳ 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4b32c515-febf-3ec6-f173-bfb0609cb5a1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1f11b00-f030-5a36-2ddb-a7f146c9088a",
+      "title": "普通中学教科书·西班牙语 必修IV第三册",
+      "path": "高中 > 西班牙语 > 外研社版 > 必修Ⅳ 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1f11b00-f030-5a36-2ddb-a7f146c9088a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b920cfd-facb-64ed-8bd5-5381c6a5232b",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·西班牙语 选择性必修第二册",
+      "path": "高中 > 西班牙语 > 外研社版 > 选择性必修第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b920cfd-facb-64ed-8bd5-5381c6a5232b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a8ea0945-d5d6-f13f-8ae9-4155a5da5ed5",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·西班牙语 选择性必修第一册",
+      "path": "高中 > 西班牙语 > 外研社版 > 选择性必修第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a8ea0945-d5d6-f13f-8ae9-4155a5da5ed5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

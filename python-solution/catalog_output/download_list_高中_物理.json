@@ -1,0 +1,222 @@
+{
+  "group": "高中_物理",
+  "count": 36,
+  "books": [
+    {
+      "id": "708256b6-6f06-4d14-89c7-4df16dfe3b81",
+      "title": "普通高中教科书·物理必修 第一册",
+      "path": "高中 > 物理 > 人教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=708256b6-6f06-4d14-89c7-4df16dfe3b81&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "55baa3cc-156f-4358-8e28-bfa21a864450",
+      "title": "普通高中教科书·物理必修 第二册",
+      "path": "高中 > 物理 > 人教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=55baa3cc-156f-4358-8e28-bfa21a864450&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dcd8cc6b-5380-4008-a2d0-a061f24d34dd",
+      "title": "普通高中教科书·物理必修 第三册",
+      "path": "高中 > 物理 > 人教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dcd8cc6b-5380-4008-a2d0-a061f24d34dd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "346c3c04-1663-472c-849e-ff876dcf293f",
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "path": "高中 > 物理 > 人教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=346c3c04-1663-472c-849e-ff876dcf293f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2ee7d7fa-1920-4d37-a179-91d5fd59b8c1",
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "path": "高中 > 物理 > 人教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2ee7d7fa-1920-4d37-a179-91d5fd59b8c1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2109c25c-2e52-4da3-8ab3-18cbe632ec11",
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "path": "高中 > 物理 > 人教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2109c25c-2e52-4da3-8ab3-18cbe632ec11&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5843dc73-d545-4766-8d1e-8476cde67e12",
+      "title": "普通高中教科书·物理必修 第一册",
+      "path": "高中 > 物理 > 鲁科版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5843dc73-d545-4766-8d1e-8476cde67e12&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d0148845-e323-44df-9e5b-d629fd7c4514",
+      "title": "普通高中教科书·物理必修 第二册",
+      "path": "高中 > 物理 > 鲁科版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d0148845-e323-44df-9e5b-d629fd7c4514&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bae7ac26-099a-40bd-a28f-df55e0a79d88",
+      "title": "普通高中教科书·物理必修 第三册",
+      "path": "高中 > 物理 > 鲁科版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bae7ac26-099a-40bd-a28f-df55e0a79d88&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "927bd70c-f2b3-401e-937b-047691bfa8e7",
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "path": "高中 > 物理 > 鲁科版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=927bd70c-f2b3-401e-937b-047691bfa8e7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2627e1d1-bacc-47a7-83f8-f6f7bc57f3a9",
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "path": "高中 > 物理 > 鲁科版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2627e1d1-bacc-47a7-83f8-f6f7bc57f3a9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49910438-fdab-4f61-a972-558818436b24",
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "path": "高中 > 物理 > 鲁科版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49910438-fdab-4f61-a972-558818436b24&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c518b19-968d-4083-8d1b-ac989c031d3d",
+      "title": "普通高中教科书·物理必修 第一册",
+      "path": "高中 > 物理 > 沪科教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c518b19-968d-4083-8d1b-ac989c031d3d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "75a175ee-981b-40e3-9c28-456843e588ff",
+      "title": "普通高中教科书·物理必修 第二册",
+      "path": "高中 > 物理 > 沪科教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=75a175ee-981b-40e3-9c28-456843e588ff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "846df0ee-4951-4746-82f8-75a285e699f6",
+      "title": "普通高中教科书·物理必修 第三册",
+      "path": "高中 > 物理 > 沪科教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=846df0ee-4951-4746-82f8-75a285e699f6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "74c7acb1-7d10-4091-9290-f91bfdac0deb",
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "path": "高中 > 物理 > 沪科教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=74c7acb1-7d10-4091-9290-f91bfdac0deb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "737efb83-7597-4199-903d-a0d2c2a42725",
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "path": "高中 > 物理 > 沪科教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=737efb83-7597-4199-903d-a0d2c2a42725&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc7e256d-80e5-42bd-90d2-4cecc8bafe51",
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "path": "高中 > 物理 > 沪科教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc7e256d-80e5-42bd-90d2-4cecc8bafe51&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b10989ae-52a4-4b32-ad3f-0e8867744635",
+      "title": "普通高中教科书·物理必修 第一册",
+      "path": "高中 > 物理 > 粤教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b10989ae-52a4-4b32-ad3f-0e8867744635&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "82919224-5b94-461f-9dd0-84b3c3e1a01a",
+      "title": "普通高中教科书·物理必修 第二册",
+      "path": "高中 > 物理 > 粤教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=82919224-5b94-461f-9dd0-84b3c3e1a01a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b319a84d-10f1-4ba0-8530-9a459f978eff",
+      "title": "普通高中教科书·物理必修 第三册",
+      "path": "高中 > 物理 > 粤教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b319a84d-10f1-4ba0-8530-9a459f978eff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "04a1fb1f-56b2-423b-91d0-22786c474490",
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "path": "高中 > 物理 > 粤教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=04a1fb1f-56b2-423b-91d0-22786c474490&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "660e00ae-3219-4460-b505-b436f1bde772",
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "path": "高中 > 物理 > 粤教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=660e00ae-3219-4460-b505-b436f1bde772&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8260ffe3-5065-4f32-bdc3-dd048f75ff7e",
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "path": "高中 > 物理 > 粤教版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8260ffe3-5065-4f32-bdc3-dd048f75ff7e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9b62fbb-f770-4294-906f-12d5aa5d9705",
+      "title": "普通高中教科书·物理必修 第一册",
+      "path": "高中 > 物理 > 教科版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9b62fbb-f770-4294-906f-12d5aa5d9705&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "62835cb6-fd7b-410b-bbe5-a3aebc09fff3",
+      "title": "普通高中教科书·物理必修 第二册",
+      "path": "高中 > 物理 > 教科版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=62835cb6-fd7b-410b-bbe5-a3aebc09fff3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1ababc37-ea04-48a7-9a22-6ca2612ba2ec",
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "path": "高中 > 物理 > 教科版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1ababc37-ea04-48a7-9a22-6ca2612ba2ec&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "81d864da-a6ea-464e-bde6-8e8e948b94d8",
+      "title": "普通高中教科书·物理必修 第一册",
+      "path": "高中 > 物理 > 沪科技版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=81d864da-a6ea-464e-bde6-8e8e948b94d8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4f56d43d-3f75-4253-aa15-176a1f8ab506",
+      "title": "普通高中教科书·物理必修 第二册",
+      "path": "高中 > 物理 > 沪科技版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4f56d43d-3f75-4253-aa15-176a1f8ab506&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bf372980-5beb-4ca3-9e5c-5145029d6f7c",
+      "title": "普通高中教科书·物理必修 第三册",
+      "path": "高中 > 物理 > 沪科技版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bf372980-5beb-4ca3-9e5c-5145029d6f7c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49504557-319c-4a33-a584-7482aafb6cd8",
+      "title": "普通高中教科书·物理选择性必修 第一册",
+      "path": "高中 > 物理 > 沪科技版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49504557-319c-4a33-a584-7482aafb6cd8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "640f2aea-c9c5-4a2d-9e90-a56a9690f3ef",
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "path": "高中 > 物理 > 沪科技版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=640f2aea-c9c5-4a2d-9e90-a56a9690f3ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b2774427-227a-496b-805e-59b510c87ebe",
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "path": "高中 > 物理 > 沪科技版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b2774427-227a-496b-805e-59b510c87ebe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "700a0ee7-8d29-ec53-0434-8a353554d633",
+      "title": "普通高中教科书·物理必修 第三册",
+      "path": "高中 > 物理 > 教科版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=700a0ee7-8d29-ec53-0434-8a353554d633&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b0be47bc-e545-c754-fb69-7d1bbb916996",
+      "title": "普通高中教科书·物理选择性必修 第二册",
+      "path": "高中 > 物理 > 教科版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b0be47bc-e545-c754-fb69-7d1bbb916996&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0c70ed75-dbf3-48d3-9aef-b1dd40dc3151",
+      "title": "普通高中教科书·物理选择性必修 第三册",
+      "path": "高中 > 物理 > 教科版 > 高中年级 > 选择性必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0c70ed75-dbf3-48d3-9aef-b1dd40dc3151&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

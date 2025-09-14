@@ -1,0 +1,126 @@
+{
+  "group": "小学_艺术",
+  "count": 20,
+  "books": [
+    {
+      "id": "4fce4f0e-d09e-46e0-8878-651d25fd4126",
+      "title": "义务教育教科书·艺术二年级上册",
+      "path": "小学 > 艺术 > 鄂教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4fce4f0e-d09e-46e0-8878-651d25fd4126&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "54705c25-6030-4101-a43c-50ac255e53d3",
+      "title": "义务教育教科书·艺术二年级下册",
+      "path": "小学 > 艺术 > 鄂教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=54705c25-6030-4101-a43c-50ac255e53d3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1a86fd7-6d05-4829-b39d-24dbec3a4677",
+      "title": "义务教育教科书·艺术三年级上册",
+      "path": "小学 > 艺术 > 鄂教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1a86fd7-6d05-4829-b39d-24dbec3a4677&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "46f47ad5-b2ca-4488-a7c6-a583941d321a",
+      "title": "义务教育教科书·艺术三年级下册",
+      "path": "小学 > 艺术 > 鄂教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=46f47ad5-b2ca-4488-a7c6-a583941d321a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2d92059a-c691-4923-b6be-ffc9f7da7ae3",
+      "title": "义务教育教科书·艺术四年级上册",
+      "path": "小学 > 艺术 > 鄂教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2d92059a-c691-4923-b6be-ffc9f7da7ae3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d74568fc-1082-441e-b6db-45c0d630cb15",
+      "title": "义务教育教科书·艺术四年级下册",
+      "path": "小学 > 艺术 > 鄂教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d74568fc-1082-441e-b6db-45c0d630cb15&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ace05649-acc8-4c8f-95c0-f55b0f47d72d",
+      "title": "义务教育教科书·艺术五年级上册",
+      "path": "小学 > 艺术 > 鄂教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ace05649-acc8-4c8f-95c0-f55b0f47d72d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0f297518-86cc-49fc-900c-2dad718f2004",
+      "title": "义务教育教科书·艺术五年级下册",
+      "path": "小学 > 艺术 > 鄂教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0f297518-86cc-49fc-900c-2dad718f2004&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "72119adb-2b21-4b1e-b974-06a689bc687c",
+      "title": "义务教育教科书·艺术六年级上册",
+      "path": "小学 > 艺术 > 鄂教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=72119adb-2b21-4b1e-b974-06a689bc687c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "63acfe1e-adaf-4ef7-81ec-27b6048cbb1a",
+      "title": "义务教育教科书·艺术六年级下册",
+      "path": "小学 > 艺术 > 鄂教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=63acfe1e-adaf-4ef7-81ec-27b6048cbb1a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "74a80395-1298-4b1c-87ac-3fe3b24c8311",
+      "title": "义务教育教科书·艺术二年级上册",
+      "path": "小学 > 艺术 > 教科版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=74a80395-1298-4b1c-87ac-3fe3b24c8311&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b603310e-bca4-48ab-aa57-cb3875c4f998",
+      "title": "义务教育教科书·艺术二年级下册",
+      "path": "小学 > 艺术 > 教科版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b603310e-bca4-48ab-aa57-cb3875c4f998&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d3a1b01d-3231-40c3-b05e-95c497055d72",
+      "title": "义务教育教科书·艺术三年级上册",
+      "path": "小学 > 艺术 > 教科版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d3a1b01d-3231-40c3-b05e-95c497055d72&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5b8bed03-09a4-486b-8301-94ef3c10ecdb",
+      "title": "义务教育教科书·艺术三年级下册",
+      "path": "小学 > 艺术 > 教科版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5b8bed03-09a4-486b-8301-94ef3c10ecdb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "41696cb2-33a4-42bd-9fc6-e74eefac2b59",
+      "title": "义务教育教科书·艺术四年级上册",
+      "path": "小学 > 艺术 > 教科版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=41696cb2-33a4-42bd-9fc6-e74eefac2b59&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "074d8524-2733-4758-948d-19eaa3f47596",
+      "title": "义务教育教科书·艺术四年级下册",
+      "path": "小学 > 艺术 > 教科版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=074d8524-2733-4758-948d-19eaa3f47596&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ac4da2e9-7f78-4c06-9c31-64fd57caefc1",
+      "title": "义务教育教科书·艺术五年级上册",
+      "path": "小学 > 艺术 > 教科版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ac4da2e9-7f78-4c06-9c31-64fd57caefc1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "11440b27-e185-484c-a154-7f3f08f5c549",
+      "title": "义务教育教科书·艺术五年级下册",
+      "path": "小学 > 艺术 > 教科版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=11440b27-e185-484c-a154-7f3f08f5c549&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "65619ff0-cd11-487f-b581-47ee2a86531e",
+      "title": "义务教育教科书·艺术六年级上册",
+      "path": "小学 > 艺术 > 教科版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=65619ff0-cd11-487f-b581-47ee2a86531e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "60da76c3-2bd7-4670-930d-e1322b7de7dc",
+      "title": "义务教育教科书·艺术六年级下册",
+      "path": "小学 > 艺术 > 教科版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=60da76c3-2bd7-4670-930d-e1322b7de7dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

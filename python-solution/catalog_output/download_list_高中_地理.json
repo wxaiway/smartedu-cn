@@ -1,0 +1,156 @@
+{
+  "group": "高中_地理",
+  "count": 25,
+  "books": [
+    {
+      "id": "e2c5fb9c-9a73-4f1a-8fb5-10b1299c7f5c",
+      "title": "普通高中教科书·地理必修 第一册",
+      "path": "高中 > 地理 > 人教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e2c5fb9c-9a73-4f1a-8fb5-10b1299c7f5c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8452d2cf-1a23-4656-84b9-26616cbd2eff",
+      "title": "普通高中教科书·地理必修 第二册",
+      "path": "高中 > 地理 > 人教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8452d2cf-1a23-4656-84b9-26616cbd2eff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "373d48bd-c1b4-4edd-b148-628713692ba3",
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "path": "高中 > 地理 > 人教版 > 高中年级 > 选择性必修1 自然地理基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=373d48bd-c1b4-4edd-b148-628713692ba3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "db7e6c9c-44b3-4818-96c6-ce81dabb3cc7",
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "path": "高中 > 地理 > 人教版 > 高中年级 > 选择性必修2 区域发展",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=db7e6c9c-44b3-4818-96c6-ce81dabb3cc7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f07377f5-2ced-4d59-a59d-fe3b37800ead",
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "path": "高中 > 地理 > 人教版 > 高中年级 > 选择性必修3 资源、环境与国家安全",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f07377f5-2ced-4d59-a59d-fe3b37800ead&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8fdae729-505e-47b2-b351-fc9bb3bd02a4",
+      "title": "普通高中教科书·地理必修 第一册",
+      "path": "高中 > 地理 > 鲁教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8fdae729-505e-47b2-b351-fc9bb3bd02a4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d5e54b3b-af1e-48d0-ad6e-a274c9cc3117",
+      "title": "普通高中教科书·地理必修 第二册",
+      "path": "高中 > 地理 > 鲁教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d5e54b3b-af1e-48d0-ad6e-a274c9cc3117&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4883514d-585b-45fa-8d59-60edc1606847",
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "path": "高中 > 地理 > 鲁教版 > 高中年级 > 选择性必修1 自然地理基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4883514d-585b-45fa-8d59-60edc1606847&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b3a1593d-8033-4ed1-9e54-ccb07b8cfd36",
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "path": "高中 > 地理 > 鲁教版 > 高中年级 > 选择性必修2 区域发展",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b3a1593d-8033-4ed1-9e54-ccb07b8cfd36&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7a1e6be9-a4b6-4d5f-8039-a226b21b0040",
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "path": "高中 > 地理 > 鲁教版 > 高中年级 > 选择性必修3 资源、环境与国家安全",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7a1e6be9-a4b6-4d5f-8039-a226b21b0040&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ab77f3bd-5fb6-4061-a8f3-8d843ebd4d55",
+      "title": "普通高中教科书·地理必修 第一册",
+      "path": "高中 > 地理 > 中图版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ab77f3bd-5fb6-4061-a8f3-8d843ebd4d55&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "52e14ba5-4e60-4be6-b9ad-bd310b6c80d8",
+      "title": "普通高中教科书·地理必修 第二册",
+      "path": "高中 > 地理 > 中图版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=52e14ba5-4e60-4be6-b9ad-bd310b6c80d8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d68ab621-05bc-446b-a298-8b255d8e7fef",
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "path": "高中 > 地理 > 中图版 > 高中年级 > 选择性必修1 自然地理基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d68ab621-05bc-446b-a298-8b255d8e7fef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1ae1e6d8-00ea-483b-90af-8719d2ffb826",
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "path": "高中 > 地理 > 中图版 > 高中年级 > 选择性必修2 区域发展",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1ae1e6d8-00ea-483b-90af-8719d2ffb826&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19e3274b-7671-43e6-8f0b-10881e8733ef",
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "path": "高中 > 地理 > 中图版 > 高中年级 > 选择性必修3 资源、环境与国家安全",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19e3274b-7671-43e6-8f0b-10881e8733ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "31bcd4b6-a640-4f86-8611-e2e42c9e5e5a",
+      "title": "普通高中教科书·地理必修 第一册",
+      "path": "高中 > 地理 > 湘教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=31bcd4b6-a640-4f86-8611-e2e42c9e5e5a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "79529883-0f83-41ff-879e-57c2420f8020",
+      "title": "普通高中教科书·地理必修 第二册",
+      "path": "高中 > 地理 > 湘教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=79529883-0f83-41ff-879e-57c2420f8020&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "46b09a84-1e5d-41d9-8a3a-d2e8647fa3a7",
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "path": "高中 > 地理 > 湘教版 > 高中年级 > 选择性必修1 自然地理基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=46b09a84-1e5d-41d9-8a3a-d2e8647fa3a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "96c46317-16ee-4a5d-bf24-41033203dc29",
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "path": "高中 > 地理 > 湘教版 > 高中年级 > 选择性必修2 区域发展",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=96c46317-16ee-4a5d-bf24-41033203dc29&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "283ad3a1-55a2-4f2f-a3ac-029819a23d1f",
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "path": "高中 > 地理 > 湘教版 > 高中年级 > 选择性必修3 资源、环境与国家安全",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=283ad3a1-55a2-4f2f-a3ac-029819a23d1f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7a8797ab-dcee-4bb8-88f8-c6b67f0ac667",
+      "title": "普通高中教科书·地理必修 第一册",
+      "path": "高中 > 地理 > 中图中华地图版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7a8797ab-dcee-4bb8-88f8-c6b67f0ac667&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4561f44a-dd77-4f82-8c10-b280522e80b1",
+      "title": "普通高中教科书·地理必修 第二册",
+      "path": "高中 > 地理 > 中图中华地图版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4561f44a-dd77-4f82-8c10-b280522e80b1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "416cedfa-fac4-439e-a69c-e74404cf92f2",
+      "title": "普通高中教科书·地理选择性必修1 自然地理基础",
+      "path": "高中 > 地理 > 中图中华地图版 > 高中年级 > 选择性必修1 自然地理基础",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=416cedfa-fac4-439e-a69c-e74404cf92f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4180ebe-60bd-4693-9e7c-0d59d772017f",
+      "title": "普通高中教科书·地理选择性必修2 区域发展",
+      "path": "高中 > 地理 > 中图中华地图版 > 高中年级 > 选择性必修2 区域发展",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a4180ebe-60bd-4693-9e7c-0d59d772017f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e720c36c-0239-4785-b94f-7f268792065e",
+      "title": "普通高中教科书·地理选择性必修3 资源、环境与国家安全",
+      "path": "高中 > 地理 > 中图中华地图版 > 高中年级 > 选择性必修3 资源、环境与国家安全",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e720c36c-0239-4785-b94f-7f268792065e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

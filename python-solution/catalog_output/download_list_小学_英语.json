@@ -1,0 +1,1512 @@
+{
+  "group": "小学_英语",
+  "count": 251,
+  "books": [
+    {
+      "id": "050c96f0-5194-43b1-9f30-4c79541eda2e",
+      "title": "义务教育教科书·英语（一年级起点）二年级上册",
+      "path": "小学 > 英语 > 北京版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=050c96f0-5194-43b1-9f30-4c79541eda2e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7743d4a4-55e4-4f0f-a205-115a6f2ed086",
+      "title": "义务教育教科书·英语（一年级起点）二年级下册",
+      "path": "小学 > 英语 > 北京版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7743d4a4-55e4-4f0f-a205-115a6f2ed086&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5bd0a1a5-4465-48f7-ac81-825b4b941eea",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 北京版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5bd0a1a5-4465-48f7-ac81-825b4b941eea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "007b33ae-8a3b-46a2-a0af-f87a81f58bcb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 北京版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=007b33ae-8a3b-46a2-a0af-f87a81f58bcb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d81a9920-1ce0-4e99-9217-e68b1f9de9ec",
+      "title": "义务教育教科书·英语（一年级起点）四年级下册",
+      "path": "小学 > 英语 > 北京版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d81a9920-1ce0-4e99-9217-e68b1f9de9ec&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0303db18-107f-4695-abb5-e55521a88a77",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 五年级上册",
+      "path": "小学 > 英语 > 北京版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0303db18-107f-4695-abb5-e55521a88a77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a6789af4-f728-4dab-85f2-1b50661ea8ea",
+      "title": "义务教育教科书·英语（一年级起点）五年级下册",
+      "path": "小学 > 英语 > 北京版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a6789af4-f728-4dab-85f2-1b50661ea8ea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "899e51ef-9692-440a-bba8-a1aacdec0584",
+      "title": "义务教育教科书·英语（一年级起点）六年级上册",
+      "path": "小学 > 英语 > 北京版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=899e51ef-9692-440a-bba8-a1aacdec0584&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4f559402-173b-4e30-8dd9-34c180ef9409",
+      "title": "义务教育教科书·英语（一年级起点）六年级下册",
+      "path": "小学 > 英语 > 北京版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4f559402-173b-4e30-8dd9-34c180ef9409&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d580ae4f-d167-44ae-bd33-c842b3f0abf8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 北师大版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d580ae4f-d167-44ae-bd33-c842b3f0abf8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ac9053fd-ac1e-4aad-ad21-90e69779ec69",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 四年级上册",
+      "path": "小学 > 英语 > 北师大版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ac9053fd-ac1e-4aad-ad21-90e69779ec69&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6b109156-89f6-4e9d-8a73-e429f7987df5",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 北师大版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6b109156-89f6-4e9d-8a73-e429f7987df5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "acc12d6c-7996-4a76-8d42-cb20b3749496",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 北师大版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=acc12d6c-7996-4a76-8d42-cb20b3749496&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "414c33cd-2d9d-48bc-a25b-c705a1482730",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 北师大版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=414c33cd-2d9d-48bc-a25b-c705a1482730&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "50ca9a33-30da-45b2-9a71-f969817b2974",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 北师大版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=50ca9a33-30da-45b2-9a71-f969817b2974&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "997f42d2-9de3-4c33-9eb0-d841ff277bac",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 北师大版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=997f42d2-9de3-4c33-9eb0-d841ff277bac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "608a082c-7890-42b2-97ac-e9658c483487",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 重庆大学版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=608a082c-7890-42b2-97ac-e9658c483487&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "10ef916f-7be0-4a8f-bc8f-8c0e8db7c75c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 四年级上册",
+      "path": "小学 > 英语 > 重庆大学版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=10ef916f-7be0-4a8f-bc8f-8c0e8db7c75c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2eb33fc0-cdb3-4af5-882e-5be442705602",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 重庆大学版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2eb33fc0-cdb3-4af5-882e-5be442705602&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1284d81b-3412-4378-a733-0816ea3847c7",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 重庆大学版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1284d81b-3412-4378-a733-0816ea3847c7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d3c56707-99a6-4a39-b7c9-71caac1df6c1",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 重庆大学版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d3c56707-99a6-4a39-b7c9-71caac1df6c1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9132e694-e555-4811-be20-f12e8988a408",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 重庆大学版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9132e694-e555-4811-be20-f12e8988a408&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7c7234b9-73e0-456d-a2b0-3219c4ede9ab",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 重庆大学版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7c7234b9-73e0-456d-a2b0-3219c4ede9ab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "734487e6-3959-45c3-b03d-65dd80ec2292",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 闽教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=734487e6-3959-45c3-b03d-65dd80ec2292&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03f15d9f-6ad1-4c83-a523-de5584b9ee77",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 四年级上册",
+      "path": "小学 > 英语 > 闽教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03f15d9f-6ad1-4c83-a523-de5584b9ee77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "83e1a7f0-a0bf-4663-9cb0-ca5de49a2409",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 闽教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=83e1a7f0-a0bf-4663-9cb0-ca5de49a2409&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f27b9831-dcc0-49ed-be3b-622f67c63054",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 闽教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f27b9831-dcc0-49ed-be3b-622f67c63054&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "48f56576-189c-485a-9f58-75470cd57cd9",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 闽教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=48f56576-189c-485a-9f58-75470cd57cd9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5c3e8e27-7815-4b0b-afba-03f3560d3c19",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 闽教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5c3e8e27-7815-4b0b-afba-03f3560d3c19&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4037fd57-e8f0-4bfc-a873-898ed20f6266",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 闽教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4037fd57-e8f0-4bfc-a873-898ed20f6266&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "77b17524-9682-4f9e-b1b1-6f15deea9649",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 粤教沪外教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=77b17524-9682-4f9e-b1b1-6f15deea9649&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8b9cd4ad-24b8-491d-ba0f-19bf6243ada3",
+      "title": "义务教育教科书·英语（三年级起点）四年级上册",
+      "path": "小学 > 英语 > 粤教粤人版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8b9cd4ad-24b8-491d-ba0f-19bf6243ada3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f698a712-4bfa-4b72-abe5-2b27aa377550",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 粤教粤人版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f698a712-4bfa-4b72-abe5-2b27aa377550&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f6a2dcc-267b-4284-b0e5-c1ce288e6719",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 粤教粤人版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3f6a2dcc-267b-4284-b0e5-c1ce288e6719&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "52fa4791-b3f0-4db2-9f48-15fe9e229200",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 粤教粤人版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=52fa4791-b3f0-4db2-9f48-15fe9e229200&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "37489828-9e9c-4d1b-a8ab-8b9761be058f",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 粤教粤人版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=37489828-9e9c-4d1b-a8ab-8b9761be058f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e2460988-f645-4b29-8fe6-6ee30a60d233",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 粤教粤人版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e2460988-f645-4b29-8fe6-6ee30a60d233&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "15c0722c-d5a4-4eda-8d86-416f342bb5b4",
+      "title": "义务教育教科书·英语（一年级起点）二年级上册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=15c0722c-d5a4-4eda-8d86-416f342bb5b4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5894847e-9317-4956-9a68-28b3856376cf",
+      "title": "义务教育教科书·英语（一年级起点）二年级下册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5894847e-9317-4956-9a68-28b3856376cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "29acb8e4-1e74-421e-bc61-2e94c996f21d",
+      "title": "义务教育教科书·英语（一年级起点）三年级上册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=29acb8e4-1e74-421e-bc61-2e94c996f21d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f5fcd58f-6033-4595-80f8-c6d817fcc2a7",
+      "title": "义务教育教科书·英语（一年级起点）三年级下册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f5fcd58f-6033-4595-80f8-c6d817fcc2a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d760eb59-c46a-4169-bfc1-558338affe57",
+      "title": "义务教育教科书·英语（一年级起点）四年级上册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d760eb59-c46a-4169-bfc1-558338affe57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fa6a1a9d-c457-4eb6-afa8-3d16f8f977f3",
+      "title": "义务教育教科书·英语（一年级起点）四年级下册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fa6a1a9d-c457-4eb6-afa8-3d16f8f977f3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec36441a-2d49-457c-bbef-1053dee86589",
+      "title": "义务教育教科书·英语（一年级起点）五年级上册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec36441a-2d49-457c-bbef-1053dee86589&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "40f5c31c-7c8d-4cb1-ab15-f56c238071ff",
+      "title": "义务教育教科书·英语（一年级起点）五年级下册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=40f5c31c-7c8d-4cb1-ab15-f56c238071ff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d6769ff8-c14b-4069-8db0-c11eabb9e4c5",
+      "title": "义务教育教科书·英语（一年级起点）六年级上册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6769ff8-c14b-4069-8db0-c11eabb9e4c5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ebdf2e22-1f21-4ca7-8a99-c9de54bd7f44",
+      "title": "义务教育教科书·英语（一年级起点）六年级下册",
+      "path": "小学 > 英语 > 冀教版（一年级起点） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ebdf2e22-1f21-4ca7-8a99-c9de54bd7f44&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "33b0860c-a364-4c17-8ed6-47b5b95a7af3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 冀教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=33b0860c-a364-4c17-8ed6-47b5b95a7af3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf83ee9b-9efd-4c54-af1c-024a80381c91",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 冀教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf83ee9b-9efd-4c54-af1c-024a80381c91&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ae984a15-7120-4277-8764-5cb94ef9c854",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 冀教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ae984a15-7120-4277-8764-5cb94ef9c854&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6851aa62-4e83-4008-a8ea-c9d2c61bef9f",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 冀教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6851aa62-4e83-4008-a8ea-c9d2c61bef9f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d2c98c54-d546-4014-8139-7b90f992e839",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 冀教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d2c98c54-d546-4014-8139-7b90f992e839&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eb52c514-7835-407a-93b4-78bc2b0300e3",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 冀教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eb52c514-7835-407a-93b4-78bc2b0300e3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a9cfe68-84be-4ec0-9c54-61c328ad677c",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 冀教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a9cfe68-84be-4ec0-9c54-61c328ad677c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "33d80893-4975-43a2-b188-891d42a58697",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 湘少版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=33d80893-4975-43a2-b188-891d42a58697&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "047804b0-099d-404c-bb0d-3e03d22aac75",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 湘少版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=047804b0-099d-404c-bb0d-3e03d22aac75&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4eefac06-5c2c-485b-8085-549df2c6c59d",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 湘少版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4eefac06-5c2c-485b-8085-549df2c6c59d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "acba5a7c-ed18-4177-8e67-1378f5e8346a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 五年级上册",
+      "path": "小学 > 英语 > 湘少版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=acba5a7c-ed18-4177-8e67-1378f5e8346a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "853005d6-1a9a-43bb-92c3-9b551d932b66",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 湘少版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=853005d6-1a9a-43bb-92c3-9b551d932b66&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f5633030-7ed9-45fa-9617-15d3044df819",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 六年级上册",
+      "path": "小学 > 英语 > 湘少版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f5633030-7ed9-45fa-9617-15d3044df819&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9f600a7-71df-4a87-8b3b-b80d33b01179",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 湘少版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9f600a7-71df-4a87-8b3b-b80d33b01179&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "69fa5a31-39c6-4869-a0c4-420040d3e42c",
+      "title": "义务教育教科书·英语三年级上册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=69fa5a31-39c6-4869-a0c4-420040d3e42c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4e9e97d-70f3-45ef-8226-f57aae8473cf",
+      "title": "义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a4e9e97d-70f3-45ef-8226-f57aae8473cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6bc8b4e4-a6e9-4085-bc6d-05f3c3b27048",
+      "title": "义务教育教科书·英语（三年级起点）四年级上册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6bc8b4e4-a6e9-4085-bc6d-05f3c3b27048&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e7dc6b9b-3359-4cc0-abe2-725b5631ab51",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7dc6b9b-3359-4cc0-abe2-725b5631ab51&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2416d6ff-c21f-4cdc-b119-02e4c5044b3c",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2416d6ff-c21f-4cdc-b119-02e4c5044b3c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68546b24-c1a4-4e93-9fbf-e6a7a69a211f",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=68546b24-c1a4-4e93-9fbf-e6a7a69a211f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c243cbcc-aefd-4531-99d2-ef0016ce9dc7",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c243cbcc-aefd-4531-99d2-ef0016ce9dc7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cd01d12a-4f2a-45cb-87d2-e4fd8d6b4ea2",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 教科版（EEC学院） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cd01d12a-4f2a-45cb-87d2-e4fd8d6b4ea2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d07478ce-cc45-4867-bc21-067c03a79896",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d07478ce-cc45-4867-bc21-067c03a79896&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "15fc1678-b77d-4c75-a647-928ea8cc06c5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书  英语 四年级上册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=15fc1678-b77d-4c75-a647-928ea8cc06c5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9eb75cb9-46a3-4236-afd0-1a7e4de2ebab",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9eb75cb9-46a3-4236-afd0-1a7e4de2ebab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "27eb5941-f566-431a-a2a6-92e45a2995e1",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=27eb5941-f566-431a-a2a6-92e45a2995e1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "285ae1ca-33f3-40b5-b9c8-c6fd8256168b",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=285ae1ca-33f3-40b5-b9c8-c6fd8256168b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "02d7c475-79f8-49a8-aad1-2d7d880e159f",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=02d7c475-79f8-49a8-aad1-2d7d880e159f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "27b8ff2b-75e6-4265-a3ab-d6cee85b939a",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=27b8ff2b-75e6-4265-a3ab-d6cee85b939a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b3f9fcf6-27bd-4779-8275-365d4842388a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语三年级上册",
+      "path": "小学 > 英语 > 接力社版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b3f9fcf6-27bd-4779-8275-365d4842388a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9ae3ffb8-8e6f-4a7a-bef7-a59ba953168d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 接力社版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9ae3ffb8-8e6f-4a7a-bef7-a59ba953168d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "345de000-9398-4f0e-8076-8fc93068341e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语四年级上册",
+      "path": "小学 > 英语 > 接力社版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=345de000-9398-4f0e-8076-8fc93068341e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6a850434-e0b2-405b-9abe-6d9f7b2503dc",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 接力社版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6a850434-e0b2-405b-9abe-6d9f7b2503dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c195ff53-268c-492f-b10d-6b281cad112f",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 接力社版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c195ff53-268c-492f-b10d-6b281cad112f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f675da4-c5c7-45dc-85d1-a181a411df52",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 接力社版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3f675da4-c5c7-45dc-85d1-a181a411df52&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5a69664c-525c-49c1-8e65-23c3c7c5f6fc",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 接力社版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5a69664c-525c-49c1-8e65-23c3c7c5f6fc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "74d234e0-f633-4f6a-ac1d-82c29f3902ba",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 接力社版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=74d234e0-f633-4f6a-ac1d-82c29f3902ba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8765b6b9-6eec-4b5a-88e5-4d5aaefb5355",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 科普版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8765b6b9-6eec-4b5a-88e5-4d5aaefb5355&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8cbfef27-2a9f-47af-bd72-04979308a293",
+      "title": "（根据2022年版课程标准修订）义务教育教科书. 英语 四年级 上册",
+      "path": "小学 > 英语 > 科普版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8cbfef27-2a9f-47af-bd72-04979308a293&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7a5a93eb-8101-4b7f-8e7d-127fe58c06d5",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 科普版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7a5a93eb-8101-4b7f-8e7d-127fe58c06d5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ca569810-c755-4f11-bd55-887b95d64853",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 科普版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ca569810-c755-4f11-bd55-887b95d64853&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "54e434c1-5efe-4997-b2b1-50d31902b792",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 科普版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=54e434c1-5efe-4997-b2b1-50d31902b792&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6aef6c68-7f4a-43bf-bd37-6fc0aa153d32",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 科普版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6aef6c68-7f4a-43bf-bd37-6fc0aa153d32&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2f3230fb-ba51-4b7a-a3c4-d830747bf384",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 科普版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2f3230fb-ba51-4b7a-a3c4-d830747bf384&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1bf2a59b-7b83-4314-b936-8c81d7ff384a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 辽宁师大版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1bf2a59b-7b83-4314-b936-8c81d7ff384a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da02c953-8471-4f98-9b3f-91547b6d8e30",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语·四年级上册",
+      "path": "小学 > 英语 > 辽宁师大版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da02c953-8471-4f98-9b3f-91547b6d8e30&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f38040e1-709b-47a7-8335-074e9dbae8b5",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 辽宁师大版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f38040e1-709b-47a7-8335-074e9dbae8b5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e7d4c714-9497-494d-be03-8216faa58047",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 辽宁师大版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7d4c714-9497-494d-be03-8216faa58047&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d48bd666-3fc5-496f-b858-95703c4551f8",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 辽宁师大版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d48bd666-3fc5-496f-b858-95703c4551f8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8b146681-b0ed-4ae3-a485-f65f8aa46037",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 辽宁师大版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8b146681-b0ed-4ae3-a485-f65f8aa46037&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b9abc0ea-674f-4a98-b9b5-eb5aca6e9212",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 辽宁师大版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b9abc0ea-674f-4a98-b9b5-eb5aca6e9212&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "34bd5cf9-9c39-4144-b379-793c8a179488",
+      "title": "义务教育教科书·英语（一年级起点）二年级上册",
+      "path": "小学 > 英语 > 清华大学版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=34bd5cf9-9c39-4144-b379-793c8a179488&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ab6cf4a8-302e-4a3f-8653-62d70922effc",
+      "title": "义务教育教科书·英语（一年级起点）二年级下册",
+      "path": "小学 > 英语 > 清华大学版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ab6cf4a8-302e-4a3f-8653-62d70922effc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4540c302-13cc-4285-8b7d-2bea2641a836",
+      "title": "义务教育教科书·英语（一年级起点）三年级下册",
+      "path": "小学 > 英语 > 清华大学版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4540c302-13cc-4285-8b7d-2bea2641a836&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e677e6d8-9120-4fcb-8bed-bd0f317d1a6d",
+      "title": "义务教育教科书·英语（一年级起点）四年级上册",
+      "path": "小学 > 英语 > 清华大学版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e677e6d8-9120-4fcb-8bed-bd0f317d1a6d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4ed88cfe-0d65-4379-9cd2-84e0854e6c11",
+      "title": "义务教育教科书·英语（一年级起点）四年级下册",
+      "path": "小学 > 英语 > 清华大学版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4ed88cfe-0d65-4379-9cd2-84e0854e6c11&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e1d92f0a-3eab-4403-a5c4-9c50b17e1cd7",
+      "title": "义务教育教科书·英语（一年级起点）五年级上册",
+      "path": "小学 > 英语 > 清华大学版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e1d92f0a-3eab-4403-a5c4-9c50b17e1cd7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b17473f1-cc39-40a9-9a53-1f4eeaff0c0b",
+      "title": "义务教育教科书·英语（一年级起点）五年级下册",
+      "path": "小学 > 英语 > 清华大学版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b17473f1-cc39-40a9-9a53-1f4eeaff0c0b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0dd63a9b-06e7-48ea-ac29-a356178dd842",
+      "title": "义务教育教科书·英语（一年级起点）六年级上册",
+      "path": "小学 > 英语 > 清华大学版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0dd63a9b-06e7-48ea-ac29-a356178dd842&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0330f56f-e08d-449d-ad3f-6f8a818920df",
+      "title": "义务教育教科书·英语（一年级起点）六年级下册",
+      "path": "小学 > 英语 > 清华大学版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0330f56f-e08d-449d-ad3f-6f8a818920df&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0913d789-323f-4c44-9a25-7bb44c6b1f61",
+      "title": "义务教育教科书·英语（一年级起点）二年级上册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0913d789-323f-4c44-9a25-7bb44c6b1f61&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5d2d0020-786f-4edc-9662-9037465c59bf",
+      "title": "义务教育教科书·英语（一年级起点）二年级下册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5d2d0020-786f-4edc-9662-9037465c59bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "02fea7d7-163d-4351-97f0-1ca455bbc4ef",
+      "title": "义务教育教科书·英语（一年级起点）三年级上册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=02fea7d7-163d-4351-97f0-1ca455bbc4ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8a029005-c465-4909-9aaa-9bf7948f479e",
+      "title": "义务教育教科书·英语（一年级起点）三年级下册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8a029005-c465-4909-9aaa-9bf7948f479e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8debdb0d-acc2-4db3-b52c-ec89945106bf",
+      "title": "义务教育教科书·英语（一年级起点）四年级上册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8debdb0d-acc2-4db3-b52c-ec89945106bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "53761fff-13e8-42f3-8c94-96c7d0ef8e8f",
+      "title": "义务教育教科书·英语（一年级起点）四年级下册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=53761fff-13e8-42f3-8c94-96c7d0ef8e8f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0bcf51ea-e334-41ae-bc75-f8c0d4d745d9",
+      "title": "义务教育教科书·英语（一年级起点）五年级上册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0bcf51ea-e334-41ae-bc75-f8c0d4d745d9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5aa4ed54-fa57-4714-b485-fc10c1272fce",
+      "title": "义务教育教科书·英语（一年级起点）五年级下册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5aa4ed54-fa57-4714-b485-fc10c1272fce&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f715892f-2cd5-405b-a7a6-4d48792a9e7b",
+      "title": "义务教育教科书·英语（一年级起点）六年级上册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f715892f-2cd5-405b-a7a6-4d48792a9e7b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3bebbc7b-5ecd-4351-a1fe-316cbe4cf1ae",
+      "title": "义务教育教科书·英语（一年级起点）六年级下册",
+      "path": "小学 > 英语 > 人教版（一年级起点）（主编：吴欣） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3bebbc7b-5ecd-4351-a1fe-316cbe4cf1ae&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "10b11234-3b0a-4b3e-b4b4-db3013774529",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=10b11234-3b0a-4b3e-b4b4-db3013774529&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "02736c70-9509-438f-8e16-2902feaf5ed8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语（PEP）四年级上册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=02736c70-9509-438f-8e16-2902feaf5ed8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "18b54350-f833-4b5c-a1b9-ebbf02cf4545",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=18b54350-f833-4b5c-a1b9-ebbf02cf4545&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9f1cda77-2dc7-442b-82f1-97243f7ec39d",
+      "title": "义务教育教科书·英语（PEP）（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9f1cda77-2dc7-442b-82f1-97243f7ec39d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c5180299-d288-46e2-a0df-9f04c94fd922",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c5180299-d288-46e2-a0df-9f04c94fd922&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9e2878bf-964d-47fb-85ba-937cf61159a5",
+      "title": "义务教育教科书·英语（PEP）（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9e2878bf-964d-47fb-85ba-937cf61159a5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1417c7bc-52d9-4c4d-92fd-796a92a6d275",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1417c7bc-52d9-4c4d-92fd-796a92a6d275&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8f294c09-3fba-4ab3-8cf8-19b6c7d70775",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 人教版（精通）（主编：苗兴伟） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8f294c09-3fba-4ab3-8cf8-19b6c7d70775&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1d89f03d-c81d-4135-84a9-43ee0b58f4f0",
+      "title": "义务教育教科书·英语（精通）（三年级起点）四年级上册",
+      "path": "小学 > 英语 > 人教版（精通） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1d89f03d-c81d-4135-84a9-43ee0b58f4f0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b393fbf-b68a-4042-9987-c76267725c4b",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 人教版（精通） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b393fbf-b68a-4042-9987-c76267725c4b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "53862340-4170-4213-9943-0e36ec153fb7",
+      "title": "义务教育教科书·英语（精通）（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 人教版（精通） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=53862340-4170-4213-9943-0e36ec153fb7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2892a0d4-b52d-4a8b-b741-9755cf18b3c4",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 人教版（精通） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2892a0d4-b52d-4a8b-b741-9755cf18b3c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f424bca-1475-4ef2-9c4c-d2cc9e26bfbf",
+      "title": "义务教育教科书·英语（精通）（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 人教版（精通） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3f424bca-1475-4ef2-9c4c-d2cc9e26bfbf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "05f9c98f-7d04-4f05-bfc4-934d4e281ec2",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 人教版（精通） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=05f9c98f-7d04-4f05-bfc4-934d4e281ec2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9b0609aa-2ecc-4de4-9cf7-c7f6f8fdd5dc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9b0609aa-2ecc-4de4-9cf7-c7f6f8fdd5dc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b6fb0e1-1a8a-4564-affd-e1320a5854f0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b6fb0e1-1a8a-4564-affd-e1320a5854f0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "43f6e4e8-6d4f-47c1-a656-791845c91814",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=43f6e4e8-6d4f-47c1-a656-791845c91814&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d4c8600e-ab51-42e4-9a43-c4608dbac129",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d4c8600e-ab51-42e4-9a43-c4608dbac129&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "807a65b0-ab90-4cf2-ad87-178c9a4486d6",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=807a65b0-ab90-4cf2-ad87-178c9a4486d6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "43947b19-7889-408e-8c36-f8b0bbe68a87",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=43947b19-7889-408e-8c36-f8b0bbe68a87&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "81b0b85e-c4bc-4b17-9c97-07c257d5805f",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=81b0b85e-c4bc-4b17-9c97-07c257d5805f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be8c0003-c9a7-474a-ac1c-f9b41abae273",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 陕旅版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=be8c0003-c9a7-474a-ac1c-f9b41abae273&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ae6c62c-da37-4a15-81aa-21904714122a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 陕旅版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ae6c62c-da37-4a15-81aa-21904714122a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f5f90d3b-da59-4895-aac0-a50d2b0b2315",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 陕旅版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f5f90d3b-da59-4895-aac0-a50d2b0b2315&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "005bbac7-615e-4f2e-84ad-19a0923e1b57",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语五年级上册",
+      "path": "小学 > 英语 > 陕旅版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=005bbac7-615e-4f2e-84ad-19a0923e1b57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d42a7db-b850-4c0d-b505-f26579d2aab3",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 陕旅版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0d42a7db-b850-4c0d-b505-f26579d2aab3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef5a2b52-c4cf-453f-980d-00244fe6a485",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语六年级上册",
+      "path": "小学 > 英语 > 陕旅版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ef5a2b52-c4cf-453f-980d-00244fe6a485&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d2c8c36-d8c4-45dd-8703-fe32dcba0b5d",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 陕旅版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4d2c8c36-d8c4-45dd-8703-fe32dcba0b5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d523d9fc-abf2-48a3-94e6-6d9a25fae4af",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 沪教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d523d9fc-abf2-48a3-94e6-6d9a25fae4af&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6c6edb6c-60ca-4c29-82df-a2357f087f60",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语四年级上册",
+      "path": "小学 > 英语 > 沪教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6c6edb6c-60ca-4c29-82df-a2357f087f60&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0f2a0c94-50c1-4b7a-8211-8ff18da1d475",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 沪教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0f2a0c94-50c1-4b7a-8211-8ff18da1d475&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e97bf778-237b-4c23-b71d-6f7b80078f66",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 沪教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e97bf778-237b-4c23-b71d-6f7b80078f66&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "70085bc7-91aa-4726-9f92-8eed80d30276",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 沪教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=70085bc7-91aa-4726-9f92-8eed80d30276&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b25139ad-009e-4537-afe7-f393a5e43ef1",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 沪教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b25139ad-009e-4537-afe7-f393a5e43ef1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "63f19462-c7e5-43cb-a5db-756341614929",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 沪教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=63f19462-c7e5-43cb-a5db-756341614929&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "268943ee-b215-41fb-9b89-d6c5ef1d6f44",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 川教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=268943ee-b215-41fb-9b89-d6c5ef1d6f44&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "12bbf0bc-9f5b-4bea-a102-83ed34dc2d68",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 四年级上册",
+      "path": "小学 > 英语 > 川教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=12bbf0bc-9f5b-4bea-a102-83ed34dc2d68&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "96be5f08-1422-4c0e-8458-88bdbfb3c930",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 川教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=96be5f08-1422-4c0e-8458-88bdbfb3c930&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "95598bab-ceae-4f59-9948-beefc0116e57",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 川教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=95598bab-ceae-4f59-9948-beefc0116e57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ac2f99d6-d609-4b5e-8a46-369898eaf0c4",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 川教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ac2f99d6-d609-4b5e-8a46-369898eaf0c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89bb1762-9950-49c5-8d74-d499c27d2ff4",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 川教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89bb1762-9950-49c5-8d74-d499c27d2ff4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2be9aba6-81cf-4367-b85c-4dd385fcd58b",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 川教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2be9aba6-81cf-4367-b85c-4dd385fcd58b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8ba8f688-b710-4c31-9859-36082e402957",
+      "title": "义务教育教科书·英语（一年级起点）二年级上册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8ba8f688-b710-4c31-9859-36082e402957&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b5929230-0e9f-403a-bf97-7ca8ee9b62b1",
+      "title": "义务教育教科书·英语（一年级起点）二年级下册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b5929230-0e9f-403a-bf97-7ca8ee9b62b1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "06a54026-b116-4f89-b645-0743767e703b",
+      "title": "义务教育教科书·英语（一年级起点）三年级上册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=06a54026-b116-4f89-b645-0743767e703b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "41b0417b-103f-46fc-8671-0489212619c1",
+      "title": "义务教育教科书·英语（一年级起点）三年级下册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=41b0417b-103f-46fc-8671-0489212619c1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f5315318-f909-4089-aac3-053060361d6e",
+      "title": "义务教育教科书·英语（一年级起点）四年级上册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f5315318-f909-4089-aac3-053060361d6e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e63909e2-df0e-42b7-805a-9be3280e7027",
+      "title": "义务教育教科书·英语（一年级起点）四年级下册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e63909e2-df0e-42b7-805a-9be3280e7027&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "04d0763f-a0fb-43f5-b0b8-2ecd00ef70e6",
+      "title": "义务教育教科书·英语（一年级起点）五年级上册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=04d0763f-a0fb-43f5-b0b8-2ecd00ef70e6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "09aee57d-b772-494d-b16c-f572a40d576e",
+      "title": "义务教育教科书·英语（一年级起点）五年级下册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=09aee57d-b772-494d-b16c-f572a40d576e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bce5aee9-814f-40a9-b0c8-a55cf103825f",
+      "title": "义务教育教科书·英语（一年级起点）六年级上册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bce5aee9-814f-40a9-b0c8-a55cf103825f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49cd6812-ae02-4fe8-a469-d4eb95a228c7",
+      "title": "义务教育教科书·英语（一年级起点）六年级下册",
+      "path": "小学 > 英语 > 外研社版（一年级起点）（主编：陈琳） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=49cd6812-ae02-4fe8-a469-d4eb95a228c7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e7386f50-652b-4c69-9408-655ce7d33bf5",
+      "title": "义务教育教科书·英语（三年级起点）三年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7386f50-652b-4c69-9408-655ce7d33bf5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "571c7833-805e-4522-9db0-3e9784a24879",
+      "title": "义务教育教科书·英语（三年级起点）三年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=571c7833-805e-4522-9db0-3e9784a24879&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe91e5a4-0842-416d-931e-c29390bd32df",
+      "title": "义务教育教科书·英语（三年级起点）四年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe91e5a4-0842-416d-931e-c29390bd32df&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d6bad9e3-379c-4bce-84c5-720335ced51f",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d6bad9e3-379c-4bce-84c5-720335ced51f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1c7c3115-c17f-49bd-a6b5-8893f8c2279d",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1c7c3115-c17f-49bd-a6b5-8893f8c2279d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ae48f509-7765-450f-919e-5f3185087422",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ae48f509-7765-450f-919e-5f3185087422&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a3d98ee0-80fa-49e7-aea2-2826ab1c99a0",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a3d98ee0-80fa-49e7-aea2-2826ab1c99a0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19006c10-3ea3-4eee-bb3d-6cb3e9465636",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：陈琳） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19006c10-3ea3-4eee-bb3d-6cb3e9465636&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4c34b03c-933c-4a67-b211-f5d79fb05001",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4c34b03c-933c-4a67-b211-f5d79fb05001&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2bea95cf-46e6-40cc-ae87-07cc474b3956",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：孙有中） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2bea95cf-46e6-40cc-ae87-07cc474b3956&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a553639-4521-4cce-aa9f-09281b1a653b",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a553639-4521-4cce-aa9f-09281b1a653b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "17edec76-0f9d-451d-a131-8bdc41912684",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=17edec76-0f9d-451d-a131-8bdc41912684&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2d8172eb-6fda-4c76-bd93-8af135046d9a",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2d8172eb-6fda-4c76-bd93-8af135046d9a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d8309204-6817-4c4f-9e23-6b410a5f55db",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d8309204-6817-4c4f-9e23-6b410a5f55db&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aa01baf9-e504-49de-bb89-2d195c1ad391",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aa01baf9-e504-49de-bb89-2d195c1ad391&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d83648ef-85bc-4dfe-8aed-3c6565d14723",
+      "title": "义务教育教科书·英语（三年级起点）三年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d83648ef-85bc-4dfe-8aed-3c6565d14723&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5870981c-e639-4419-a019-bc2dcea04183",
+      "title": "义务教育教科书·英语（三年级起点）三年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5870981c-e639-4419-a019-bc2dcea04183&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3efd6675-ff2a-49ef-ac9a-231db5b39dc1",
+      "title": "义务教育教科书·英语（三年级起点）四年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3efd6675-ff2a-49ef-ac9a-231db5b39dc1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d329c5d-390f-4806-a35b-dafd30ffabe9",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0d329c5d-390f-4806-a35b-dafd30ffabe9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6b8a5e78-11d2-471b-a671-ff711632cbac",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6b8a5e78-11d2-471b-a671-ff711632cbac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "37069c2f-0cc3-4fa2-b370-303847b39625",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=37069c2f-0cc3-4fa2-b370-303847b39625&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d323d48d-9a4f-414b-b88d-b93d728d83a3",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d323d48d-9a4f-414b-b88d-b93d728d83a3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "106404af-d31c-4372-b1f1-d4ecec5843d3",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：桂诗春） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=106404af-d31c-4372-b1f1-d4ecec5843d3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d87e8865-615a-4b3b-8d34-179b9fb33013",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 译林版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d87e8865-615a-4b3b-8d34-179b9fb33013&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9ce6662-f5a5-4561-944a-c3dbcc5a8192",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 译林版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9ce6662-f5a5-4561-944a-c3dbcc5a8192&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4fb0c8b-ebd6-4db9-bca0-705fca8126e4",
+      "title": "义务教育教科书·英语（三年级起点）四年级下册",
+      "path": "小学 > 英语 > 译林版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a4fb0c8b-ebd6-4db9-bca0-705fca8126e4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "06631d69-0865-4694-baf9-dccf22bff2fd",
+      "title": "义务教育教科书·英语（三年级起点）五年级上册",
+      "path": "小学 > 英语 > 译林版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=06631d69-0865-4694-baf9-dccf22bff2fd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d3324da8-fe96-4a0d-9259-e60794e27491",
+      "title": "义务教育教科书·英语（三年级起点）五年级下册",
+      "path": "小学 > 英语 > 译林版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d3324da8-fe96-4a0d-9259-e60794e27491&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "32d2e60a-be5a-4c1c-92d6-8b99e00f6db3",
+      "title": "义务教育教科书·英语（三年级起点）六年级上册",
+      "path": "小学 > 英语 > 译林版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=32d2e60a-be5a-4c1c-92d6-8b99e00f6db3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b63b996-3f8c-439a-bb0c-3f127c9507af",
+      "title": "义务教育教科书·英语（三年级起点）六年级下册",
+      "path": "小学 > 英语 > 译林版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b63b996-3f8c-439a-bb0c-3f127c9507af&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "107134dc-2296-4931-bf32-08e8b9ad4cb8",
+      "title": "义务教育教科书•英语三年级上册",
+      "path": "小学 > 英语 > 北京版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=107134dc-2296-4931-bf32-08e8b9ad4cb8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "390a6cd9-fb09-74d9-f4d3-b137a45431c8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册",
+      "path": "小学 > 英语 > 北京版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=390a6cd9-fb09-74d9-f4d3-b137a45431c8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "463b7f17-3252-a215-f2b5-3ef2a98bc85d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 北师大版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=463b7f17-3252-a215-f2b5-3ef2a98bc85d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "acad2294-344a-d958-f7f4-e22917df04fa",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语  三年级上册",
+      "path": "小学 > 英语 > 闽教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=acad2294-344a-d958-f7f4-e22917df04fa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "16cad98e-09ab-6d02-2e90-c2e1aba83da8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 粤教沪外教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=16cad98e-09ab-6d02-2e90-c2e1aba83da8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9ed80e1a-1fd3-d2e0-1867-d3944fc3f4b0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 冀教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9ed80e1a-1fd3-d2e0-1867-d3944fc3f4b0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f38f12ef-f856-54dc-0064-af0a6441a88b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级 上册",
+      "path": "小学 > 英语 > 人教大同版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f38f12ef-f856-54dc-0064-af0a6441a88b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6f1f7dbe-ded5-a752-9575-33c6b0a47372",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6f1f7dbe-ded5-a752-9575-33c6b0a47372&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "da37ef7f-504d-258a-bb68-6f0f64ec294b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 湘少版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=da37ef7f-504d-258a-bb68-6f0f64ec294b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6b9cff5-5e13-bcc2-00b5-394a624b3650",
+      "title": "（根据2022年版课程标准修订）义务教育教科书  英语 三年级上册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c6b9cff5-5e13-bcc2-00b5-394a624b3650&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a8b3735-6d74-48b6-d139-92c9b0efb382",
+      "title": "（根据2022年版课程标准修订）义务教育教科书. 英语 三年级 上册",
+      "path": "小学 > 英语 > 科普版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a8b3735-6d74-48b6-d139-92c9b0efb382&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1f7fdc68-ac36-a661-3492-aa418d98fef1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 清华大学版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1f7fdc68-ac36-a661-3492-aa418d98fef1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "485d2118-1652-ea90-8da7-5b9eaeb71dc4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级 上册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=485d2118-1652-ea90-8da7-5b9eaeb71dc4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c4f9bf45-892e-6352-4e4e-ff53433de436",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 陕旅版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c4f9bf45-892e-6352-4e4e-ff53433de436&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b7d570b-33a2-3c5d-2cab-00c3ddb65e57",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 • 英语 三年级上册",
+      "path": "小学 > 英语 > 沪教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b7d570b-33a2-3c5d-2cab-00c3ddb65e57&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e46c60ee-2e73-ced1-6fe2-4676f662f86c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册",
+      "path": "小学 > 英语 > 川教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e46c60ee-2e73-ced1-6fe2-4676f662f86c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1206a3aa-1969-9e64-b354-e6eae4325ed4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 译林版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1206a3aa-1969-9e64-b354-e6eae4325ed4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "12830537-3c8b-bc2a-822b-f915c0bfec60",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册",
+      "path": "小学 > 英语 > 重庆大学版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=12830537-3c8b-bc2a-822b-f915c0bfec60&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "42a87e09-e53e-59ea-8740-a1302a194d16",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：孙有中） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=42a87e09-e53e-59ea-8740-a1302a194d16&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "142d5d5c-e3ea-2261-6134-b39199a4e6bc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=142d5d5c-e3ea-2261-6134-b39199a4e6bc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "543c961c-45ba-1129-3a01-54418c76f691",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语·三年级上册",
+      "path": "小学 > 英语 > 辽宁师大版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=543c961c-45ba-1129-3a01-54418c76f691&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "64ddeaff-657a-4662-808b-b9ef2707c899",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级 上册",
+      "path": "小学 > 英语 > 人教版（精通）（主编：苗兴伟） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=64ddeaff-657a-4662-808b-b9ef2707c899&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0ff655ac-5fdf-769d-71ac-ebd4ac1b2dd9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 外研社版(主编：张祖春） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0ff655ac-5fdf-769d-71ac-ebd4ac1b2dd9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b0a036f-c24f-3187-b9e8-e65f8b408770",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级 下册",
+      "path": "小学 > 英语 > 人教大同版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b0a036f-c24f-3187-b9e8-e65f8b408770&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9b2c031b-fa86-26a5-65e0-247b5c44bc98",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级下册",
+      "path": "小学 > 英语 > 外研社版（主编：孙有中） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9b2c031b-fa86-26a5-65e0-247b5c44bc98&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1a2bb0a7-ec95-453e-8821-455dc7082f51",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级下册",
+      "path": "小学 > 英语 > 外研社版(主编：张祖春） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1a2bb0a7-ec95-453e-8821-455dc7082f51&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "651695aa-4233-48b0-3f76-afa7cad33bdc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册",
+      "path": "小学 > 英语 > 粤教沪外教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=651695aa-4233-48b0-3f76-afa7cad33bdc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f3c9d192-b4b9-d536-6731-d9c8c538c64d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 四年级上册",
+      "path": "小学 > 英语 > 外研社版(主编：张祖春） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f3c9d192-b4b9-d536-6731-d9c8c538c64d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01d7476f-7fbd-738c-3127-ad261b9cbe83",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 五年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：孙有中） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01d7476f-7fbd-738c-3127-ad261b9cbe83&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cf593196-d7db-8090-2b1a-116a356dfde6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 四年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cf593196-d7db-8090-2b1a-116a356dfde6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9bd74663-47c1-e76b-6f95-d51732c8a78b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 四年级 上册",
+      "path": "小学 > 英语 > 人教大同版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9bd74663-47c1-e76b-6f95-d51732c8a78b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4648aca1-ef0e-5790-c13d-66b5b4fc06b5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语（精通）四年级上册",
+      "path": "小学 > 英语 > 人教版（精通）（主编：苗兴伟） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4648aca1-ef0e-5790-c13d-66b5b4fc06b5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6a39a134-3ddf-b8c8-4a03-236cfde8d555",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 北师大版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6a39a134-3ddf-b8c8-4a03-236cfde8d555&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "85abe93c-f91e-0b0a-0afa-ebe2655e03a0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级 上册",
+      "path": "小学 > 英语 > 人教大同版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=85abe93c-f91e-0b0a-0afa-ebe2655e03a0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "98898ff4-2395-cffd-1e18-65bd94cfeb08",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册",
+      "path": "小学 > 英语 > 闽教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=98898ff4-2395-cffd-1e18-65bd94cfeb08&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "165e5e24-7ba7-91db-5db7-35f126e1ef88",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 粤教沪外教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=165e5e24-7ba7-91db-5db7-35f126e1ef88&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eb854fe4-52bf-b3ec-c12b-7825b6c61255",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 冀教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eb854fe4-52bf-b3ec-c12b-7825b6c61255&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c376a427-6b9f-dd31-c352-e065cd754a10",
+      "title": "（根据2022年版课程标准修订）义务教育教科书  英语 三年级上册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c376a427-6b9f-dd31-c352-e065cd754a10&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe431b88-6bd5-6745-4a08-2e155bb60caa",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语三年级下册",
+      "path": "小学 > 英语 > 教科版（主编：龚亚夫&鲁宗干） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe431b88-6bd5-6745-4a08-2e155bb60caa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5b9e5c85-cad3-5e2a-5884-2e154e45fe00",
+      "title": "（根据2022年版课程标准修订）义务教育教科书. 英语 三年级 上册",
+      "path": "小学 > 英语 > 科普版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5b9e5c85-cad3-5e2a-5884-2e154e45fe00&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b4281ed-ea46-4e2a-a873-a735bb40fec2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语·三年级上册",
+      "path": "小学 > 英语 > 辽宁师大版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b4281ed-ea46-4e2a-a873-a735bb40fec2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8fdad58d-3e74-2b36-522b-18a5113c0bd8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 陕旅版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8fdad58d-3e74-2b36-522b-18a5113c0bd8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8894b571-bd8c-27a4-4390-cb74f7ddc81f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 • 英语 三年级上册",
+      "path": "小学 > 英语 > 沪教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8894b571-bd8c-27a4-4390-cb74f7ddc81f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "abe9d1de-2c6a-ee6b-d0ee-b6ea8247caa1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册",
+      "path": "小学 > 英语 > 川教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=abe9d1de-2c6a-ee6b-d0ee-b6ea8247caa1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e51639ec-78db-84cf-c1f5-100c3565cb85",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：孙有中） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e51639ec-78db-84cf-c1f5-100c3565cb85&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aa2275a3-f969-c5fe-1c2c-d08b92223b67",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册",
+      "path": "小学 > 英语 > 译林版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aa2275a3-f969-c5fe-1c2c-d08b92223b67&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a9d9088-481d-9ffa-6092-e9a75e59deeb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册",
+      "path": "小学 > 英语 > 北京版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a9d9088-481d-9ffa-6092-e9a75e59deeb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b3c7d0d5-d148-f4c3-ed2a-ebef1e651fe6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 （PEP）三年级 上册",
+      "path": "小学 > 英语 > 人教版（PEP）（主编：吴欣） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b3c7d0d5-d148-f4c3-ed2a-ebef1e651fe6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "21dab880-b5f0-b116-1996-9a9e36e4e398",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语（精通） 三年级 上册",
+      "path": "小学 > 英语 > 人教版（精通）（主编：苗兴伟） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=21dab880-b5f0-b116-1996-9a9e36e4e398&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6992d6f3-2f8f-7df1-bd5b-cd18e6a7a149",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 外研社版（主编：刘兆义） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6992d6f3-2f8f-7df1-bd5b-cd18e6a7a149&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "25af4b37-896b-b56b-389b-e5b785122780",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 湘少版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=25af4b37-896b-b56b-389b-e5b785122780&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2f82125b-9f17-8415-4576-89799231e916",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册",
+      "path": "小学 > 英语 > 鲁教湘教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2f82125b-9f17-8415-4576-89799231e916&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

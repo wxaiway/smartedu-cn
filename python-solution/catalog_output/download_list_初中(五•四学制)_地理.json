@@ -1,0 +1,54 @@
+{
+  "group": "初中（五•四学制）_地理",
+  "count": 8,
+  "books": [
+    {
+      "id": "6c51008a-0590-4f88-952f-e3b5fc635111",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•地理六年级上册",
+      "path": "初中（五•四学制） > 地理 > 鲁教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6c51008a-0590-4f88-952f-e3b5fc635111&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "396b3846-1aa9-4c12-af71-e7718606ae09",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）·地理六年级下册",
+      "path": "初中（五•四学制） > 地理 > 鲁教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=396b3846-1aa9-4c12-af71-e7718606ae09&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1fa68bc8-3031-4b7a-9e2f-31937372dee0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书（五•四学制）•地理七年级上册",
+      "path": "初中（五•四学制） > 地理 > 鲁教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1fa68bc8-3031-4b7a-9e2f-31937372dee0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a289d7ec-70af-4299-921e-ea0f4161c376",
+      "title": "义务教育教科书（五•四学制）·地理七年级下册",
+      "path": "初中（五•四学制） > 地理 > 鲁教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a289d7ec-70af-4299-921e-ea0f4161c376&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1aff394d-0bf8-3203-f8b4-d7f81756ff37",
+      "title": "（根据2022年版课程标准修订）义务教育教科书_地理_六年级_上册",
+      "path": "初中（五•四学制） > 地理 > 中华中图版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1aff394d-0bf8-3203-f8b4-d7f81756ff37&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c1973d41-899f-de55-7c7a-7c69c2c96d03",
+      "title": "（根据2022年版课程标准修订）义务教育教科书_地理_七年级_上册",
+      "path": "初中（五•四学制） > 地理 > 中华中图版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c1973d41-899f-de55-7c7a-7c69c2c96d03&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "42be294d-c12a-7fde-2f89-72f462b7f73c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书_地理_六年级_下册",
+      "path": "初中（五•四学制） > 地理 > 中华中图版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=42be294d-c12a-7fde-2f89-72f462b7f73c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5af3920e-d1b0-74ce-9b02-46edfe8586a5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书_地理_七年级_下册",
+      "path": "初中（五•四学制） > 地理 > 中华中图版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5af3920e-d1b0-74ce-9b02-46edfe8586a5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

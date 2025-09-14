@@ -1,0 +1,330 @@
+{
+  "group": "初中_英语",
+  "count": 54,
+  "books": [
+    {
+      "id": "7901c4be-a21e-49b4-afe8-793e29be5fad",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 北师大版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7901c4be-a21e-49b4-afe8-793e29be5fad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9620efee-9ef4-4601-9ff4-c677e64d7a44",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 八年级上册",
+      "path": "初中 > 英语 > 北师大版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9620efee-9ef4-4601-9ff4-c677e64d7a44&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "98165b99-7f4d-4534-a016-00f82526fc4d",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 北师大版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=98165b99-7f4d-4534-a016-00f82526fc4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9acd7f94-2f1c-4ba5-b3e5-dc248d1f1d4c",
+      "title": "义务教育教科书·英语九年级全一册",
+      "path": "初中 > 英语 > 北师大版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9acd7f94-2f1c-4ba5-b3e5-dc248d1f1d4c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f0c5df3c-b649-4309-8ce5-455914d9f15c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 冀教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f0c5df3c-b649-4309-8ce5-455914d9f15c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c720a469-fbb6-4e94-b59f-e5cfb133f296",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 八年级上册",
+      "path": "初中 > 英语 > 冀教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c720a469-fbb6-4e94-b59f-e5cfb133f296&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bfb70cd2-c00a-4bad-a7c9-79683b7f7404",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 冀教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bfb70cd2-c00a-4bad-a7c9-79683b7f7404&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9d79b19f-7b99-40ba-b6bb-d42d6f9374ca",
+      "title": "义务教育教科书·英语九年级全一册",
+      "path": "初中 > 英语 > 冀教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9d79b19f-7b99-40ba-b6bb-d42d6f9374ca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3cb05979-f64e-48f8-8fc3-27e99abf6929",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 科普版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3cb05979-f64e-48f8-8fc3-27e99abf6929&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b40da2ba-8292-4cb0-986e-cc7da87f7855",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语八年级上册",
+      "path": "初中 > 英语 > 科普版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b40da2ba-8292-4cb0-986e-cc7da87f7855&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ff77182f-5acf-4b36-9dbf-6d8bbca2431a",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 科普版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ff77182f-5acf-4b36-9dbf-6d8bbca2431a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "521b01ef-4e76-466e-b50e-a20508a9b893",
+      "title": "义务教育教科书·英语九年级上册",
+      "path": "初中 > 英语 > 科普版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=521b01ef-4e76-466e-b50e-a20508a9b893&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1bf8014a-678a-46b5-a7c5-f0248b1bdab3",
+      "title": "义务教育教科书·英语九年级下册",
+      "path": "初中 > 英语 > 科普版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1bf8014a-678a-46b5-a7c5-f0248b1bdab3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f7a7eb5e-12dc-4c96-a4b8-219ca3bcee19",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 人教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f7a7eb5e-12dc-4c96-a4b8-219ca3bcee19&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "453025ca-58bd-442e-8543-5ef5222d50c6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语八年级上册",
+      "path": "初中 > 英语 > 人教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=453025ca-58bd-442e-8543-5ef5222d50c6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "467816b8-e76c-43fc-afc7-91638f97dba8",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 人教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=467816b8-e76c-43fc-afc7-91638f97dba8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1961dabe-cab0-456d-b7ac-59b37e271e5d",
+      "title": "义务教育教科书·英语九年级全一册",
+      "path": "初中 > 英语 > 人教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1961dabe-cab0-456d-b7ac-59b37e271e5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "13f39e27-05a6-4f55-aa35-09b29500b015",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 沪教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=13f39e27-05a6-4f55-aa35-09b29500b015&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01fb75fc-776a-43cc-a974-b03d61679125",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语八年级上册",
+      "path": "初中 > 英语 > 沪教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01fb75fc-776a-43cc-a974-b03d61679125&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d9587713-66bd-4f85-806f-cc2fa5619cd3",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 沪教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d9587713-66bd-4f85-806f-cc2fa5619cd3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b1a19b7a-5a7f-4d0e-9f9d-b5e59dafc979",
+      "title": "义务教育教科书·英语九年级上册",
+      "path": "初中 > 英语 > 沪教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b1a19b7a-5a7f-4d0e-9f9d-b5e59dafc979&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8a9962e7-f8e6-4f5f-8e2a-df9bf874bf0c",
+      "title": "义务教育教科书·英语九年级下册",
+      "path": "初中 > 英语 > 沪教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8a9962e7-f8e6-4f5f-8e2a-df9bf874bf0c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a2d221f-d407-49e9-bb53-267fde8b0d07",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 沪外教版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a2d221f-d407-49e9-bb53-267fde8b0d07&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6bec9b00-149b-41cd-a378-81f76c3f20cc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语八年级上册",
+      "path": "初中 > 英语 > 沪外教版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6bec9b00-149b-41cd-a378-81f76c3f20cc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fadfbe3b-03d5-4b80-b5d8-3910ecf70ec6",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 沪外教版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fadfbe3b-03d5-4b80-b5d8-3910ecf70ec6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aa6c165a-3d8e-40d7-aaf2-4c1b3af36c89",
+      "title": "义务教育教科书·英语九年级上册",
+      "path": "初中 > 英语 > 沪外教版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aa6c165a-3d8e-40d7-aaf2-4c1b3af36c89&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e7788a04-22eb-46ee-b16e-c0cf356c8a49",
+      "title": "义务教育教科书·英语九年级下册",
+      "path": "初中 > 英语 > 沪外教版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7788a04-22eb-46ee-b16e-c0cf356c8a49&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d199388d-afe7-4ff2-912d-cea6ac4b9b1b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语七年级下册",
+      "path": "初中 > 英语 > 外研社版（主编：孙有中） > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d199388d-afe7-4ff2-912d-cea6ac4b9b1b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b61e269f-eba5-41d4-b658-da1d1f8e4a82",
+      "title": "义务教育教科书·英语八年级上册",
+      "path": "初中 > 英语 > 外研社版（主编：陈琳） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b61e269f-eba5-41d4-b658-da1d1f8e4a82&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "202ec724-8567-4880-9b2f-3d31d04c5c40",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 外研社版（主编：陈琳） > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=202ec724-8567-4880-9b2f-3d31d04c5c40&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "26a88d4b-120c-4af4-acfc-c7a43892676d",
+      "title": "义务教育教科书·英语九年级上册",
+      "path": "初中 > 英语 > 外研社版（主编：陈琳） > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=26a88d4b-120c-4af4-acfc-c7a43892676d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "51efd027-f034-4cba-a240-ccf066980ba6",
+      "title": "义务教育教科书·英语九年级下册",
+      "path": "初中 > 英语 > 外研社版（主编：陈琳） > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=51efd027-f034-4cba-a240-ccf066980ba6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4573420f-2680-44e2-8def-7e8c4fa71297",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语八年级上册",
+      "path": "初中 > 英语 > 译林版 > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4573420f-2680-44e2-8def-7e8c4fa71297&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b33b5100-d1f9-427e-a9d6-03336612895a",
+      "title": "义务教育教科书·英语八年级下册",
+      "path": "初中 > 英语 > 译林版 > 八年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b33b5100-d1f9-427e-a9d6-03336612895a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "01b3ebf7-5e9a-471e-a5fe-beb76deb5207",
+      "title": "义务教育教科书·英语九年级上册",
+      "path": "初中 > 英语 > 译林版 > 九年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=01b3ebf7-5e9a-471e-a5fe-beb76deb5207&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "92286669-0bc5-423e-844c-06c4eddffd2e",
+      "title": "义务教育教科书·英语九年级下册",
+      "path": "初中 > 英语 > 译林版 > 九年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=92286669-0bc5-423e-844c-06c4eddffd2e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1bb3e2fe-45a1-2999-e8b4-9fc63d0929bb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级上册",
+      "path": "初中 > 英语 > 北师大版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1bb3e2fe-45a1-2999-e8b4-9fc63d0929bb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a302b3a-92a7-2713-ecb0-78438c05bf28",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 冀教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a302b3a-92a7-2713-ecb0-78438c05bf28&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "adf997ce-573b-ad1e-845e-1adcb1c53768",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语（七年级 上册）",
+      "path": "初中 > 英语 > 科普版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=adf997ce-573b-ad1e-845e-1adcb1c53768&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a795a3b3-7150-e3ff-5eb8-d76684e53e3a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级 上册",
+      "path": "初中 > 英语 > 人教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a795a3b3-7150-e3ff-5eb8-d76684e53e3a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "454dfc04-1259-20fe-cfa2-108408618de7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级 上册",
+      "path": "初中 > 英语 > 沪教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=454dfc04-1259-20fe-cfa2-108408618de7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "456e85df-63bb-1b8b-928a-a60706d21704",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 沪外教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=456e85df-63bb-1b8b-928a-a60706d21704&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "64f242e1-9902-067f-a769-7ed0a761c430",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 译林版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=64f242e1-9902-067f-a769-7ed0a761c430&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e184b1ad-1d69-5695-601a-1b3b8ab6e885",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 外研社版（主编：孙有中） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e184b1ad-1d69-5695-601a-1b3b8ab6e885&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d068ad85-ce64-49f6-8ecd-11ee1e409c32",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级下册",
+      "path": "初中 > 英语 > 译林版 > 七年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d068ad85-ce64-49f6-8ecd-11ee1e409c32&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "23ad107e-37cc-5751-f3c0-e5d234106b2d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 八年级上册",
+      "path": "初中 > 英语 > 外研社版（主编：孙有中） > 八年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=23ad107e-37cc-5751-f3c0-e5d234106b2d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "331959b8-d722-eac6-5466-4bac34806136",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级上册",
+      "path": "初中 > 英语 > 北师大版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=331959b8-d722-eac6-5466-4bac34806136&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6bc0797f-f38f-d43f-3849-cfca0acb0f11",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 冀教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6bc0797f-f38f-d43f-3849-cfca0acb0f11&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4360e8a1-7e94-34ab-eeaa-57819834b24b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语七年级上册",
+      "path": "初中 > 英语 > 科普版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4360e8a1-7e94-34ab-eeaa-57819834b24b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dcba2daf-0832-7ef4-2490-ceb47ff8fa2a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级 上册",
+      "path": "初中 > 英语 > 沪教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dcba2daf-0832-7ef4-2490-ceb47ff8fa2a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3e5abc1b-2bc3-7e27-6525-2138ef0b298b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 沪外教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3e5abc1b-2bc3-7e27-6525-2138ef0b298b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b7ca9536-ccd7-a4db-56b3-971645c54515",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 外研社版（主编：孙有中） > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b7ca9536-ccd7-a4db-56b3-971645c54515&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c69fbfe9-1233-33a6-d354-45ec9a34d1c9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·英语 七年级上册",
+      "path": "初中 > 英语 > 译林版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c69fbfe9-1233-33a6-d354-45ec9a34d1c9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68d46462-868d-ccd5-9ea0-c385214b76e6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书 英语 七年级 上册",
+      "path": "初中 > 英语 > 人教版 > 七年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=68d46462-868d-ccd5-9ea0-c385214b76e6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

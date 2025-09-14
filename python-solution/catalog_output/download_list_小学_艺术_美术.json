@@ -1,0 +1,882 @@
+{
+  "group": "小学_艺术_美术",
+  "count": 146,
+  "books": [
+    {
+      "id": "970541d1-ad17-4cbc-933d-a3c64d4eb3bd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=970541d1-ad17-4cbc-933d-a3c64d4eb3bd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5e6c5e31-0905-46da-ad5f-f1dda340e1f0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5e6c5e31-0905-46da-ad5f-f1dda340e1f0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e94e7070-3293-4247-98bf-299597714fa3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e94e7070-3293-4247-98bf-299597714fa3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bbc05216-fe50-4dd0-a836-409c3ceb3d7c",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bbc05216-fe50-4dd0-a836-409c3ceb3d7c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "355336ac-8084-4ec4-ba6f-b3d492cd8fab",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=355336ac-8084-4ec4-ba6f-b3d492cd8fab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "28ef12f0-cf8b-48eb-8774-701ed4acb0f5",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=28ef12f0-cf8b-48eb-8774-701ed4acb0f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fbb987c5-0e6b-4327-8716-3e69f28a8788",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fbb987c5-0e6b-4327-8716-3e69f28a8788&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "222d69c5-4113-4ff9-b7d9-ed9a0e0b25bf",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=222d69c5-4113-4ff9-b7d9-ed9a0e0b25bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe7a4a7a-9dc5-43a0-b2cc-89d402e071c9",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe7a4a7a-9dc5-43a0-b2cc-89d402e071c9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0171f7ef-259f-40b8-9dff-095a91e6321a",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0171f7ef-259f-40b8-9dff-095a91e6321a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc783ca1-8934-4b31-8aae-a8ae40b268e1",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc783ca1-8934-4b31-8aae-a8ae40b268e1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea9a0fdd-3a9d-4aca-97ad-dad626f5aecd",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 桂美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea9a0fdd-3a9d-4aca-97ad-dad626f5aecd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "635fdab5-edf4-4d47-80b2-865119c6d73b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=635fdab5-edf4-4d47-80b2-865119c6d73b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "aa5b9d7a-28c3-49ee-94b4-ac84bc7e696b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aa5b9d7a-28c3-49ee-94b4-ac84bc7e696b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "18a17a1c-5435-4d0e-874e-8e2f0738e1a6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=18a17a1c-5435-4d0e-874e-8e2f0738e1a6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c3e12edb-1d09-4523-b404-ff508d0c5068",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c3e12edb-1d09-4523-b404-ff508d0c5068&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d0f14732-539e-4ebb-87c2-180dce6d49e6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d0f14732-539e-4ebb-87c2-180dce6d49e6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "31e91238-cdb7-4e17-99cd-b669f32ec6cf",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=31e91238-cdb7-4e17-99cd-b669f32ec6cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "478e06c4-724f-4f42-87b4-659a8e33a202",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=478e06c4-724f-4f42-87b4-659a8e33a202&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dd6f295a-3322-49b5-818a-c29ee1391c4d",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dd6f295a-3322-49b5-818a-c29ee1391c4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "79931d2b-516b-49cd-ad05-cfc203deecdc",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=79931d2b-516b-49cd-ad05-cfc203deecdc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0995d0c8-d5c6-47a3-bac1-43bea0f45c1c",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0995d0c8-d5c6-47a3-bac1-43bea0f45c1c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6315d505-29da-4333-9271-8627ada6794e",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6315d505-29da-4333-9271-8627ada6794e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "766cd2ce-a304-42a5-b4fc-691314ff417a",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 冀美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=766cd2ce-a304-42a5-b4fc-691314ff417a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1084abdc-97bc-4726-a236-9fb0655ce9fb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1084abdc-97bc-4726-a236-9fb0655ce9fb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eace24ed-dbe2-42fe-a072-63a9291cd71e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eace24ed-dbe2-42fe-a072-63a9291cd71e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03a22c89-f5c1-4054-9206-5e0775af5be5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03a22c89-f5c1-4054-9206-5e0775af5be5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1a173fb8-fb2d-4502-8262-46b9e22866ef",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1a173fb8-fb2d-4502-8262-46b9e22866ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "999318b0-93c6-4fcc-a26d-0e71855d7e70",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=999318b0-93c6-4fcc-a26d-0e71855d7e70&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d5e1b6c6-5f35-4ea2-8449-67fe141af8a5",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d5e1b6c6-5f35-4ea2-8449-67fe141af8a5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "03bc973d-748e-4bbc-acb7-bdd2ff347aba",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=03bc973d-748e-4bbc-acb7-bdd2ff347aba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b3f88449-1b7b-4675-8e66-88738d43de52",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b3f88449-1b7b-4675-8e66-88738d43de52&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "394d9a8c-e073-4344-a7b6-7efe071741b9",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=394d9a8c-e073-4344-a7b6-7efe071741b9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8afafa49-c81b-4eed-8233-8be3a588e74e",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8afafa49-c81b-4eed-8233-8be3a588e74e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1de320ab-f0a7-4f96-a4d5-6ff97bb0ff63",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1de320ab-f0a7-4f96-a4d5-6ff97bb0ff63&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e4b4b9ea-43d6-496d-ba27-5924faa27737",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 湘美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e4b4b9ea-43d6-496d-ba27-5924faa27737&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "61c452a3-d76d-4162-ab84-ce5099cb46a7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=61c452a3-d76d-4162-ab84-ce5099cb46a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "067e4059-e9ea-48e6-a147-d44aa8cd45ad",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·艺术•美术一年级下册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=067e4059-e9ea-48e6-a147-d44aa8cd45ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2003147-736b-4656-8729-ad0039ec8a63",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·艺术•美术术二年级上册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2003147-736b-4656-8729-ad0039ec8a63&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1fa01677-0dd8-40f5-ab67-17965fed803a",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1fa01677-0dd8-40f5-ab67-17965fed803a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19a00c66-f745-4129-ae55-cb15fb916549",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19a00c66-f745-4129-ae55-cb15fb916549&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eef9c0de-9dbe-4efa-a123-69d53cd698e5",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eef9c0de-9dbe-4efa-a123-69d53cd698e5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "74015104-9a19-4797-bea7-fe8fc6ece318",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=74015104-9a19-4797-bea7-fe8fc6ece318&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c53a349e-b213-45c1-90bd-20b15f34f611",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c53a349e-b213-45c1-90bd-20b15f34f611&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5e421f97-d54e-4a51-a216-03c7c4cff30a",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5e421f97-d54e-4a51-a216-03c7c4cff30a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "69dc3fdd-d4b6-4b6e-8963-ca2ce40fa258",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=69dc3fdd-d4b6-4b6e-8963-ca2ce40fa258&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b04c21a9-40ef-418b-8ac9-ccf5e29cc7b0",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b04c21a9-40ef-418b-8ac9-ccf5e29cc7b0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fe0d4212-be02-477c-8b80-48fbf7c720f1",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 苏少版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fe0d4212-be02-477c-8b80-48fbf7c720f1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f249a66d-83e4-4949-ab4b-3fa91b1570db",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f249a66d-83e4-4949-ab4b-3fa91b1570db&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dbfbd39c-afab-49b8-8ed8-636f8fd4ebb5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dbfbd39c-afab-49b8-8ed8-636f8fd4ebb5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ee2b0486-555a-43c0-9c35-2bb85bdebde3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ee2b0486-555a-43c0-9c35-2bb85bdebde3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fb5bb8cb-5b94-49a7-87dd-2cda295ddbd2",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=fb5bb8cb-5b94-49a7-87dd-2cda295ddbd2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "53f338ca-c3f7-4114-87eb-810f1c8a2218",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=53f338ca-c3f7-4114-87eb-810f1c8a2218&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1357b75e-22e1-4aad-80d1-2a53d5068004",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1357b75e-22e1-4aad-80d1-2a53d5068004&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3bee4e86-87b9-4fe4-a664-de140ddf70e7",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3bee4e86-87b9-4fe4-a664-de140ddf70e7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c80a245d-9fa9-4833-9647-8af1d47428fa",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c80a245d-9fa9-4833-9647-8af1d47428fa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "57634b64-9711-4bd5-9af3-cc59cfcad3d2",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=57634b64-9711-4bd5-9af3-cc59cfcad3d2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4748e233-aaee-437b-ad3b-adac2e8eece2",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4748e233-aaee-437b-ad3b-adac2e8eece2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8b5a551d-a3c4-437b-a440-8ebbc166505c",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8b5a551d-a3c4-437b-a440-8ebbc166505c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a2f81d37-de11-4b3c-bf0c-cb2eabf65577",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 赣美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a2f81d37-de11-4b3c-bf0c-cb2eabf65577&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2b372436-4d56-4e4c-b091-c7abba65d3b5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2b372436-4d56-4e4c-b091-c7abba65d3b5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f43e5fa4-b416-4644-8f12-9b91b2b77cdc",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f43e5fa4-b416-4644-8f12-9b91b2b77cdc&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7aea63ec-16ff-4096-a376-3da93591242f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7aea63ec-16ff-4096-a376-3da93591242f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "61daa955-a9b2-45ed-a8f6-63bb6f443a67",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=61daa955-a9b2-45ed-a8f6-63bb6f443a67&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a0092e2e-e154-44b0-846e-02ab5da943c0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a0092e2e-e154-44b0-846e-02ab5da943c0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f109727-74d2-4e74-92bb-a62b5b80fa8e",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3f109727-74d2-4e74-92bb-a62b5b80fa8e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19d4630b-54c4-45bf-b084-2dae023592e8",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19d4630b-54c4-45bf-b084-2dae023592e8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "95c7a588-9723-4867-a821-3d1a768f65ea",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=95c7a588-9723-4867-a821-3d1a768f65ea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7662c2b1-860a-4f27-a1d1-89a241bd5865",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7662c2b1-860a-4f27-a1d1-89a241bd5865&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "70170c64-7e38-472f-86df-eeaeb6719429",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=70170c64-7e38-472f-86df-eeaeb6719429&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5b181e17-b47b-45e0-a4af-9da78f7eb933",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5b181e17-b47b-45e0-a4af-9da78f7eb933&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f415f7a4-b32f-49ba-b72f-9e9bd72fa7ef",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 辽海版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f415f7a4-b32f-49ba-b72f-9e9bd72fa7ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2325a092-d859-4457-a0ef-32500d1210fe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2325a092-d859-4457-a0ef-32500d1210fe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5064a312-a2d3-47dd-af46-058b6ae5d174",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5064a312-a2d3-47dd-af46-058b6ae5d174&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f8e0bd21-f291-4765-85b0-52d2606a2c23",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f8e0bd21-f291-4765-85b0-52d2606a2c23&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c33448a3-a34a-46b3-83d7-c9512cd6fb8f",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c33448a3-a34a-46b3-83d7-c9512cd6fb8f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "de5c08b8-f1ac-4b54-84ed-72211148a7e8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=de5c08b8-f1ac-4b54-84ed-72211148a7e8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "31d487b2-e3dc-4bf0-8fd7-1ca8f4b3405b",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=31d487b2-e3dc-4bf0-8fd7-1ca8f4b3405b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "90074a94-62f3-45fe-879f-ece9661b2682",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=90074a94-62f3-45fe-879f-ece9661b2682&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "218a01f6-2f84-47f0-9391-9be2c882b38f",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=218a01f6-2f84-47f0-9391-9be2c882b38f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bea4fcf1-63e4-4860-97d1-5135f22966b8",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bea4fcf1-63e4-4860-97d1-5135f22966b8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1e4dd4d7-f44f-4b75-8cdf-8a0a41d07f3e",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1e4dd4d7-f44f-4b75-8cdf-8a0a41d07f3e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "224d0627-6e80-4ce5-863f-0910326bff34",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=224d0627-6e80-4ce5-863f-0910326bff34&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3683d212-8ecd-4db1-9c73-7d06048cc3b6",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 岭南美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3683d212-8ecd-4db1-9c73-7d06048cc3b6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9fc97a52-631f-483b-9709-348b0276bb69",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级上册",
+      "path": "小学 > 艺术·美术 > 人教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9fc97a52-631f-483b-9709-348b0276bb69&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2970ce3-f7f2-46f9-8795-d76b01272157",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 人教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2970ce3-f7f2-46f9-8795-d76b01272157&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e07d6e6a-810f-463f-8c46-c7d2c8c3a87e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术二年级上册",
+      "path": "小学 > 艺术·美术 > 人教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e07d6e6a-810f-463f-8c46-c7d2c8c3a87e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5b42fbe0-a48e-4d6f-901a-ba7f8c884124",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 人教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5b42fbe0-a48e-4d6f-901a-ba7f8c884124&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0597a198-6cde-47cc-8495-2e1e463db9c4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术三年级上册",
+      "path": "小学 > 艺术·美术 > 人教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0597a198-6cde-47cc-8495-2e1e463db9c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3bad81b4-866c-4536-b4e4-c63a40387587",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 人教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3bad81b4-866c-4536-b4e4-c63a40387587&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6e20ac40-821c-4d32-b55c-d4ce08713186",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 人教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6e20ac40-821c-4d32-b55c-d4ce08713186&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f270a68b-6874-4980-9de9-9a1e9e20a782",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 人教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f270a68b-6874-4980-9de9-9a1e9e20a782&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1080a8dd-0db9-4712-9eb2-c93c9a020944",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 人教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1080a8dd-0db9-4712-9eb2-c93c9a020944&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "173665d5-439e-4eb2-a2dc-8cf281c28850",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 人教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=173665d5-439e-4eb2-a2dc-8cf281c28850&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "398677e8-9873-40df-83ed-7c4ed3d71ce0",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 人教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=398677e8-9873-40df-83ed-7c4ed3d71ce0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f0722bfb-7f69-4746-9176-551ed2e6d427",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 人教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f0722bfb-7f69-4746-9176-551ed2e6d427&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bb6399d6-24cc-42cd-ae44-304dc3215f1b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：黄宗贤） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bb6399d6-24cc-42cd-ae44-304dc3215f1b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c87f409e-e503-4bfa-9e5c-87f68f7fba55",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：黄宗贤） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c87f409e-e503-4bfa-9e5c-87f68f7fba55&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0fc33095-855b-4cc6-abde-f25abfa9a481",
+      "title": "义务教育教科书·美术二年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0fc33095-855b-4cc6-abde-f25abfa9a481&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e529c1be-1ca6-401b-aa4e-e49cb07cda82",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e529c1be-1ca6-401b-aa4e-e49cb07cda82&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8997ec7-4a86-4cde-94f7-e4d8463882f2",
+      "title": "义务教育教科书·美术三年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8997ec7-4a86-4cde-94f7-e4d8463882f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "56916b83-d5f0-421c-83a1-c70c7ae168ef",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=56916b83-d5f0-421c-83a1-c70c7ae168ef&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5b7cd03d-8b33-4e74-bfab-cf1cb1a4c204",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=5b7cd03d-8b33-4e74-bfab-cf1cb1a4c204&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1ae8f933-7f61-46e7-b78d-094ffb5123ed",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1ae8f933-7f61-46e7-b78d-094ffb5123ed&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0ddef8ad-ae2c-4891-a5f9-a396db3e0273",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0ddef8ad-ae2c-4891-a5f9-a396db3e0273&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f3825179-8787-4ab2-bb14-7926194b899d",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f3825179-8787-4ab2-bb14-7926194b899d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "65bb6b75-c4d3-4c51-a76f-49b5dcec18ff",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=65bb6b75-c4d3-4c51-a76f-49b5dcec18ff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a57af03-f50f-410b-89bd-01d1fb657886",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：常锐伦&欧京海） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a57af03-f50f-410b-89bd-01d1fb657886&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19b7e078-44f9-4bd8-b9f9-9dc21c09762f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=19b7e078-44f9-4bd8-b9f9-9dc21c09762f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3ba5e647-7c82-4d42-ab59-35270d1d81ac",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3ba5e647-7c82-4d42-ab59-35270d1d81ac&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2d2ec868-3f73-4070-9b3c-f86e8054b5bf",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2d2ec868-3f73-4070-9b3c-f86e8054b5bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "770329fd-fbb7-49fd-84c8-f75dbaf4982a",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=770329fd-fbb7-49fd-84c8-f75dbaf4982a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c8dbf0a6-171e-46b0-befa-436e1044aa24",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c8dbf0a6-171e-46b0-befa-436e1044aa24&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a147dfd-1a08-46c0-995f-693dcef6aab7",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a147dfd-1a08-46c0-995f-693dcef6aab7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ce866206-45c9-45b6-baf7-92185e8ddc56",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ce866206-45c9-45b6-baf7-92185e8ddc56&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0899285d-640f-459a-b658-49e71b547d50",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0899285d-640f-459a-b658-49e71b547d50&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "55e61e2b-eb99-43de-a780-4bed03abb85b",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=55e61e2b-eb99-43de-a780-4bed03abb85b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2d37d745-78dd-46f7-baa8-d49270af31ab",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2d37d745-78dd-46f7-baa8-d49270af31ab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ab4a12b0-7d27-4f4e-832a-e6ac3d062c4e",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ab4a12b0-7d27-4f4e-832a-e6ac3d062c4e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e66767ae-6a6b-4815-b74f-3a512a7b8b1c",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：杨力） > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e66767ae-6a6b-4815-b74f-3a512a7b8b1c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6464d943-ea0f-407a-8408-063d5c90c491",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=6464d943-ea0f-407a-8408-063d5c90c491&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8bab84ce-304a-4292-898c-04f8b7a50487",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8bab84ce-304a-4292-898c-04f8b7a50487&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4064986a-812a-4278-9488-23fb38f40683",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术二年级上册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4064986a-812a-4278-9488-23fb38f40683&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9d531de-b896-4e41-b9a4-ad6213480c12",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a9d531de-b896-4e41-b9a4-ad6213480c12&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4b7d68c3-b6c2-473c-a62c-1dc509fb5f32",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术三年级上册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4b7d68c3-b6c2-473c-a62c-1dc509fb5f32&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cab81cd0-a156-4a17-b22b-398e08266da5",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cab81cd0-a156-4a17-b22b-398e08266da5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9a4f1181-0eb9-42a2-b1ca-29dc792187da",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9a4f1181-0eb9-42a2-b1ca-29dc792187da&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bb72fadc-9cf8-4495-b6f7-b28c9b309d82",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=bb72fadc-9cf8-4495-b6f7-b28c9b309d82&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a1050a3c-e1a9-42da-86d0-58938c79b90d",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=a1050a3c-e1a9-42da-86d0-58938c79b90d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "eed0e16e-c612-44f5-a3c8-04e85758a82b",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=eed0e16e-c612-44f5-a3c8-04e85758a82b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a734827-97a2-44d5-b1c7-d4c6e5727b64",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a734827-97a2-44d5-b1c7-d4c6e5727b64&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "013d0fe4-da11-45eb-8083-7fad2b44e2ba",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 沪教版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=013d0fe4-da11-45eb-8083-7fad2b44e2ba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b5121d9-e27f-4f78-ad1f-e6b236795bad",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 一年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=0b5121d9-e27f-4f78-ad1f-e6b236795bad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c750086b-f9c3-4a52-9130-64b694311ec3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术一年级下册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 一年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c750086b-f9c3-4a52-9130-64b694311ec3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef60b839-a7f2-4c3b-80f4-e8ef20d94a5b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术二年级上册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ef60b839-a7f2-4c3b-80f4-e8ef20d94a5b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c72686cb-ecdd-49f3-8e6c-e3c6aedab976",
+      "title": "义务教育教科书·美术二年级下册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 二年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c72686cb-ecdd-49f3-8e6c-e3c6aedab976&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ae1660d8-5ff8-40bf-9efc-6209ff69633f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•艺术•美术三年级上册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ae1660d8-5ff8-40bf-9efc-6209ff69633f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3890a245-4602-489c-8f4b-c310b6ff535b",
+      "title": "义务教育教科书·美术三年级下册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3890a245-4602-489c-8f4b-c310b6ff535b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c18f3441-3f6a-4338-89cd-ad6cae942012",
+      "title": "义务教育教科书·美术四年级上册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c18f3441-3f6a-4338-89cd-ad6cae942012&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c03aeec0-47a1-47e7-921b-b61cbd0efef4",
+      "title": "义务教育教科书·美术四年级下册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c03aeec0-47a1-47e7-921b-b61cbd0efef4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c9e6e811-3671-4873-805f-ad6fd74db42d",
+      "title": "义务教育教科书·美术五年级上册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c9e6e811-3671-4873-805f-ad6fd74db42d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "181cfc80-7922-43c5-81cc-56fbcb47686a",
+      "title": "义务教育教科书·美术五年级下册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=181cfc80-7922-43c5-81cc-56fbcb47686a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7303b32c-9b9f-404a-8b52-c0ab8a641af4",
+      "title": "义务教育教科书·美术六年级上册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 六年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7303b32c-9b9f-404a-8b52-c0ab8a641af4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "89434855-690a-4635-8af7-721eb68f043a",
+      "title": "义务教育教科书·美术六年级下册",
+      "path": "小学 > 艺术·美术 > 浙人美版 > 六年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=89434855-690a-4635-8af7-721eb68f043a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d9f4ebb4-45b8-90f3-d230-98f38130debb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术二年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：黄宗贤） > 二年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d9f4ebb4-45b8-90f3-d230-98f38130debb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "dc556642-8550-2874-0ee3-95b8581c8b9b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·美术三年级上册",
+      "path": "小学 > 艺术·美术 > 人美版（主编：黄宗贤） > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=dc556642-8550-2874-0ee3-95b8581c8b9b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

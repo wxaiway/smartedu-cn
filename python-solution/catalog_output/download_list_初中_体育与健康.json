@@ -1,0 +1,822 @@
+{
+  "group": "初中_体育与健康",
+  "count": 136,
+  "books": [
+    {
+      "id": "ea329e60-759d-480e-a088-0a7bb20bb234",
+      "title": "义务教育教科书·体育与健康九年级全一册",
+      "path": "初中 > 体育与健康 > 地质社版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ea329e60-759d-480e-a088-0a7bb20bb234&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "00e1c09c-c8aa-49c4-8b27-838b4a02f455",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·体育与健康八年级全一册",
+      "path": "初中 > 体育与健康 > 冀教版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=00e1c09c-c8aa-49c4-8b27-838b4a02f455&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68fcb5f4-4143-41a0-9072-2d27f63b3d17",
+      "title": "义务教育教科书·体育与健康九年级全一册",
+      "path": "初中 > 体育与健康 > 冀教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=68fcb5f4-4143-41a0-9072-2d27f63b3d17&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "13382452-80d9-4376-a7ee-d799113c0ba3",
+      "title": "义务教育教科书·体育与健康九年级全一册",
+      "path": "初中 > 体育与健康 > 华东师大版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=13382452-80d9-4376-a7ee-d799113c0ba3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c69f01a4-4ecb-4efa-beec-02cbf1fef9e7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·体育与健康七年级全一册",
+      "path": "初中 > 体育与健康 > 华中师大版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c69f01a4-4ecb-4efa-beec-02cbf1fef9e7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "efbc9534-f1ec-4c16-82d5-523084db1606",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·体育与健康八年级全一册",
+      "path": "初中 > 体育与健康 > 华中师大版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=efbc9534-f1ec-4c16-82d5-523084db1606&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9bcac874-1de4-4dd6-93e5-6d6a49ea1ed7",
+      "title": "义务教育教科书·体育与健康九年级全一册",
+      "path": "初中 > 体育与健康 > 华中师大版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=9bcac874-1de4-4dd6-93e5-6d6a49ea1ed7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cd99ced1-4304-466a-aeea-6f40b98b5333",
+      "title": "义务教育教科书·体育与健康九年级全一册",
+      "path": "初中 > 体育与健康 > 教科版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=cd99ced1-4304-466a-aeea-6f40b98b5333&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1a30b6f7-1dbe-46ba-aae8-509fb22a61b2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=1a30b6f7-1dbe-46ba-aae8-509fb22a61b2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "792cd6dd-5d2c-4f77-9a8e-017e15fefa0b",
+      "title": "义务教育教科书·体育与健康九年级全一册",
+      "path": "初中 > 体育与健康 > 人教版 > 九年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=792cd6dd-5d2c-4f77-9a8e-017e15fefa0b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "46ff9ee1-db07-14e7-a18c-32fc6518edc4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=46ff9ee1-db07-14e7-a18c-32fc6518edc4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0b8c8502-0804-167b-1eab-bd5f664567c4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=0b8c8502-0804-167b-1eab-bd5f664567c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6bc4356e-8fe2-9c7b-cead-996666670231",
+      "title": "（根据2022年版课程标准修订）义务教育教科书体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=6bc4356e-8fe2-9c7b-cead-996666670231&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "737a4bb8-8070-eefa-0d72-d0360c83d89e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=737a4bb8-8070-eefa-0d72-d0360c83d89e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "19a1f61d-d967-6900-4725-16306fdf8055",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=19a1f61d-d967-6900-4725-16306fdf8055&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "38b51a00-5606-bce7-6402-6e9c0c47cb4a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=38b51a00-5606-bce7-6402-6e9c0c47cb4a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "684d347b-9a62-ff60-b54c-54be9c79c0b8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=684d347b-9a62-ff60-b54c-54be9c79c0b8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef4276f4-8897-31e5-cd9b-044ad3b465d0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 排球（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 排球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=ef4276f4-8897-31e5-cd9b-044ad3b465d0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "163f15a5-c1bd-4bbc-b6ce-8baeb7484b88",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 游泳（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=163f15a5-c1bd-4bbc-b6ce-8baeb7484b88&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "24fc14b1-d397-f2f4-bb71-c4128505c9e2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=24fc14b1-d397-f2f4-bb71-c4128505c9e2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "0d3afded-2a12-6a9b-0740-6e1e0e963517",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 足球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=0d3afded-2a12-6a9b-0740-6e1e0e963517&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2921333-fc2a-18e5-9e36-73bf001f0dd9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 中华传统体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 中华传统体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=f2921333-fc2a-18e5-9e36-73bf001f0dd9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ffaa4e91-0293-87f4-2925-38049e632939",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 乒乓球运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 乒乓球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=ffaa4e91-0293-87f4-2925-38049e632939&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "79e9f7d0-5aba-97b4-d8bc-94e270e468f5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=79e9f7d0-5aba-97b4-d8bc-94e270e468f5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "85c3ea42-ee0b-7c31-33fe-0c79297330cf",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=85c3ea42-ee0b-7c31-33fe-0c79297330cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a455ef38-d382-aa5b-07aa-f3c52b9fdc8c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 排球运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 排球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a455ef38-d382-aa5b-07aa-f3c52b9fdc8c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "840b8425-d18d-567b-e886-812c438ac26e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 花样跳绳•轮滑（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 花样跳绳•轮滑（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=840b8425-d18d-567b-e886-812c438ac26e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "843a9edf-387d-dd88-db3a-117924601040",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=843a9edf-387d-dd88-db3a-117924601040&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "efbe0d24-77a0-704e-aae5-ee482e4ceeff",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 定向运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 定向运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=efbe0d24-77a0-704e-aae5-ee482e4ceeff&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5c5ae9e1-4287-8a84-1484-96314bf813c3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 游泳（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=5c5ae9e1-4287-8a84-1484-96314bf813c3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a6e1d2b6-beea-92a5-5010-f92f1ea23a69",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a6e1d2b6-beea-92a5-5010-f92f1ea23a69&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b38118a0-7c1b-51ca-8779-52f5cc25678f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 篮球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=b38118a0-7c1b-51ca-8779-52f5cc25678f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d90f86bf-3f37-7e01-0623-59cd9b3ffc72",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球运动（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 足球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=d90f86bf-3f37-7e01-0623-59cd9b3ffc72&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2429d26f-32f1-8402-162e-854b11ce2950",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 速度滑冰•高山滑雪（全一册）",
+      "path": "初中 > 体育与健康 > 冀教版 > 教师用书 > 速度滑冰•高山滑雪（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=2429d26f-32f1-8402-162e-854b11ce2950&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9902d366-16f2-bc9b-eefb-f1b494f16170",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  中华传统体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 中华传统体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=9902d366-16f2-bc9b-eefb-f1b494f16170&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fd93a5c7-0137-d442-43b9-60e16e80ddc5",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  乒乓球运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 乒乓球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=fd93a5c7-0137-d442-43b9-60e16e80ddc5&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "47bbc299-7935-ce54-3abe-b28be694ceb2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  技巧与器械体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 技巧与器械体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=47bbc299-7935-ce54-3abe-b28be694ceb2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a38795a6-c246-f050-3001-03c1fb57a5a7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a38795a6-c246-f050-3001-03c1fb57a5a7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "91bdc3d5-9e0a-33a6-8416-267b484d5146",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=91bdc3d5-9e0a-33a6-8416-267b484d5146&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "348e8bea-8f38-df6a-3c0e-8bc14aa7a07d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=348e8bea-8f38-df6a-3c0e-8bc14aa7a07d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "49b0d785-e232-6d59-a198-0b30635b02ad",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=49b0d785-e232-6d59-a198-0b30635b02ad&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7b5a1c68-2a2a-86f3-b612-aa3bb32ebc07",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 排球运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 排球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=7b5a1c68-2a2a-86f3-b612-aa3bb32ebc07&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a9ec5667-4519-d654-52ba-587a5e140ad1",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳•滑冰•滑雪（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 游泳•滑冰•滑雪（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a9ec5667-4519-d654-52ba-587a5e140ad1&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b4e31cf2-bcd4-457d-8c9a-1be4f619e713",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 篮球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=b4e31cf2-bcd4-457d-8c9a-1be4f619e713&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "11cc13b2-67c4-a551-a94b-5bc87dd01d1e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 羽毛球运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 羽毛球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=11cc13b2-67c4-a551-a94b-5bc87dd01d1e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "25df36f9-2873-d2bb-4bec-b9f8e212a195",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 艺术性体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 艺术性体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=25df36f9-2873-d2bb-4bec-b9f8e212a195&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5ff539da-099a-108e-3fde-113c104e3677",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球运动（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 教师用书 > 足球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=5ff539da-099a-108e-3fde-113c104e3677&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cb5db799-2b94-6a11-b4ec-adbbde441d22",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=cb5db799-2b94-6a11-b4ec-adbbde441d22&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cd016782-a746-5db8-163c-5a92a63f7d3c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 武术类运动（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 武术类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=cd016782-a746-5db8-163c-5a92a63f7d3c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "44f37976-5823-af16-b47d-fd57fc394d4d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 民族民间传统体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 民族民间传统体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=44f37976-5823-af16-b47d-fd57fc394d4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "57725abd-be15-3954-6900-3b63b68a9d01",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 冰雪类运动（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 冰雪类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=57725abd-be15-3954-6900-3b63b68a9d01&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d0d1ecf-4a3e-b37c-4de6-16055fb5c6af",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 乒乓球•羽毛球•网球（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 乒乓球•羽毛球•网球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=4d0d1ecf-4a3e-b37c-4de6-16055fb5c6af&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d0cd8167-5bb7-3b7f-9c3d-6783bc173622",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=d0cd8167-5bb7-3b7f-9c3d-6783bc173622&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2bf98ee2-31f4-a594-6bb3-b9451d1cc378",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 中华传统体育项目（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 中华传统体育项目（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=2bf98ee2-31f4-a594-6bb3-b9451d1cc378&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "04f6d9f4-9861-b92f-1afe-f87fcbb63a4d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 乒乓球运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 乒乓球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=04f6d9f4-9861-b92f-1afe-f87fcbb63a4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d007e00-23ba-7e51-520c-818fbc755907",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体操运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 体操运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=4d007e00-23ba-7e51-520c-818fbc755907&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6db87ea-b440-9367-50a2-aad3c3175c01",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=c6db87ea-b440-9367-50a2-aad3c3175c01&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "38edc4e8-c5af-906d-7954-edb74d0583e2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=38edc4e8-c5af-906d-7954-edb74d0583e2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "381f3e1a-b712-7264-872e-ed52fd4da5eb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 排球运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 排球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=381f3e1a-b712-7264-872e-ed52fd4da5eb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cd69f6d5-ac16-de67-8a40-d2e25c5187e4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=cd69f6d5-ac16-de67-8a40-d2e25c5187e4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "893d8c8b-41b6-72d2-f5f3-1c39153d068d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳•滑冰•滑雪（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 游泳•滑冰•滑雪（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=893d8c8b-41b6-72d2-f5f3-1c39153d068d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4c42bf57-f491-84d1-9fa9-55dda33b628b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=4c42bf57-f491-84d1-9fa9-55dda33b628b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c5fcc805-ecb4-6836-8562-a0f699fb20bf",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 篮球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=c5fcc805-ecb4-6836-8562-a0f699fb20bf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3c19c5bd-2569-1165-f537-1b0f0f22ae02",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 羽毛球运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 羽毛球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=3c19c5bd-2569-1165-f537-1b0f0f22ae02&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "811fd8a4-d172-a30f-4cfc-94fc6cb9970e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球运动（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 教师用书 > 足球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=811fd8a4-d172-a30f-4cfc-94fc6cb9970e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "913f8c91-9964-b329-7c66-ec1aa1034854",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 乒乓球（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 乒乓球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=913f8c91-9964-b329-7c66-ec1aa1034854&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f8e8237b-f653-f529-ebab-e43b6d1592dd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体操（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 体操（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=f8e8237b-f653-f529-ebab-e43b6d1592dd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a0a7785d-14de-c98d-3a9d-dafc8d33f68c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a0a7785d-14de-c98d-3a9d-dafc8d33f68c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "359ea6b7-8dbd-74c8-5702-3079bf4a06e2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=359ea6b7-8dbd-74c8-5702-3079bf4a06e2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "adb9f8b0-7072-589a-587d-f8b65a54e17b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 排球（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 排球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=adb9f8b0-7072-589a-587d-f8b65a54e17b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e0ed0451-3a93-728d-7bbd-d917ac307dcf",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=e0ed0451-3a93-728d-7bbd-d917ac307dcf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "492f190a-6ae8-fbbf-e866-de60e97941e4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 武术（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 武术（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=492f190a-6ae8-fbbf-e866-de60e97941e4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b611eb6d-1b25-29aa-dd1c-7c033643364c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 民族民间传统体育（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 民族民间传统体育（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=b611eb6d-1b25-29aa-dd1c-7c033643364c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "306668fe-068b-976e-eb3d-53829edbd045",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳▪滑冰▪滑雪▪冰球（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 游泳▪滑冰▪滑雪▪冰球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=306668fe-068b-976e-eb3d-53829edbd045&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b2fd4d29-0415-7087-0ad0-97e2d4b6a642",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 田径（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 田径（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=b2fd4d29-0415-7087-0ad0-97e2d4b6a642&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4d9a86c5-3a7d-094a-5d1b-408d82e633e0",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 篮球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=4d9a86c5-3a7d-094a-5d1b-408d82e633e0&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "178735b9-c1f1-cb3f-7b26-f4de3bd4ac63",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 羽毛球•网球（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 羽毛球•网球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=178735b9-c1f1-cb3f-7b26-f4de3bd4ac63&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bb60be15-9356-1c9c-4257-2b140325b4e8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 教师用书 > 足球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=bb60be15-9356-1c9c-4257-2b140325b4e8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "56a05e92-df79-cbc8-a743-ed5866fe3620",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 中华传统体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 中华传统体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=56a05e92-df79-cbc8-a743-ed5866fe3620&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "184d2f5b-3e60-2acb-9317-b3296ac93542",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 乒乓球运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 乒乓球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=184d2f5b-3e60-2acb-9317-b3296ac93542&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7d497027-f484-05e6-ae30-c53cd5b884bb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=7d497027-f484-05e6-ae30-c53cd5b884bb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2d7389cf-8a3d-b727-6903-0409de027830",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=2d7389cf-8a3d-b727-6903-0409de027830&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "be94b7d7-dfb0-ad61-e594-32e37828f7a8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 冰雪类运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 冰雪类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=be94b7d7-dfb0-ad61-e594-32e37828f7a8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3c0f0ee6-ada9-3334-bc49-43b7530669ea",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=3c0f0ee6-ada9-3334-bc49-43b7530669ea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9fcc5fe5-c626-8174-1f42-99163a414278",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 排球运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 排球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=9fcc5fe5-c626-8174-1f42-99163a414278&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "83937a7e-bc46-d1f1-7eba-231a3bc2ae06",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=83937a7e-bc46-d1f1-7eba-231a3bc2ae06&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9226f4c0-0850-9494-c50d-e134f3a206c4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 游泳运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=9226f4c0-0850-9494-c50d-e134f3a206c4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7517c1a5-5bba-0cec-8245-f76ca548b0ca",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=7517c1a5-5bba-0cec-8245-f76ca548b0ca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8ecbc177-5a76-ceed-f8d0-6c3fd5a341ba",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 篮球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=8ecbc177-5a76-ceed-f8d0-6c3fd5a341ba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a4035298-87ef-c240-50a9-9765f693794a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 羽毛球运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 羽毛球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a4035298-87ef-c240-50a9-9765f693794a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "cab8fd2b-f85b-b0d4-73e3-542119dc1e4b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球运动（全一册）",
+      "path": "初中 > 体育与健康 > 人教版 > 教师用书 > 足球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=cab8fd2b-f85b-b0d4-73e3-542119dc1e4b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bcc5fdea-2c73-b977-791e-d7da65ced926",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=bcc5fdea-2c73-b977-791e-d7da65ced926&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ef3454da-625c-95a5-10e5-b1c7d0182850",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 健美操•技巧•啦啦操（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 健美操•技巧•啦啦操（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=ef3454da-625c-95a5-10e5-b1c7d0182850&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3e4b5dfa-814e-6cfd-1a8c-9a465551e2fd",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 剑术•短棍（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 剑术•短棍（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=3e4b5dfa-814e-6cfd-1a8c-9a465551e2fd&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3c8eff66-b375-1d38-b106-abfed1c371b4",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=3c8eff66-b375-1d38-b106-abfed1c371b4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5247ae8f-d18c-0a79-3c93-958fd3e6405d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 游泳•速度滑冰（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 游泳•速度滑冰（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=5247ae8f-d18c-0a79-3c93-958fd3e6405d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8dbc2d28-76ad-32aa-56f8-24549e29fa77",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=8dbc2d28-76ad-32aa-56f8-24549e29fa77&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d795074b-36d1-b8bb-a5cf-9104a3a88bfb",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球•乒乓球•羽毛球（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 篮球•乒乓球•羽毛球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=d795074b-36d1-b8bb-a5cf-9104a3a88bfb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e9e64bbc-6e78-f811-ad05-35cd167e39d9",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 花样跳绳•轮滑（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 花样跳绳•轮滑（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=e9e64bbc-6e78-f811-ad05-35cd167e39d9&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ebff3a45-1a39-01a7-f92b-3237a41d0ac2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 足球•排球（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 足球•排球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=ebff3a45-1a39-01a7-f92b-3237a41d0ac2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3f610b58-b82d-399a-17f1-7d2ba1e2fb56",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 长拳•毽球（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 教师用书 > 长拳•毽球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=3f610b58-b82d-399a-17f1-7d2ba1e2fb56&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "92fb3fbd-8bd9-d15a-12cb-a41de64352a6",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=92fb3fbd-8bd9-d15a-12cb-a41de64352a6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e17df7a6-8764-584f-24b7-440ee03e6134",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  体能（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=e17df7a6-8764-584f-24b7-440ee03e6134&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b674ae1a-b811-b740-f748-3cfc445c743f",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  足球（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 足球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=b674ae1a-b811-b740-f748-3cfc445c743f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6197a8fb-ebc3-4cf4-f9ca-8e22a72dc7f8",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  篮球（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 篮球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=6197a8fb-ebc3-4cf4-f9ca-8e22a72dc7f8&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ed497e1c-6ff4-cf71-fb31-363f79be6fca",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  排球（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 排球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=ed497e1c-6ff4-cf71-fb31-363f79be6fca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "09d73d7e-667f-583d-df04-15baba7bd740",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  羽毛球（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 羽毛球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=09d73d7e-667f-583d-df04-15baba7bd740&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "854e8457-a4d1-9667-8d75-5a655de0e322",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  乒乓球（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 乒乓球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=854e8457-a4d1-9667-8d75-5a655de0e322&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6910d9a4-2a18-81de-903c-bcab633ab04b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=6910d9a4-2a18-81de-903c-bcab633ab04b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "79769965-ae7d-3478-db5c-34ce3f79f435",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=79769965-ae7d-3478-db5c-34ce3f79f435&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "68010ec2-6123-6c09-c661-462dfcb17aab",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  游泳（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 游泳（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=68010ec2-6123-6c09-c661-462dfcb17aab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "55564898-6003-fed7-a09b-96c2988bdb4c",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  中华传统体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 中华传统体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=55564898-6003-fed7-a09b-96c2988bdb4c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "902ebaf1-d481-e6cd-7f51-c35a952b1c22",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书  新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华中师大版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=902ebaf1-d481-e6cd-7f51-c35a952b1c22&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f030263b-fd3b-e6db-30d8-b723613a3d02",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=f030263b-fd3b-e6db-30d8-b723613a3d02&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "fda8aaf5-9055-4080-8d72-b7e52a616a9a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 中华传统体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 中华传统体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=fda8aaf5-9055-4080-8d72-b7e52a616a9a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1aee86ec-4da3-34fc-492c-728a1c27aa8d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 乒乓球运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 乒乓球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=1aee86ec-4da3-34fc-492c-728a1c27aa8d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "a03ae2c1-2072-d01d-3b13-6ef0c306ea40",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 体操类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 体操类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=a03ae2c1-2072-d01d-3b13-6ef0c306ea40&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "30e09171-36d7-2840-e19e-e3bef2d03cbe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 体能（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 体能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=30e09171-36d7-2840-e19e-e3bef2d03cbe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "78fb8a59-f432-d40b-2acb-c380b1e7d64b",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 冰雪类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 冰雪类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=78fb8a59-f432-d40b-2acb-c380b1e7d64b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c6f3e788-7ea8-97f4-d315-2c9b7e209e55",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 基本运动技能（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 基本运动技能（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=c6f3e788-7ea8-97f4-d315-2c9b7e209e55&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2bbb5e3c-fedc-03d4-9993-a93c4f5320fe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 排球运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 排球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=2bbb5e3c-fedc-03d4-9993-a93c4f5320fe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5515032e-b91a-6ba2-45d0-1b8898e6baaa",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 新兴体育类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 新兴体育类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=5515032e-b91a-6ba2-45d0-1b8898e6baaa&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "065d234c-04b4-8b35-3eee-d302e5d31579",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 游泳运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 游泳运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=065d234c-04b4-8b35-3eee-d302e5d31579&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4eeab30e-bd9a-8124-3b1e-8648ffa148d7",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 田径类运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 田径类运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=4eeab30e-bd9a-8124-3b1e-8648ffa148d7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "6fc41753-9716-4543-bead-cf0f44c4fd39",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 篮球运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 篮球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=6fc41753-9716-4543-bead-cf0f44c4fd39&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "bbf2b158-1408-0b56-794e-53adf7986828",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 羽毛球运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 羽毛球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=bbf2b158-1408-0b56-794e-53adf7986828&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "884359ca-10cf-25a0-4f69-24eea4f3c192",
+      "title": "（根据2022年版课程标准修订）义务教育教科书• 体育与健康教师用书 足球运动（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 教师用书 > 足球运动（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=884359ca-10cf-25a0-4f69-24eea4f3c192&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e2880a90-fad1-8b6f-c1b2-bd503cc28d5d",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康教师用书 篮球（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 教师用书 > 篮球（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=e2880a90-fad1-8b6f-c1b2-bd503cc28d5d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7e770aa1-814d-0ea2-6cfb-80dc53499175",
+      "title": "（根据2022年版课程标准修订）义务教育教科书·体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 七年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=7e770aa1-814d-0ea2-6cfb-80dc53499175&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "51d1209c-0abf-16cd-d513-bf9f45530954",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=51d1209c-0abf-16cd-d513-bf9f45530954&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "554b9679-ab47-2dd9-49dd-0f21d326c61a",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 七年级（全一册）",
+      "path": "初中 > 体育与健康 > 地质社版 > 学生用书 > 七年级（全一册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=554b9679-ab47-2dd9-49dd-0f21d326c61a&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "64ae3fe2-3076-7435-a132-26dcfcf653fe",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 华东师大版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=64ae3fe2-3076-7435-a132-26dcfcf653fe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "1629479b-dfe7-8052-80d9-84ad8304c15e",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 科学社版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=1629479b-dfe7-8052-80d9-84ad8304c15e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d747436b-30eb-cdc9-83ab-c90141bea2e3",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 未来社版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=d747436b-30eb-cdc9-83ab-c90141bea2e3&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "5bbcebcf-1196-b044-dc26-9d27a50832de",
+      "title": "（根据2022年版课程标准修订）义务教育教科书•体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 教科版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=5bbcebcf-1196-b044-dc26-9d27a50832de&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7871fd31-473e-cc49-1dcb-870de4f52ab2",
+      "title": "（根据2022年版课程标准修订）义务教育教科书体育与健康 八年级（全一册）",
+      "path": "初中 > 体育与健康 > 北京版 > 八年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=7871fd31-473e-cc49-1dcb-870de4f52ab2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

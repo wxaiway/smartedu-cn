@@ -1,0 +1,24 @@
+{
+  "group": "高中_德语",
+  "count": 3,
+  "books": [
+    {
+      "id": "3977102d-b9e5-ec20-aeb6-e806ad5fa6f2",
+      "title": "普通中学教科书·德语 必修 G1",
+      "path": "高中 > 德语 > 外研社版 > 高一年级 > G1",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3977102d-b9e5-ec20-aeb6-e806ad5fa6f2&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f0776cc1-a7c4-eb3e-ddeb-48a2b0b7624c",
+      "title": "普通中学教科书·德语 必修 G2",
+      "path": "高中 > 德语 > 外研社版 > 高一年级 > G2",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f0776cc1-a7c4-eb3e-ddeb-48a2b0b7624c&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "949f1d42-db4d-8e97-6f01-d8dd2c0ea053",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·德语 必修 G3",
+      "path": "高中 > 德语 > 外研社版 > 高二年级 > G3",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=949f1d42-db4d-8e97-6f01-d8dd2c0ea053&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group": "高中_日语",
+  "count": 5,
+  "books": [
+    {
+      "id": "c71014f5-3bf1-47e2-b9db-d70b79f2b33d",
+      "title": "普通高中教科书·日语必修 第一册",
+      "path": "高中 > 日语 > 人教版 > 高中年级 > 必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c71014f5-3bf1-47e2-b9db-d70b79f2b33d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4e1aa546-1a1c-4ec5-81be-7c293ea0f1cf",
+      "title": "普通高中教科书·日语必修 第二册",
+      "path": "高中 > 日语 > 人教版 > 高中年级 > 必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4e1aa546-1a1c-4ec5-81be-7c293ea0f1cf&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "c0bdc3f4-f189-4491-8f0a-2bdc1a067be7",
+      "title": "普通高中教科书·日语必修 第三册",
+      "path": "高中 > 日语 > 人教版 > 高中年级 > 必修 第三册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=c0bdc3f4-f189-4491-8f0a-2bdc1a067be7&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f63149dd-0d2b-462f-b23d-fa6f9ec68b55",
+      "title": "普通高中教科书·日语选择性必修 第一册",
+      "path": "高中 > 日语 > 人教版 > 高中年级 > 选择性必修 第一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f63149dd-0d2b-462f-b23d-fa6f9ec68b55&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2c9f3a96-3ece-49f7-a2c4-b389337a1deb",
+      "title": "普通高中教科书·日语选择性必修 第二册",
+      "path": "高中 > 日语 > 人教版 > 高中年级 > 选择性必修 第二册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2c9f3a96-3ece-49f7-a2c4-b389337a1deb&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "group": "小学_信息科技",
+  "count": 4,
+  "books": [
+    {
+      "id": "49a4c813-aff1-d54d-bb2a-159702e17437",
+      "title": "义务教育信息科技课程教学指南 在线学习与生活 三年级全一册",
+      "path": "小学 > 信息科技 > 三年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=49a4c813-aff1-d54d-bb2a-159702e17437&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "9cdc503a-f4d8-b2ec-9190-7ec56268b89f",
+      "title": "义务教育信息科技课程教学指南 数据与编码 四年级全一册",
+      "path": "小学 > 信息科技 > 四年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=9cdc503a-f4d8-b2ec-9190-7ec56268b89f&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4830d3da-e4cb-4538-74b5-2ecf95cde234",
+      "title": "义务教育信息科技课程教学指南 身边的算法 五年级全一册",
+      "path": "小学 > 信息科技 > 五年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=4830d3da-e4cb-4538-74b5-2ecf95cde234&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ea7eb390-04e7-bf88-21ea-899ad3ac0422",
+      "title": "义务教育信息科技课程教学指南 过程与控制 六年级全一册",
+      "path": "小学 > 信息科技 > 六年级 > 全一册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=thematic_course&contentId=ea7eb390-04e7-bf88-21ea-899ad3ac0422&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "group": "高中_历史",
+  "count": 5,
+  "books": [
+    {
+      "id": "aadd94cd-2d05-4716-aa25-dab70c9fc7a4",
+      "title": "普通高中教科书·历史必修 中外历史纲要（上）",
+      "path": "高中 > 历史 > 统编版 > 高中年级 > 必修 中外历史纲要（上）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=aadd94cd-2d05-4716-aa25-dab70c9fc7a4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "ec47ff37-71bf-4a88-b4da-f934d0cc40ea",
+      "title": "普通高中教科书·历史必修 中外历史纲要（下）",
+      "path": "高中 > 历史 > 统编版 > 高中年级 > 必修 中外历史纲要（下）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=ec47ff37-71bf-4a88-b4da-f934d0cc40ea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "7786158e-01d7-4544-a358-5759664c78ea",
+      "title": "普通高中教科书·历史选择性必修1 国家制度与社会治理",
+      "path": "高中 > 历史 > 统编版 > 高中年级 > 选择性必修1 国家制度与社会治理",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=7786158e-01d7-4544-a358-5759664c78ea&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "183e709c-5a7f-44b9-a633-51eb0cd81f0b",
+      "title": "普通高中教科书·历史选择性必修2 经济与社会生活",
+      "path": "高中 > 历史 > 统编版 > 高中年级 > 选择性必修2 经济与社会生活",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=183e709c-5a7f-44b9-a633-51eb0cd81f0b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "f2442c65-9148-47ee-9d57-37e6f801fdb4",
+      "title": "普通高中教科书·历史选择性必修3 文化交流与传播",
+      "path": "高中 > 历史 > 统编版 > 高中年级 > 选择性必修3 文化交流与传播",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=f2442c65-9148-47ee-9d57-37e6f801fdb4&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

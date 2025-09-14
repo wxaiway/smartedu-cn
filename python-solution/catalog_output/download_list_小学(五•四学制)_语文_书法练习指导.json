@@ -1,0 +1,42 @@
+{
+  "group": "小学（五•四学制）_语文_书法练习指导",
+  "count": 6,
+  "books": [
+    {
+      "id": "00e1144b-daab-4ed8-a178-0f75bce58dd6",
+      "title": "义务教育三至五年级（五•四学制）·书法练习指导（实验）三年级上册",
+      "path": "小学（五•四学制） > 语文·书法练习指导 > 青岛版 > 三年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=00e1144b-daab-4ed8-a178-0f75bce58dd6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e9d7dc4e-b227-430f-8618-3c2dddc3bd53",
+      "title": "义务教育三至五年级（五•四学制）·书法练习指导（实验）三年级下册",
+      "path": "小学（五•四学制） > 语文·书法练习指导 > 青岛版 > 三年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e9d7dc4e-b227-430f-8618-3c2dddc3bd53&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "4c20b809-f669-40ae-a2df-958048ab4a14",
+      "title": "义务教育三至五年级（五•四学制）·书法练习指导（实验）四年级上册",
+      "path": "小学（五•四学制） > 语文·书法练习指导 > 青岛版 > 四年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=4c20b809-f669-40ae-a2df-958048ab4a14&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "3471c0fe-3077-4336-9b35-2109d2cba90e",
+      "title": "义务教育三至五年级（五•四学制）·书法练习指导（实验）四年级下册",
+      "path": "小学（五•四学制） > 语文·书法练习指导 > 青岛版 > 四年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=3471c0fe-3077-4336-9b35-2109d2cba90e&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "e7a7fd71-272f-4ad0-83a7-43f85476cefe",
+      "title": "义务教育三至五年级（五•四学制）·书法练习指导（实验）五年级上册",
+      "path": "小学（五•四学制） > 语文·书法练习指导 > 青岛版 > 五年级 > 上册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=e7a7fd71-272f-4ad0-83a7-43f85476cefe&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "737dbe85-f3b7-4fbb-a749-e02edb77cb4d",
+      "title": "义务教育三至五年级（五•四学制）·书法练习指导（实验）五年级下册",
+      "path": "小学（五•四学制） > 语文·书法练习指导 > 青岛版 > 五年级 > 下册",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=737dbe85-f3b7-4fbb-a749-e02edb77cb4d&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}

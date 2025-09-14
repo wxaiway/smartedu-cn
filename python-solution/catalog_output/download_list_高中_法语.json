@@ -1,0 +1,42 @@
+{
+  "group": "高中_法语",
+  "count": 6,
+  "books": [
+    {
+      "id": "398efe70-c372-7e38-f8f6-56c560b0b924",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·法语 必修III上册",
+      "path": "高中 > 法语 > 沪外教版 > 高一年级 > 法语III（上册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=398efe70-c372-7e38-f8f6-56c560b0b924&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "8f07191f-d153-56b3-cd68-fa9a5804c9ba",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·法语 必修III上册",
+      "path": "高中 > 法语 > 外研社版 > 高一年级 > 法语III（上册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=8f07191f-d153-56b3-cd68-fa9a5804c9ba&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "b2463a54-97b8-dfe4-91ca-986d10303eab",
+      "title": "普通中学教科书·法语 必修III下册",
+      "path": "高中 > 法语 > 外研社版 > 高一年级 > 法语III（下册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=b2463a54-97b8-dfe4-91ca-986d10303eab&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "2a34b406-c735-3f08-52d7-0c8c201a6aca",
+      "title": "普通中学教科书·法语 III下册",
+      "path": "高中 > 法语 > 沪外教版 > 高一年级 > 法语III（下册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=2a34b406-c735-3f08-52d7-0c8c201a6aca&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "d9ec0279-28f1-7bea-c5e9-3bb491f84fe6",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·法语 法语IV（上册）",
+      "path": "高中 > 法语 > 外研社版 > 高二年级 > 法语IV（上册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=d9ec0279-28f1-7bea-c5e9-3bb491f84fe6&catalogType=tchMaterial&subCatalog=tchMaterial"
+    },
+    {
+      "id": "723b8d96-1983-9d0d-7239-f4eeee210d3b",
+      "title": "（根据2022年版课程标准修订）普通中学教科书·法语IV上册",
+      "path": "高中 > 法语 > 沪外教版 > 高二年级 > 法语IV（上册）",
+      "url": "https://basic.smartedu.cn/tchMaterial/detail?contentType=assets_document&contentId=723b8d96-1983-9d0d-7239-f4eeee210d3b&catalogType=tchMaterial&subCatalog=tchMaterial"
+    }
+  ]
+}
